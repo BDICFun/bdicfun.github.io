@@ -1,5 +1,32 @@
 [
   {
+    "title": "天降我在天地间，总有故事后人听｜告别刘欢",
+    "summary": "本文通过回顾刘欢从非科班出身的法语文学学生到国民级音乐家的历程，剖析其以“教师”身份自居、在重大历史时刻以声音完成公共叙事的独特价值，以及他对原创音乐的坚守与提携。",
+    "url": "https://www.bestblogs.dev/article/d9e44c57e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新周刊",
+    "topic": "生活文化",
+    "date": "2026-09-26",
+    "badge": "featured"
+  },
+  {
+    "title": "7 万吨铁矿船，载不动务工梦：18 名中国船员失联印度洋",
+    "summary": "本文深度调查了“海洋赢家”号散货船在印度洋沉没致 18 名中国船员失联事件，揭示了老旧船舶挂“方便旗”、铁矿粉液化风险及海员权益保障缺失背后的系统性安全隐患。",
+    "url": "https://www.bestblogs.dev/article/ad90e56502?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方周末",
+    "topic": "媒体资讯",
+    "date": "2026-09-25",
+    "badge": "featured"
+  },
+  {
+    "title": "找不到家的人，没有中秋",
+    "summary": "本文通过回顾抖音寻人十年间帮助阿尔茨海默症老人、聋哑流浪者、被拐妇女及赴台老兵等群体回家的真实案例，揭示了精准地域推送技术如何与志愿者经验互补，将科技转化为重塑家庭团圆与社会连接的基础设施。",
+    "url": "https://www.bestblogs.dev/article/7a31b4acfc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-09-25",
+    "badge": "featured"
+  },
+  {
     "title": "尿酸危机，席卷中国",
     "summary": "文章深度解析了中国高尿酸血症患病率激增及地区差异的成因，指出遗传、现代饮食（尤其是果糖与海鲜）、生活方式改变及演化错配共同导致了这一仅次于糖尿病的第二大代谢危机。",
     "url": "https://www.bestblogs.dev/article/d1014905bd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -42,33 +69,6 @@
     "source": "BestBlogs / 阿里技术",
     "topic": "人工智能",
     "date": "2026-09-24",
-    "badge": "featured"
-  },
-  {
-    "title": "离婚换房？共有产权房退出困局",
-    "summary": "本文揭示了北京等城市共有产权房在持有满五年后，因交易平台缺失、回购资金压力及房价下行导致退出机制失效，迫使部分业主通过「假离婚」等极端手段寻求换房的制度困局。",
-    "url": "https://www.bestblogs.dev/article/142ec576ef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-09-24",
-    "badge": "featured"
-  },
-  {
-    "title": "JEV：一个不会写代码的模型，为什么拿下 4000 万美元？",
-    "summary": "本文深度解析了 TypeSafe AI 推出的 JEV 模型，探讨其如何通过将「判断」从「生成」中解耦，构建一个低延迟、概率可校准的 System 1 模型，从而优化 AI 系统的整体架构。",
-    "url": "https://www.bestblogs.dev/article/6694786bc0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-09-24",
-    "badge": "model"
-  },
-  {
-    "title": "拉开中国汽车整合大幕的，将是海外新增的那 “1000 万辆车”",
-    "summary": "通过分析一汽与广汽的合资资产重组，揭示中国汽车行业在地方利益、产能过剩与出海目标三重约束下的整合逻辑，指出国有车企在承担国内竞争成本以换取民营车企全球竞争力的深层职能分工。",
-    "url": "https://www.bestblogs.dev/article/c0d62939c5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-09-23",
     "badge": "featured"
   }
 ]
