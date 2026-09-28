@@ -1,5 +1,32 @@
 [
   {
+    "title": "负债 600 万的家庭，被一场“诚信听证会”托住",
+    "summary": "本文通过记录浙江天台法院一场针对负债 600 万家庭的“诚信听证会”，深度剖析了个人债务清理制度如何在法律空白地带，通过引入社会代表评估债务人诚信度，平衡债权人利益与债务人重生权利。",
+    "url": "https://www.bestblogs.dev/article/8f435afac0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 凤凰网",
+    "topic": "媒体资讯",
+    "date": "2026-09-27",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 都替我写完了，我还要不要思考？",
+    "summary": "本文深入辨析了 AI 参与“形成文字”与“代写”的本质界限，指出关键在于人的判断是否在场，并提出了四种正当的 AI 协作模式及潜在风险。",
+    "url": "https://www.bestblogs.dev/article/286c82a0be?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新京报书评周刊",
+    "topic": "人工智能",
+    "date": "2026-09-27",
+    "badge": "featured"
+  },
+  {
+    "title": "争论千年的悬案：杨贵妃吃的荔枝，到底是从哪儿运来的？",
+    "summary": "本文通过考古调查与历史文献互证，探讨杨贵妃荔枝产地之争及荔枝道演变，揭示道路从国家意志下的短暂驿路转化为民间商路的深层逻辑。",
+    "url": "https://www.bestblogs.dev/article/9b8a5fafb7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-09-26",
+    "badge": "featured"
+  },
+  {
     "title": "天降我在天地间，总有故事后人听｜告别刘欢",
     "summary": "本文通过回顾刘欢从非科班出身的法语文学学生到国民级音乐家的历程，剖析其以“教师”身份自居、在重大历史时刻以声音完成公共叙事的独特价值，以及他对原创音乐的坚守与提携。",
     "url": "https://www.bestblogs.dev/article/d9e44c57e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -41,33 +68,6 @@
     "url": "https://www.bestblogs.dev/article/b19d13c73a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 新华社",
     "topic": "媒体资讯",
-    "date": "2026-09-24",
-    "badge": "featured"
-  },
-  {
-    "title": "创业 11 年沈亚楠的非共识：造通用机器人，第一步就要进家庭",
-    "summary": "理想汽车联合创始人沈亚楠创立具身智能公司恩戈罗（NGORO），主张通过率先进入家庭场景构建数据飞轮，以「全栈 2.0」工程思维打造低成本、高实用性的通用机器人。",
-    "url": "https://www.bestblogs.dev/article/55ee7cbe69?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-09-24",
-    "badge": "featured"
-  },
-  {
-    "title": "拆解京东海博 AI-Native 落地保障：海博团队 AI 知识库能力建设",
-    "summary": "京东海博团队通过构建三层结构化 AI 知识库（项目、角色、Skill 层）并采用 OKF 规范，将业务知识从个人记忆转化为可被 AI 消费的组织资产，显著提升了研发分析效率与测试用例覆盖率。",
-    "url": "https://www.bestblogs.dev/article/9bd4933e36?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 京东技术",
-    "topic": "软件编程",
-    "date": "2026-09-24",
-    "badge": "tooling"
-  },
-  {
-    "title": "百万级仿真资产，正在重构机器人训练场：阿里巴巴 RoboFlywheel 首发",
-    "summary": "阿里巴巴发布 RoboFlywheel 开放式仿真基础设施，提供超百万级刚体、铰链与柔性资产，支持机器人交互与闭环训练。",
-    "url": "https://www.bestblogs.dev/article/47c6b617d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
     "date": "2026-09-24",
     "badge": "featured"
   }
