@@ -1,5 +1,59 @@
 [
   {
+    "title": "从榜单走向真实业务负载：Kernel Agent 刷新 Qwen3.8-Max 核心推理算子性能",
+    "summary": "阿里开源 Atrex Kernel Agent (AKA)，在 Qwen3.8-Max 真实生产负载上实现 GPU 算子性能超越专家手工优化，最高加速 1.55×，标志着 AI 驱动的系统级性能工程从 Benchmark 走向生产交付。",
+    "url": "https://www.bestblogs.dev/article/ba7f22ad53?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-09-28",
+    "badge": "agent"
+  },
+  {
+    "title": "我发现了渗透 Agent 长程任务的秘密",
+    "summary": "Sonic Harness 通过 MEA 三角色物理隔离、零信任叙述审计及代码级完成态铁律，从工程层面解决单会话 Agent 长程任务的上下文膨胀与幻觉自证问题，实现 100 小时不间断渗透测试。",
+    "url": "https://www.bestblogs.dev/article/4043a380ad?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / FreeBuf",
+    "topic": "人工智能",
+    "date": "2026-09-28",
+    "badge": "agent"
+  },
+  {
+    "title": "改变世界前先认识世界 : Ontology 决策结构化实践",
+    "summary": "文章提出通过 Ontology（本体）与决策结构化，让 Agent 动态生成工作流以实现业务全托管，强调结构化业务知识是 AI 稳定产出的核心壁垒。",
+    "url": "https://www.bestblogs.dev/article/4b6ee2fa97?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-09-28",
+    "badge": "agent"
+  },
+  {
+    "title": "个人主义才能救 AI",
+    "summary": "作者批判办公 Agent 对普通打工人的无效性，主张 AI 应转向服务个人生活的 Personal Agent，并通过实测 Today.ai 和 Grok bot 论证其在生活场景中的实用价值与隐私博弈。",
+    "url": "https://www.bestblogs.dev/article/8ca25d6e5b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 葬AI",
+    "topic": "人工智能",
+    "date": "2026-09-28",
+    "badge": "agent"
+  },
+  {
+    "title": "中国最传奇的富二代，半个故宫都是他捐的",
+    "summary": "通过外孙楼开肇的深情回忆，还原张伯驹从民国四公子到平凡老人的生命轨迹，揭示其倾家荡产守护国宝并最终无偿捐献背后的文化信念与人格光辉。",
+    "url": "https://www.bestblogs.dev/article/52b015b4ec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 一条",
+    "topic": "生活文化",
+    "date": "2026-09-28",
+    "badge": "featured"
+  },
+  {
+    "title": "企业级 Agent 的关键，不是自治，而是可控的结果生意",
+    "summary": "声网 AI 负责人姚光华指出企业级 Agent 的核心不是追求完全自治，而是建立可控的结果交付体系，通过 L1-L5 托付梯度、架构级围栏及 Evals 驱动的产品方法论，实现从“像人”到“能干活”的商业闭环。",
+    "url": "https://www.bestblogs.dev/article/b3adf43b83?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人人都是产品经理",
+    "topic": "产品设计",
+    "date": "2026-09-27",
+    "badge": "agent"
+  },
+  {
     "title": "负债 600 万的家庭，被一场“诚信听证会”托住",
     "summary": "本文通过记录浙江天台法院一场针对负债 600 万家庭的“诚信听证会”，深度剖析了个人债务清理制度如何在法律空白地带，通过引入社会代表评估债务人诚信度，平衡债权人利益与债务人重生权利。",
     "url": "https://www.bestblogs.dev/article/8f435afac0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -9,66 +63,12 @@
     "badge": "featured"
   },
   {
-    "title": "AI 都替我写完了，我还要不要思考？",
-    "summary": "本文深入辨析了 AI 参与“形成文字”与“代写”的本质界限，指出关键在于人的判断是否在场，并提出了四种正当的 AI 协作模式及潜在风险。",
-    "url": "https://www.bestblogs.dev/article/286c82a0be?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新京报书评周刊",
+    "title": "79 岁诺奖得主爱看《三体》，每天向 AI 提数百个问题",
+    "summary": "79 岁诺贝尔化学奖得主迈克尔·莱维特在专访中讲述自己每天向 AI 提数百个问题、用 AI 做科研与查错，并提出 AI 五年内或能预测Ⅲ期临床试验、应为 AI 建立身份追溯、保留系统多样性等判断。",
+    "url": "https://www.bestblogs.dev/article/648eb14110?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中国新闻周刊",
     "topic": "人工智能",
     "date": "2026-09-27",
-    "badge": "featured"
-  },
-  {
-    "title": "争论千年的悬案：杨贵妃吃的荔枝，到底是从哪儿运来的？",
-    "summary": "本文通过考古调查与历史文献互证，探讨杨贵妃荔枝产地之争及荔枝道演变，揭示道路从国家意志下的短暂驿路转化为民间商路的深层逻辑。",
-    "url": "https://www.bestblogs.dev/article/9b8a5fafb7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "生活文化",
-    "date": "2026-09-26",
-    "badge": "featured"
-  },
-  {
-    "title": "天降我在天地间，总有故事后人听｜告别刘欢",
-    "summary": "本文通过回顾刘欢从非科班出身的法语文学学生到国民级音乐家的历程，剖析其以“教师”身份自居、在重大历史时刻以声音完成公共叙事的独特价值，以及他对原创音乐的坚守与提携。",
-    "url": "https://www.bestblogs.dev/article/d9e44c57e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新周刊",
-    "topic": "生活文化",
-    "date": "2026-09-26",
-    "badge": "featured"
-  },
-  {
-    "title": "7 万吨铁矿船，载不动务工梦：18 名中国船员失联印度洋",
-    "summary": "本文深度调查了“海洋赢家”号散货船在印度洋沉没致 18 名中国船员失联事件，揭示了老旧船舶挂“方便旗”、铁矿粉液化风险及海员权益保障缺失背后的系统性安全隐患。",
-    "url": "https://www.bestblogs.dev/article/ad90e56502?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-09-25",
-    "badge": "featured"
-  },
-  {
-    "title": "找不到家的人，没有中秋",
-    "summary": "本文通过回顾抖音寻人十年间帮助阿尔茨海默症老人、聋哑流浪者、被拐妇女及赴台老兵等群体回家的真实案例，揭示了精准地域推送技术如何与志愿者经验互补，将科技转化为重塑家庭团圆与社会连接的基础设施。",
-    "url": "https://www.bestblogs.dev/article/7a31b4acfc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "生活文化",
-    "date": "2026-09-25",
-    "badge": "featured"
-  },
-  {
-    "title": "尿酸危机，席卷中国",
-    "summary": "文章深度解析了中国高尿酸血症患病率激增及地区差异的成因，指出遗传、现代饮食（尤其是果糖与海鲜）、生活方式改变及演化错配共同导致了这一仅次于糖尿病的第二大代谢危机。",
-    "url": "https://www.bestblogs.dev/article/d1014905bd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 果壳",
-    "topic": "生活文化",
-    "date": "2026-09-25",
-    "badge": "featured"
-  },
-  {
-    "title": "习近平同美国总统特朗普会谈",
-    "summary": "习近平与特朗普在白宫会谈，重申构建中美建设性战略稳定关系，并就经贸合作、人工智能、台湾问题等议题交换意见，双方同意继续对话以推动关系发展。",
-    "url": "https://www.bestblogs.dev/article/b19d13c73a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新华社",
-    "topic": "媒体资讯",
-    "date": "2026-09-24",
     "badge": "featured"
   }
 ]
