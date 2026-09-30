@@ -1,74 +1,74 @@
 [
   {
-    "title": "从榜单走向真实业务负载：Kernel Agent 刷新 Qwen3.8-Max 核心推理算子性能",
-    "summary": "阿里开源 Atrex Kernel Agent (AKA)，在 Qwen3.8-Max 真实生产负载上实现 GPU 算子性能超越专家手工优化，最高加速 1.55×，标志着 AI 驱动的系统级性能工程从 Benchmark 走向生产交付。",
-    "url": "https://www.bestblogs.dev/article/ba7f22ad53?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "帮大家总结了一下凌晨的 OpenAI 2026 开发者大会。",
+    "summary": "本文深度解析 OpenAI 2026 开发者大会，重点介绍了个人 Agent Dots、GPT-6.1 Sol 模型、ChatGPT Space 及 Codex Cloud 等重大更新，探讨了 AI 从人类优先向 Agent 原生应用的范式转变。",
+    "url": "https://www.bestblogs.dev/article/fe2dcbb357?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 数字生命卡兹克",
+    "topic": "人工智能",
+    "date": "2026-09-29",
+    "badge": "agent"
+  },
+  {
+    "title": "实录 OpenAI 年度发布会：25 项发布，逐一详解",
+    "summary": "OpenAI 年度发布会发布了 25 项重大更新，涵盖 Dots Agent 框架、GPT-6.1 Sol 模型及 Pages 协作空间等。",
+    "url": "https://www.bestblogs.dev/article/142d15eaaa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 赛博禅心",
+    "topic": "人工智能",
+    "date": "2026-09-29",
+    "badge": "agent"
+  },
+  {
+    "title": "DeepSeek Harness 桌面端：现在，开箱即用。",
+    "summary": "DeepSeek Harness 发布 v0.2 预览版，推出 macOS 和 Windows 桌面端安装包，实现开箱即用，并增强了插件管理、自动化任务及代码变更展示能力。",
+    "url": "https://www.bestblogs.dev/article/99f92f6982?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / DeepSeek Harness 团队",
+    "topic": "人工智能",
+    "date": "2026-09-29",
+    "badge": "featured"
+  },
+  {
+    "title": "AI Native 回忆录：稳定性前端 S1 实践复盘",
+    "summary": "阿里稳定性团队通过构建结构化规则包 Skill 和集成工作台 Anchor，解决了 AI Native 研发模式下代码质量失控与协作成本增加的问题，并探索了 PDFE 复合角色与分库协作新范式。",
+    "url": "https://www.bestblogs.dev/article/7c98d09e6a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
+    "topic": "软件编程",
+    "date": "2026-09-29",
+    "badge": "tooling"
+  },
+  {
+    "title": "一个分镜跑 1000 张图：当技术免费，审美成了唯一的硬通货",
+    "summary": "在一场关于 AI 影像的圆桌对话中，四位一线操盘手指出，随着技术门槛与角色一致性等工程难题被模型迭代不断抚平，AI 批量产出的多为「备选素材」，而人的审美、故事判断力以及对模因的积累正成为不可替代的硬通货。",
+    "url": "https://www.bestblogs.dev/article/cc1fd5c881?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 非凡产研",
     "topic": "人工智能",
-    "date": "2026-09-28",
-    "badge": "agent"
+    "date": "2026-09-29",
+    "badge": "model"
   },
   {
-    "title": "我发现了渗透 Agent 长程任务的秘密",
-    "summary": "Sonic Harness 通过 MEA 三角色物理隔离、零信任叙述审计及代码级完成态铁律，从工程层面解决单会话 Agent 长程任务的上下文膨胀与幻觉自证问题，实现 100 小时不间断渗透测试。",
-    "url": "https://www.bestblogs.dev/article/4043a380ad?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / FreeBuf",
-    "topic": "人工智能",
-    "date": "2026-09-28",
-    "badge": "agent"
-  },
-  {
-    "title": "改变世界前先认识世界 : Ontology 决策结构化实践",
-    "summary": "文章提出通过 Ontology（本体）与决策结构化，让 Agent 动态生成工作流以实现业务全托管，强调结构化业务知识是 AI 稳定产出的核心壁垒。",
-    "url": "https://www.bestblogs.dev/article/4b6ee2fa97?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-09-28",
-    "badge": "agent"
-  },
-  {
-    "title": "个人主义才能救 AI",
-    "summary": "作者批判办公 Agent 对普通打工人的无效性，主张 AI 应转向服务个人生活的 Personal Agent，并通过实测 Today.ai 和 Grok bot 论证其在生活场景中的实用价值与隐私博弈。",
-    "url": "https://www.bestblogs.dev/article/8ca25d6e5b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 葬AI",
-    "topic": "人工智能",
-    "date": "2026-09-28",
-    "badge": "agent"
-  },
-  {
-    "title": "中国最传奇的富二代，半个故宫都是他捐的",
-    "summary": "通过外孙楼开肇的深情回忆，还原张伯驹从民国四公子到平凡老人的生命轨迹，揭示其倾家荡产守护国宝并最终无偿捐献背后的文化信念与人格光辉。",
-    "url": "https://www.bestblogs.dev/article/52b015b4ec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 一条",
-    "topic": "生活文化",
-    "date": "2026-09-28",
-    "badge": "featured"
-  },
-  {
-    "title": "企业级 Agent 的关键，不是自治，而是可控的结果生意",
-    "summary": "声网 AI 负责人姚光华指出企业级 Agent 的核心不是追求完全自治，而是建立可控的结果交付体系，通过 L1-L5 托付梯度、架构级围栏及 Evals 驱动的产品方法论，实现从“像人”到“能干活”的商业闭环。",
-    "url": "https://www.bestblogs.dev/article/b3adf43b83?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人人都是产品经理",
-    "topic": "产品设计",
-    "date": "2026-09-27",
-    "badge": "agent"
-  },
-  {
-    "title": "负债 600 万的家庭，被一场“诚信听证会”托住",
-    "summary": "本文通过记录浙江天台法院一场针对负债 600 万家庭的“诚信听证会”，深度剖析了个人债务清理制度如何在法律空白地带，通过引入社会代表评估债务人诚信度，平衡债权人利益与债务人重生权利。",
-    "url": "https://www.bestblogs.dev/article/8f435afac0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 凤凰网",
+    "title": "剑桥大学里的“阿甘正传”：杰森·阿戴的悲剧是如何酿成的",
+    "summary": "通过剖析剑桥大学教授杰森·阿戴学术造假与离世事件，探讨当代欧美高校在 DEI 政策驱动下，如何将弱势身份转化为「象征资本」，从而导致学术标准崩塌与认知危机。",
+    "url": "https://www.bestblogs.dev/article/7613e18892?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 澎湃思想市场",
     "topic": "媒体资讯",
-    "date": "2026-09-27",
+    "date": "2026-09-29",
     "badge": "featured"
   },
   {
-    "title": "79 岁诺奖得主爱看《三体》，每天向 AI 提数百个问题",
-    "summary": "79 岁诺贝尔化学奖得主迈克尔·莱维特在专访中讲述自己每天向 AI 提数百个问题、用 AI 做科研与查错，并提出 AI 五年内或能预测Ⅲ期临床试验、应为 AI 建立身份追溯、保留系统多样性等判断。",
-    "url": "https://www.bestblogs.dev/article/648eb14110?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国新闻周刊",
+    "title": "Manus 回来了！更新 2.0 并发布全天候智能体 Cue",
+    "summary": "Manus 2.0 通过 Cascade 架构和 Cloud Computer 实现全天候智能体能力，支持视频编辑、游戏开发和远程电脑操作，标志着 AI Agent 从助手向数字员工的进化",
+    "url": "https://www.bestblogs.dev/article/f539745d71?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 机器之心",
     "topic": "人工智能",
-    "date": "2026-09-27",
+    "date": "2026-09-29",
+    "badge": "agent"
+  },
+  {
+    "title": "让人类交出方向盘：特斯拉 FSD 十三年的冒险、争议与进化",
+    "summary": "本文深度回顾了特斯拉 FSD 十三年从依赖供应商到自研芯片、从简单感知到 3D 占用网络的演进历程，揭示了其在硬件迭代与算法升级中经历的争议、冲突与技术突破。",
+    "url": "https://www.bestblogs.dev/article/dc2fd93cb5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "人工智能",
+    "date": "2026-09-29",
     "badge": "featured"
   }
 ]
