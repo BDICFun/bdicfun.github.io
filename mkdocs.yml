@@ -1,5 +1,5 @@
-site_name: BDIC 软件工程知识库
-site_description: 北京都柏林国际学院软件工程专业学习资源与经验分享
+site_name: BDIC 知识库
+site_description: 北京都柏林国际学院专业课程学习资源与经验分享
 site_author: BDIC Learning Hub
 site_url: https://bdicfun.github.io/
 
@@ -63,7 +63,6 @@ theme:
     - content.tabs.link
     - content.tooltips
     - header.autohide
-    - navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
@@ -167,68 +166,71 @@ markdown_extensions:
 # Page tree
 nav:
   - 首页: index.md
-  - 第一学年:
-    - 秋季学期:
-      - 概览: courses/Stage1-1/index.md
-      - 高等数学（工）1: courses/Stage1-1/BDIC1029J-Maths(Engineering)-1/README.md
-      - 高等数学（工）2: courses/Stage1-1/BDIC1030J-Maths(Engineering)-2/README.md
-      - 线性代数: courses/Stage1-1/BDIC1014J-Linear-Algebra(Engineering)/README.md
-      - 程序设计概论1: courses/Stage1-1/COMP1004J-Intro-to-Prog-Construction-1/README.md
-    - 春季学期:
-      - 概览: courses/Stage1-2/index.md
-      - 高等数学（工）3: courses/Stage1-2/BDIC1031J-Maths(Engineering)-3/README.md
-      - 高等数学（工）4: courses/Stage1-2/BDIC1032J-Maths (Engineering) 4/README.md
-      - 大学物理Ⅰ-1: courses/Stage1-2/BDIC1015J-University-Physics-1/README.md
-      - 软件工程导论(2026移除): courses/Stage1-2/COMP1003J- Introduction-to-Software/README.md
-      - 计算机架构导论(2026新增): courses/Stage1-2/Intro-to-Computer-Architecture/README.md
-      - 程序设计概论2: courses/Stage1-2/COMP1005J-Intro-to-Prog-Construction-2/README.md
-  - 第二学年:
-    - 秋季学期:
-      - 概览: courses/Stage2-1/index.md
-      - 数据结构与算法I: courses/Stage2-1/COMP2010J-Data-Structs-&-Algs-I/README.md
-      - 面向对象编程: courses/Stage2-1/COMP2011J-Object-Oriented-Programming/README.md
-      - 操作系统: courses/Stage2-1/COMP2012J-Operating-Systems/README.md
-      - 概率论与数理统计: courses/Stage2-1/BDIC2005J-Probability-and-Statistics/README.md
-      - 大学物理Ⅰ-2: courses/Stage2-1/BDIC2008J-University-Physics-I-2/README.md
-    - 春季学期:
-      - 概览: courses/Stage2-2/index.md
-      - 数据结构与算法II: courses/Stage2-2/COMP2014J-Data-Structs-&-Algs-II/README.md
-      - 离散数学: courses/Stage2-2/BDIC2002J-Discrete-Mathematics/README.md
-      - 数据库和信息系统: courses/Stage2-2/COMP2013J-Databases-and-Info-Sys/README.md
-      - 软件工程课设1: courses/Stage2-2/COMP2008J-Software-EngProject-1/README.md
-      - 计算机网络: courses/Stage2-2/COMP2009J-Computer-Networks/README.md
-  - 第三学年:
-    - 秋季学期:
-      - 概览: courses/Stage3-1/index.md
-      - 分布式系统: courses/Stage3-1/COMP3008J-Distributed-Systems/README.md
-      - 计算机图形学: courses/Stage3-1/COMP3033J-Computer-Graphics/README.md
-      - 面向对象设计(2025年移除): courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md
-      - 多范式编程(2025年新增): courses/Stage3-1/COMP3038J-Multi-Paradigm-Programming/README.md
-      - 软件工程方法: courses/Stage3-1/COMP3017J-Software-Methodology/README.md
-      - Web应用开发: courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md
-      - 移动计算: courses/Stage3-1/COMP3011J-Mobile-Computing/README.md
-    - 春季学期:
-      - 概览: courses/Stage3-2/index.md
-      - 软件项目管理: courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md
-      - 软件系统架构: courses/Stage3-2/BDIC3027J-Software-System-Architecture/README.md
-      - 系统设计与验证: courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md
-      - 软件工程课设2: courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md
-      - 信息获取: courses/Stage3-2/COMP3009J-Information-Retrieval/README.md
-  - 第四学年:
-    - 秋季学期:
-      - 概览: courses/Stage4-1/index.md
-      - 设计模式: courses/Stage4-1/BDIC3024J-Design-Patterns/README.md
-#      - 机器学习:
-#      - 高级软件技术:
-#      - 虚拟现实:
-#      - 安全与隐私:
-#      - 计算机性能:
-    - 春季学期:
-      - 概览: courses/Stage4-2/index.md
-      - 云计算: courses/Stage4-2/COMP3041J-Cloud-Computing/README.md
-      - 高级软件技术 2: courses/Stage4-2/COMP3040J-Advanced-Software-Technologies-2/README.md
-      - 高级程序建构: courses/Stage4-2/COMP3035J-Advanced-Program-Construction/README.md
-      - 毕业设计（论文）: courses/Stage4-2/COMP3032J-Degree-Project/README.md
+  - SE:
+    - 概览: se/index.md
+    - 第一学年:
+      - 秋季学期:
+        - 概览: courses/Stage1-1/index.md
+        - 高等数学（工）1: courses/Stage1-1/BDIC1029J-Maths(Engineering)-1/README.md
+        - 高等数学（工）2: courses/Stage1-1/BDIC1030J-Maths(Engineering)-2/README.md
+        - 线性代数: courses/Stage1-1/BDIC1014J-Linear-Algebra(Engineering)/README.md
+        - 程序设计概论1: courses/Stage1-1/COMP1004J-Intro-to-Prog-Construction-1/README.md
+      - 春季学期:
+        - 概览: courses/Stage1-2/index.md
+        - 高等数学（工）3: courses/Stage1-2/BDIC1031J-Maths(Engineering)-3/README.md
+        - 高等数学（工）4: courses/Stage1-2/BDIC1032J-Maths (Engineering) 4/README.md
+        - 大学物理Ⅰ-1: courses/Stage1-2/BDIC1015J-University-Physics-1/README.md
+        - 软件工程导论(2026移除): courses/Stage1-2/COMP1003J- Introduction-to-Software/README.md
+        - 计算机架构导论(2026新增): courses/Stage1-2/Intro-to-Computer-Architecture/README.md
+        - 程序设计概论2: courses/Stage1-2/COMP1005J-Intro-to-Prog-Construction-2/README.md
+    - 第二学年:
+      - 秋季学期:
+        - 概览: courses/Stage2-1/index.md
+        - 数据结构与算法I: courses/Stage2-1/COMP2010J-Data-Structs-&-Algs-I/README.md
+        - 面向对象编程: courses/Stage2-1/COMP2011J-Object-Oriented-Programming/README.md
+        - 操作系统: courses/Stage2-1/COMP2012J-Operating-Systems/README.md
+        - 概率论与数理统计: courses/Stage2-1/BDIC2005J-Probability-and-Statistics/README.md
+        - 大学物理Ⅰ-2: courses/Stage2-1/BDIC2008J-University-Physics-I-2/README.md
+      - 春季学期:
+        - 概览: courses/Stage2-2/index.md
+        - 数据结构与算法II: courses/Stage2-2/COMP2014J-Data-Structs-&-Algs-II/README.md
+        - 离散数学: courses/Stage2-2/BDIC2002J-Discrete-Mathematics/README.md
+        - 数据库和信息系统: courses/Stage2-2/COMP2013J-Databases-and-Info-Sys/README.md
+        - 软件工程课设1: courses/Stage2-2/COMP2008J-Software-EngProject-1/README.md
+        - 计算机网络: courses/Stage2-2/COMP2009J-Computer-Networks/README.md
+    - 第三学年:
+      - 秋季学期:
+        - 概览: courses/Stage3-1/index.md
+        - 分布式系统: courses/Stage3-1/COMP3008J-Distributed-Systems/README.md
+        - 计算机图形学: courses/Stage3-1/COMP3033J-Computer-Graphics/README.md
+        - 面向对象设计(2025年移除): courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md
+        - 多范式编程(2025年新增): courses/Stage3-1/COMP3038J-Multi-Paradigm-Programming/README.md
+        - 软件工程方法: courses/Stage3-1/COMP3017J-Software-Methodology/README.md
+        - Web应用开发: courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md
+        - 移动计算: courses/Stage3-1/COMP3011J-Mobile-Computing/README.md
+      - 春季学期:
+        - 概览: courses/Stage3-2/index.md
+        - 软件项目管理: courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md
+        - 软件系统架构: courses/Stage3-2/BDIC3027J-Software-System-Architecture/README.md
+        - 系统设计与验证: courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md
+        - 软件工程课设2: courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md
+        - 信息获取: courses/Stage3-2/COMP3009J-Information-Retrieval/README.md
+    - 第四学年:
+      - 秋季学期:
+        - 概览: courses/Stage4-1/index.md
+        - 设计模式: courses/Stage4-1/BDIC3024J-Design-Patterns/README.md
+  #      - 机器学习:
+  #      - 高级软件技术:
+  #      - 虚拟现实:
+  #      - 安全与隐私:
+  #      - 计算机性能:
+      - 春季学期:
+        - 概览: courses/Stage4-2/index.md
+        - 云计算: courses/Stage4-2/COMP3041J-Cloud-Computing/README.md
+        - 高级软件技术 2: courses/Stage4-2/COMP3040J-Advanced-Software-Technologies-2/README.md
+        - 高级程序建构: courses/Stage4-2/COMP3035J-Advanced-Program-Construction/README.md
+        - 毕业设计（论文）: courses/Stage4-2/COMP3032J-Degree-Project/README.md
+  - EIE: eie/index.md
   - 关于:
     - 项目介绍: about/index.md
     - 贡献者: about/contributors.md

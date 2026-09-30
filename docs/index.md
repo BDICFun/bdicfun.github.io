@@ -1,3 +1,20 @@
+# BDIC 知识库
+
+## 选择专业
+
+<div class="grid cards" aria-label="专业入口">
+  <a href="se/">
+    <strong>软件工程（SE）</strong><br>
+    浏览各学年课程、学习经验与资料。<br>
+    进入软件工程 →
+  </a>
+  <a href="eie/">
+    <strong>电子信息工程（EIE）</strong><br>
+    课程资料正在征集中。<br>
+    进入 EIE →
+  </a>
+</div>
+
 <div class="news-container"></div>
 
 ## 精选资源

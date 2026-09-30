@@ -87,6 +87,11 @@
   box-shadow: var(--md-shadow-z2);
 }
 
+.md-typeset .grid.cards > a {
+  color: var(--md-default-fg-color);
+  text-decoration: none;
+}
+
 /* 心形图标动画 */
 .heart {
   animation: heartbeat 1.5s ease-in-out infinite both;

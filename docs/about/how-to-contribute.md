@@ -1,6 +1,6 @@
 # 如何贡献
 
-感谢您对 BDIC 软件工程知识库的关注！我们欢迎所有形式的贡献。
+感谢您对 BDIC 知识库的关注！我们欢迎所有形式的贡献。
 
 ## 🚀 快速开始
 
@@ -21,7 +21,7 @@
     由于项目较大，推荐直接通过 GitHub Web 端进行贡献：
 
 #### 🍴 第一步：Fork 仓库
-1. 访问 [BDIC 软件工程知识库](https://github.com/BDICFun/bdicfun.github.io)
+1. 访问 [BDIC 知识库](https://github.com/BDICFun/bdicfun.github.io)
 2. 点击右上角的 **"Fork"** 按钮
 3. 点击 **"Create fork"** 完成复制
 
@@ -244,6 +244,6 @@ git clone --depth=1 https://github.com/BDICFun/bdicfun.github.io.git
 
 ---
 
-感谢您考虑为 BDIC 软件工程知识库做出贡献！每一份贡献都让这个社区变得更好。
+感谢您考虑为 BDIC 知识库做出贡献！每一份贡献都让这个社区变得更好。
 
 如有任何问题，请随时联系：`bdicfun@gmail.com` 📧

@@ -13,7 +13,7 @@
 （引自 [浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles) ）
 
 
-本项目收录北京工业大学北京-都柏林国际学院软件工程专业的课程资料、笔记、公开/回忆的考试、大作业参考等等相关资料。本仓库不会为收集到的资料收费，或是尝试收取捐赠。
+本项目目前收录北京工业大学北京-都柏林国际学院软件工程专业的课程资料、笔记、公开/回忆的考试、大作业参考等，电子信息工程（EIE）专业的资料正在征集中。本仓库不会为收集到的资料收费，或是尝试收取捐赠。
 [![部署状态](https://github.com/BDICFun/bdicfun.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/BDICFun/bdicfun.github.io/actions/workflows/deploy.yml)
 [![在线阅读](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-GitHub%20Pages-brightgreen)](https://bdicfun.github.io/)
 
