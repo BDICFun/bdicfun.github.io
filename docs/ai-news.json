@@ -1,5 +1,23 @@
 [
   {
+    "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
+    "summary": "本期周刊重点解析 TypeSafe AI 发布的 Jev 决策模型，探讨其通过返回概率值解决语义搜索与内容评分等问题的潜力及黑箱风险，并涵盖 Markdown 源码化、苹果无视频摄像头及 RSA 破解新纪录等科技动态。",
+    "url": "https://www.bestblogs.dev/article/8459192b34?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "人工智能",
+    "date": "2026-10-08",
+    "badge": "model"
+  },
+  {
+    "title": "人民银行：汇率与经常账户非线性关系，缓解全球失衡需逆差国和顺差国共同行动",
+    "summary": "中国人民银行系统阐述了人民币汇率政策立场，指出汇率与经常账户不存在简单线性关系，并强调缓解全球失衡需要逆差国和顺差国共同行动。",
+    "url": "https://www.bestblogs.dev/article/14c9ad8ba3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中国金融四十人论坛",
+    "topic": "投资财经",
+    "date": "2026-10-08",
+    "badge": "featured"
+  },
+  {
     "title": "梅西圆满谢幕，阿根廷队告别一个时代",
     "summary": "在 2022 年世界杯夺冠后，梅西于 2026 年 10 月 6 日正式从阿根廷国家队退役，结束了长达 21 年的辉煌蓝白岁月，为阿根廷队史最盛大的告别仪式画上了句号。",
     "url": "https://www.bestblogs.dev/article/f508137684?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -51,24 +69,6 @@
     "source": "BestBlogs / 南方人物周刊",
     "topic": "生活文化",
     "date": "2026-10-05",
-    "badge": "featured"
-  },
-  {
-    "title": "王虹:王者的踌躇与执着",
-    "summary": "报道了菲尔兹奖得主王虹的数学成长历程、她在三维挂谷集猜想上的突破以及对数学本质的思考。",
-    "url": "https://www.bestblogs.dev/article/7f797a628a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 环球科学",
-    "topic": "生活文化",
-    "date": "2026-10-04",
-    "badge": "featured"
-  },
-  {
-    "title": "惠英红 66 岁：想证明这一生没有白来",
-    "summary": "本文深度访谈了香港影后惠英红，揭示了她从童年乞讨到成为国际影星的传奇经历，以及在 66 岁高龄仍坚持拼搏、追求更高艺术成就的坚韧精神。",
-    "url": "https://www.bestblogs.dev/article/b79a3e175f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国新闻周刊",
-    "topic": "生活文化",
-    "date": "2026-10-04",
     "badge": "featured"
   }
 ]
