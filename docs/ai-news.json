@@ -1,5 +1,41 @@
 [
   {
+    "title": "史前治水与中国早期文明演进",
+    "summary": "本演讲由中国社会科学院考古研究所研究员刘建国主讲，详细阐述了中国史前先民在长江中下游地区通过修建水坝、围垸、引水渠等水利设施，成功应对洪涝灾害和旱季灌溉问题，从而促进了早期文明的形成和发展。",
+    "url": "https://www.bestblogs.dev/article/1035d96347?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 经济观察网",
+    "topic": "生活文化",
+    "date": "2026-10-10",
+    "badge": "featured"
+  },
+  {
+    "title": "三篇重磅论文，拆解 OpenViking 核心技术",
+    "summary": "OpenViking 通过 VikingMem、TrieHI 和 VikingRAG 三大创新，解决了 AI Agent 在记忆管理、目录搜索和结构化文档检索中的关键问题，显著提升了办公效率和准确性。",
+    "url": "https://www.bestblogs.dev/article/872b3aa9d1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
+    "topic": "人工智能",
+    "date": "2026-10-09",
+    "badge": "agent"
+  },
+  {
+    "title": "对话 UNICUS 徐豪：一家无限 SKU 的玩具平台，训练了第一个能「生产」的 3D 模型",
+    "summary": "UNICUS 创始人徐豪分享了从照片定制到无限 SKU 玩具平台的转型，介绍了自研的 3D 制造模型 U1，以及如何通过柔性工厂和 AI 驱动的生产系统实现个性化玩具的快速交付。",
+    "url": "https://www.bestblogs.dev/article/009975673c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-10-09",
+    "badge": "model"
+  },
+  {
+    "title": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行",
+    "summary": "本文介绍了中软融鑫在金融监管报送中构建的 Harness 体系，通过知识底座、数据底座、受控状态机和全链路可追溯机制，将自由发挥的 Agent 改造成一个严格遵守监管口径、确保数据准确性的受控系统。",
+    "url": "https://www.bestblogs.dev/article/10fb0644a2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "软件编程",
+    "date": "2026-10-09",
+    "badge": "agent"
+  },
+  {
     "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
     "summary": "本期周刊重点解析 TypeSafe AI 发布的 Jev 决策模型，探讨其通过返回概率值解决语义搜索与内容评分等问题的潜力及黑箱风险，并涵盖 Markdown 源码化、苹果无视频摄像头及 RSA 破解新纪录等科技动态。",
     "url": "https://www.bestblogs.dev/article/8459192b34?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -18,57 +54,21 @@
     "badge": "featured"
   },
   {
+    "title": "详解 2026 诺贝尔生理学或医学奖：如何用一束光“操控”大脑？",
+    "summary": "本文详细介绍了 2026 年诺贝尔生理学或医学奖的获奖成果——光遗传学，阐述了卡尔·戴塞罗思、彼得·黑格曼和格奥尔格·内格尔如何利用光控离子通道技术，实现对活体大脑神经细胞的精确控制，从而为研究记忆、情感与行为提供了革命性的工具。",
+    "url": "https://www.bestblogs.dev/article/d2ae042fd5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中科院物理所",
+    "topic": "商业科技",
+    "date": "2026-10-08",
+    "badge": "tooling"
+  },
+  {
     "title": "梅西圆满谢幕，阿根廷队告别一个时代",
     "summary": "在 2022 年世界杯夺冠后，梅西于 2026 年 10 月 6 日正式从阿根廷国家队退役，结束了长达 21 年的辉煌蓝白岁月，为阿根廷队史最盛大的告别仪式画上了句号。",
     "url": "https://www.bestblogs.dev/article/f508137684?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 足球报",
     "topic": "体育运动",
     "date": "2026-10-07",
-    "badge": "featured"
-  },
-  {
-    "title": "现场专访｜诺贝尔物理学奖，打开了观察宇宙的全新窗口？",
-    "summary": "2026 年诺贝尔物理学奖授予弗朗西斯·哈尔岑，表彰他领导冰立方中微子天文台的建设和高能中微子发现，这一成果为探索宇宙高能现象提供了全新视角。",
-    "url": "https://www.bestblogs.dev/article/ef68651059?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "生活文化",
-    "date": "2026-10-06",
-    "badge": "featured"
-  },
-  {
-    "title": "当年被同行当成笑话的想法今年拿下了诺奖",
-    "summary": "文章介绍了 2026 年诺贝尔生理学或医学奖得主们如何通过开发光遗传学技术，实现在活体大脑中用光精确控制神经细胞活动。",
-    "url": "https://www.bestblogs.dev/article/9d57b75b36?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 果壳",
-    "topic": "生活文化",
-    "date": "2026-10-05",
-    "badge": "featured"
-  },
-  {
-    "title": "光遗传学终获奖！2026 年诺贝尔生理学或医学奖授予神经科学家",
-    "summary": "2026 年诺贝尔生理学或医学奖授予光遗传学发现者，该技术通过光门控离子通道精确控制神经元，揭示了大脑如何塑造记忆、情感与行为的因果关系。",
-    "url": "https://www.bestblogs.dev/article/bb7985e1b9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 神经现实",
-    "topic": "人工智能",
-    "date": "2026-10-05",
-    "badge": "featured"
-  },
-  {
-    "title": "纪录片《缅北电诈覆灭纪实》解析：缅北电诈“四大家族”覆灭全纪录",
-    "summary": "纪录片《缅北电诈覆灭纪实》深度还原了缅北电诈的黑暗生态及中国警方跨境清剿“四大家族”犯罪团伙的全过程。",
-    "url": "https://www.bestblogs.dev/article/f17bfd9f2c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央视新闻",
-    "topic": "媒体资讯",
-    "date": "2026-10-05",
-    "badge": "featured"
-  },
-  {
-    "title": "陈冲：不要让任何人替你定义幸福",
-    "summary": "访谈陈冲探讨其散文集《猫鱼》的创作背景，分享她对记忆、艺术审美、移民代际身份以及如何自我定义幸福的深度思考。",
-    "url": "https://www.bestblogs.dev/article/d6f3f1fcf9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方人物周刊",
-    "topic": "生活文化",
-    "date": "2026-10-05",
     "badge": "featured"
   }
 ]
