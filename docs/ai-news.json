@@ -1,74 +1,74 @@
 [
   {
+    "title": "千亩耕地竟遭撂荒，荒废多年仍领补贴！",
+    "summary": "央视记者实地调查曝光多地设施农业大棚严重撂荒乱象，揭露其长期违规占用永久基本农田、靠应付检查冒领财政补贴，乃至被空壳公司包装成骗取工程垫资的敛财工具。",
+    "url": "https://www.bestblogs.dev/article/11d7ab0100?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 央视新闻",
+    "topic": "媒体资讯",
+    "date": "2026-10-11",
+    "badge": "tooling"
+  },
+  {
+    "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
+    "summary": "对谈一线 AI 导演 KK 与山音，深度拆解 AI 如何颠覆传统视听生产链路、释放个人表达，并探讨导演核心能力从工业调度向审美与决策转移的范式变革。",
+    "url": "https://www.bestblogs.dev/article/e5bb8efe1e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "人工智能",
+    "date": "2026-10-11",
+    "badge": "featured"
+  },
+  {
+    "title": "触目惊心！91 份危货车检验报告全造假，是谁在“放水”？",
+    "summary": "中央安全生产考核巡查组明察暗访发现，危货运输领域存在长期严重超载及检验报告系统性造假乱象，暴露了源头审核、运单系统和路面监管的层层失守。",
+    "url": "https://www.bestblogs.dev/article/d4ba958e00?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 央视新闻",
+    "topic": "媒体资讯",
+    "date": "2026-10-11",
+    "badge": "featured"
+  },
+  {
+    "title": "油轮运费，比发射火箭还贵！",
+    "summary": "地缘冲突引发霍尔木兹海峡航运受阻与航线拉长，导致全球超大型油轮（VLCC）运费飙升至创纪录水平，不仅单次运费超过火箭发射成本，还引发二手船价倒挂并严重侵蚀下游炼油利润。",
+    "url": "https://www.bestblogs.dev/article/98caf5f290?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 华尔街见闻",
+    "topic": "投资财经",
+    "date": "2026-10-10",
+    "badge": "featured"
+  },
+  {
+    "title": "让 AI 组队干活，最强模型也只完成约一半任务：AgentWorld 如何评测 Agent 协作能力？",
+    "summary": "研究团队推出面向多智能体长时程协作的评测基准 AgentWorld，发现即使顶尖大模型在沙盒任务中的最高协作成功率也仅约 52%，并提出了因果协作有效性（CCE）指标以衡量跨角色行动贡献。",
+    "url": "https://www.bestblogs.dev/article/33897b5122?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-10-10",
+    "badge": "agent"
+  },
+  {
+    "title": "EMNLP 2026 Oral｜HOMURA：面向时间受限场景的 LLM 翻译强化学习优化",
+    "summary": "针对大模型机器翻译中普遍存在的冗长偏差，哔哩哔哩团队提出 HOMURA 强化学习框架，通过动态音节比例奖励与 GRPO 优化，在保留核心语义的同时实现了严苛的时间预算与长度控制。",
+    "url": "https://www.bestblogs.dev/article/e5840c8027?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 哔哩哔哩技术",
+    "topic": "人工智能",
+    "date": "2026-10-10",
+    "badge": "model"
+  },
+  {
+    "title": "和 ColaOS 橘子聊个人 Agent 这半年：时代追上了他，他却打了转向灯",
+    "summary": "任鑫、徐文浩与 ColaOS 橘子探讨个人 Agent 赛道现状：虽然廉价模型让免费互联网打法重现，但大众缺乏日程管理习惯与支使能力，创业者唯有避开大厂内卷办公场景、熬到盈亏平衡并依托线下人际信任资产才能突围。",
+    "url": "https://www.bestblogs.dev/article/fe22f96f9a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / AI炼金术",
+    "topic": "人工智能",
+    "date": "2026-10-10",
+    "badge": "agent"
+  },
+  {
     "title": "史前治水与中国早期文明演进",
     "summary": "本演讲由中国社会科学院考古研究所研究员刘建国主讲，详细阐述了中国史前先民在长江中下游地区通过修建水坝、围垸、引水渠等水利设施，成功应对洪涝灾害和旱季灌溉问题，从而促进了早期文明的形成和发展。",
     "url": "https://www.bestblogs.dev/article/1035d96347?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 经济观察网",
     "topic": "生活文化",
     "date": "2026-10-10",
-    "badge": "featured"
-  },
-  {
-    "title": "三篇重磅论文，拆解 OpenViking 核心技术",
-    "summary": "OpenViking 通过 VikingMem、TrieHI 和 VikingRAG 三大创新，解决了 AI Agent 在记忆管理、目录搜索和结构化文档检索中的关键问题，显著提升了办公效率和准确性。",
-    "url": "https://www.bestblogs.dev/article/872b3aa9d1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "人工智能",
-    "date": "2026-10-09",
-    "badge": "agent"
-  },
-  {
-    "title": "对话 UNICUS 徐豪：一家无限 SKU 的玩具平台，训练了第一个能「生产」的 3D 模型",
-    "summary": "UNICUS 创始人徐豪分享了从照片定制到无限 SKU 玩具平台的转型，介绍了自研的 3D 制造模型 U1，以及如何通过柔性工厂和 AI 驱动的生产系统实现个性化玩具的快速交付。",
-    "url": "https://www.bestblogs.dev/article/009975673c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-10-09",
-    "badge": "model"
-  },
-  {
-    "title": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行",
-    "summary": "本文介绍了中软融鑫在金融监管报送中构建的 Harness 体系，通过知识底座、数据底座、受控状态机和全链路可追溯机制，将自由发挥的 Agent 改造成一个严格遵守监管口径、确保数据准确性的受控系统。",
-    "url": "https://www.bestblogs.dev/article/10fb0644a2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "软件编程",
-    "date": "2026-10-09",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 414 期）：Jev 决策模型有什么用",
-    "summary": "本期周刊重点解析 TypeSafe AI 发布的 Jev 决策模型，探讨其通过返回概率值解决语义搜索与内容评分等问题的潜力及黑箱风险，并涵盖 Markdown 源码化、苹果无视频摄像头及 RSA 破解新纪录等科技动态。",
-    "url": "https://www.bestblogs.dev/article/8459192b34?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "人工智能",
-    "date": "2026-10-08",
-    "badge": "model"
-  },
-  {
-    "title": "人民银行：汇率与经常账户非线性关系，缓解全球失衡需逆差国和顺差国共同行动",
-    "summary": "中国人民银行系统阐述了人民币汇率政策立场，指出汇率与经常账户不存在简单线性关系，并强调缓解全球失衡需要逆差国和顺差国共同行动。",
-    "url": "https://www.bestblogs.dev/article/14c9ad8ba3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国金融四十人论坛",
-    "topic": "投资财经",
-    "date": "2026-10-08",
-    "badge": "featured"
-  },
-  {
-    "title": "详解 2026 诺贝尔生理学或医学奖：如何用一束光“操控”大脑？",
-    "summary": "本文详细介绍了 2026 年诺贝尔生理学或医学奖的获奖成果——光遗传学，阐述了卡尔·戴塞罗思、彼得·黑格曼和格奥尔格·内格尔如何利用光控离子通道技术，实现对活体大脑神经细胞的精确控制，从而为研究记忆、情感与行为提供了革命性的工具。",
-    "url": "https://www.bestblogs.dev/article/d2ae042fd5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中科院物理所",
-    "topic": "商业科技",
-    "date": "2026-10-08",
-    "badge": "tooling"
-  },
-  {
-    "title": "梅西圆满谢幕，阿根廷队告别一个时代",
-    "summary": "在 2022 年世界杯夺冠后，梅西于 2026 年 10 月 6 日正式从阿根廷国家队退役，结束了长达 21 年的辉煌蓝白岁月，为阿根廷队史最盛大的告别仪式画上了句号。",
-    "url": "https://www.bestblogs.dev/article/f508137684?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 足球报",
-    "topic": "体育运动",
-    "date": "2026-10-07",
     "badge": "featured"
   }
 ]
