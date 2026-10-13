@@ -1,5 +1,41 @@
 [
   {
+    "title": "2026 年诺贝尔经济学奖｜霍尔与伍德福德：为什么稳定经济，要先理解人？ - 经济观察网 － 专业财经新闻网站",
+    "summary": "本文深度解析 2026 年诺贝尔经济学奖得主罗伯特·霍尔与迈克尔·伍德福德的贡献，阐述他们如何通过为宏观经济稳定奠定微观经济学基础，将理性预期与个人选择引入宏观模型，重塑现代货币政策与经济稳定理论。",
+    "url": "https://www.bestblogs.dev/article/e7f8dfde26?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 经济观察网",
+    "topic": "投资财经",
+    "date": "2026-10-12",
+    "badge": "model"
+  },
+  {
+    "title": "对话丘成桐：数学家与一个功利时代",
+    "summary": "丘成桐通过深度访谈探讨了数学研究的本质、中国学术环境评价体系的功利化弊端，以及 AI 时代对基础科学的未来冲击。",
+    "url": "https://www.bestblogs.dev/article/f087974963?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "生活文化",
+    "date": "2026-10-12",
+    "badge": "featured"
+  },
+  {
+    "title": "985 海归教授跑路，900 余名家长被骗：一门升学生意的膨胀与崩塌",
+    "summary": "深度剖析了教育咨询机构“起航未来”跑路事件，揭示了在流量逻辑下，过度追求规模而忽视教育交付导致崩塌的行业乱象。",
+    "url": "https://www.bestblogs.dev/article/334de90705?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "商业科技",
+    "date": "2026-10-12",
+    "badge": "featured"
+  },
+  {
+    "title": "淘宝 AI 购物助手在线评测落地实践",
+    "summary": "淘天团队分享了 LLM-as-a-Judge 在日均海量会话、多域异构的电商 AI 购物助手场景中的日级在线工业化评测体系与归因闭环实践。",
+    "url": "https://www.bestblogs.dev/article/c45e929cca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-10-12",
+    "badge": "model"
+  },
+  {
     "title": "千亩耕地竟遭撂荒，荒废多年仍领补贴！",
     "summary": "央视记者实地调查曝光多地设施农业大棚严重撂荒乱象，揭露其长期违规占用永久基本农田、靠应付检查冒领财政补贴，乃至被空壳公司包装成骗取工程垫资的敛财工具。",
     "url": "https://www.bestblogs.dev/article/11d7ab0100?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -32,42 +68,6 @@
     "url": "https://www.bestblogs.dev/article/98caf5f290?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 华尔街见闻",
     "topic": "投资财经",
-    "date": "2026-10-10",
-    "badge": "featured"
-  },
-  {
-    "title": "让 AI 组队干活，最强模型也只完成约一半任务：AgentWorld 如何评测 Agent 协作能力？",
-    "summary": "研究团队推出面向多智能体长时程协作的评测基准 AgentWorld，发现即使顶尖大模型在沙盒任务中的最高协作成功率也仅约 52%，并提出了因果协作有效性（CCE）指标以衡量跨角色行动贡献。",
-    "url": "https://www.bestblogs.dev/article/33897b5122?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-10-10",
-    "badge": "agent"
-  },
-  {
-    "title": "EMNLP 2026 Oral｜HOMURA：面向时间受限场景的 LLM 翻译强化学习优化",
-    "summary": "针对大模型机器翻译中普遍存在的冗长偏差，哔哩哔哩团队提出 HOMURA 强化学习框架，通过动态音节比例奖励与 GRPO 优化，在保留核心语义的同时实现了严苛的时间预算与长度控制。",
-    "url": "https://www.bestblogs.dev/article/e5840c8027?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 哔哩哔哩技术",
-    "topic": "人工智能",
-    "date": "2026-10-10",
-    "badge": "model"
-  },
-  {
-    "title": "和 ColaOS 橘子聊个人 Agent 这半年：时代追上了他，他却打了转向灯",
-    "summary": "任鑫、徐文浩与 ColaOS 橘子探讨个人 Agent 赛道现状：虽然廉价模型让免费互联网打法重现，但大众缺乏日程管理习惯与支使能力，创业者唯有避开大厂内卷办公场景、熬到盈亏平衡并依托线下人际信任资产才能突围。",
-    "url": "https://www.bestblogs.dev/article/fe22f96f9a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / AI炼金术",
-    "topic": "人工智能",
-    "date": "2026-10-10",
-    "badge": "agent"
-  },
-  {
-    "title": "史前治水与中国早期文明演进",
-    "summary": "本演讲由中国社会科学院考古研究所研究员刘建国主讲，详细阐述了中国史前先民在长江中下游地区通过修建水坝、围垸、引水渠等水利设施，成功应对洪涝灾害和旱季灌溉问题，从而促进了早期文明的形成和发展。",
-    "url": "https://www.bestblogs.dev/article/1035d96347?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 经济观察网",
-    "topic": "生活文化",
     "date": "2026-10-10",
     "badge": "featured"
   }
