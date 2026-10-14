@@ -1,10 +1,64 @@
 [
   {
+    "title": "后编程时代——人类作为 AI 编程的辅助工具",
+    "summary": "基于 100% AI 编码的真实工程实践，作者剖析了 AI 擅长顶层架构与底层函数而缺乏中间层学习的「三明治结构」，并提出人类程序员应转向构建稳定性工程与依赖品味决策的新协作范式。",
+    "url": "https://www.bestblogs.dev/article/8c920a3598?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / twisted-meadows.com",
+    "topic": "人工智能",
+    "date": "2026-10-14",
+    "badge": "tooling"
+  },
+  {
+    "title": "刚刚，苹果 HomeView 发布！10+ 款「果家」新品，你能买到的只有一个",
+    "summary": "苹果发布带屏中控 HomeView、HomePod mini 2、Apple TV 4K 及一系列智能家居配件，旨在构建以客厅为中心的智能生态。",
+    "url": "https://www.bestblogs.dev/article/9666e0b31b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 郑廷旭",
+    "topic": "商业科技",
+    "date": "2026-10-13",
+    "badge": "featured"
+  },
+  {
+    "title": "魂断威尼斯：枷锁、迷狂与爱之死",
+    "summary": "本文通过对托马斯·曼小说《死于威尼斯》及其电影改编的深度分析，探讨了中年作家阿申巴赫在威尼斯邂逅美少年塔奇奥后，从理性压抑走向激情迷狂，最终在瘟疫中走向死亡的悲剧命运，并揭示了马勒音乐在这一过程中扮演的灵魂角色。",
+    "url": "https://www.bestblogs.dev/article/58885944a4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-10-13",
+    "badge": "featured"
+  },
+  {
+    "title": "大摩：存储股在周期顶部往往看似最便宜，但也最危险",
+    "summary": "摩根士丹利指出，尽管存储行业基本面强劲，但股价已大幅上涨且盈利预期过高，导致当前低市盈率可能暗藏周期顶部的估值陷阱，投资者需警惕 2027 年以后供需格局变化对盈利的影响。",
+    "url": "https://www.bestblogs.dev/article/f53831bed0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 李佳",
+    "topic": "投资财经",
+    "date": "2026-10-13",
+    "badge": "featured"
+  },
+  {
+    "title": "生成的世界也能交互！牛津大学&莫纳什大学&布里斯托大学等团队提出交互式视频世界模型 Oneira",
+    "summary": "Oneira 通过分离世界状态记录与视频生成，实现了对生成场景中特定物体的精确交互和长时状态保持，显著优于现有模型。",
+    "url": "https://www.bestblogs.dev/article/e9f74de361?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 机器之心",
+    "topic": "人工智能",
+    "date": "2026-10-13",
+    "badge": "model"
+  },
+  {
     "title": "2026 年诺贝尔经济学奖｜霍尔与伍德福德：为什么稳定经济，要先理解人？ - 经济观察网 － 专业财经新闻网站",
     "summary": "本文深度解析 2026 年诺贝尔经济学奖得主罗伯特·霍尔与迈克尔·伍德福德的贡献，阐述他们如何通过为宏观经济稳定奠定微观经济学基础，将理性预期与个人选择引入宏观模型，重塑现代货币政策与经济稳定理论。",
     "url": "https://www.bestblogs.dev/article/e7f8dfde26?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 经济观察网",
     "topic": "投资财经",
+    "date": "2026-10-12",
+    "badge": "model"
+  },
+  {
+    "title": "QwenGyre：开启长程智能体强化学习",
+    "summary": "阿里推出 QwenGyre 框架，通过面向超长程任务的在线强化学习，利用弹性调度和轨迹处理提升模型在复杂工程任务中的能力与效率。",
+    "url": "https://www.bestblogs.dev/article/3cc2013af3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 千问大模型",
+    "topic": "人工智能",
     "date": "2026-10-12",
     "badge": "model"
   },
@@ -15,60 +69,6 @@
     "source": "BestBlogs / 晚点LatePost",
     "topic": "生活文化",
     "date": "2026-10-12",
-    "badge": "featured"
-  },
-  {
-    "title": "985 海归教授跑路，900 余名家长被骗：一门升学生意的膨胀与崩塌",
-    "summary": "深度剖析了教育咨询机构“起航未来”跑路事件，揭示了在流量逻辑下，过度追求规模而忽视教育交付导致崩塌的行业乱象。",
-    "url": "https://www.bestblogs.dev/article/334de90705?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "商业科技",
-    "date": "2026-10-12",
-    "badge": "featured"
-  },
-  {
-    "title": "淘宝 AI 购物助手在线评测落地实践",
-    "summary": "淘天团队分享了 LLM-as-a-Judge 在日均海量会话、多域异构的电商 AI 购物助手场景中的日级在线工业化评测体系与归因闭环实践。",
-    "url": "https://www.bestblogs.dev/article/c45e929cca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-10-12",
-    "badge": "model"
-  },
-  {
-    "title": "千亩耕地竟遭撂荒，荒废多年仍领补贴！",
-    "summary": "央视记者实地调查曝光多地设施农业大棚严重撂荒乱象，揭露其长期违规占用永久基本农田、靠应付检查冒领财政补贴，乃至被空壳公司包装成骗取工程垫资的敛财工具。",
-    "url": "https://www.bestblogs.dev/article/11d7ab0100?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央视新闻",
-    "topic": "媒体资讯",
-    "date": "2026-10-11",
-    "badge": "tooling"
-  },
-  {
-    "title": "AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者",
-    "summary": "对谈一线 AI 导演 KK 与山音，深度拆解 AI 如何颠覆传统视听生产链路、释放个人表达，并探讨导演核心能力从工业调度向审美与决策转移的范式变革。",
-    "url": "https://www.bestblogs.dev/article/e5bb8efe1e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "人工智能",
-    "date": "2026-10-11",
-    "badge": "featured"
-  },
-  {
-    "title": "触目惊心！91 份危货车检验报告全造假，是谁在“放水”？",
-    "summary": "中央安全生产考核巡查组明察暗访发现，危货运输领域存在长期严重超载及检验报告系统性造假乱象，暴露了源头审核、运单系统和路面监管的层层失守。",
-    "url": "https://www.bestblogs.dev/article/d4ba958e00?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央视新闻",
-    "topic": "媒体资讯",
-    "date": "2026-10-11",
-    "badge": "featured"
-  },
-  {
-    "title": "油轮运费，比发射火箭还贵！",
-    "summary": "地缘冲突引发霍尔木兹海峡航运受阻与航线拉长，导致全球超大型油轮（VLCC）运费飙升至创纪录水平，不仅单次运费超过火箭发射成本，还引发二手船价倒挂并严重侵蚀下游炼油利润。",
-    "url": "https://www.bestblogs.dev/article/98caf5f290?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 华尔街见闻",
-    "topic": "投资财经",
-    "date": "2026-10-10",
     "badge": "featured"
   }
 ]
