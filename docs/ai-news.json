@@ -1,74 +1,74 @@
 [
   {
-    "title": "后编程时代——人类作为 AI 编程的辅助工具",
-    "summary": "基于 100% AI 编码的真实工程实践，作者剖析了 AI 擅长顶层架构与底层函数而缺乏中间层学习的「三明治结构」，并提出人类程序员应转向构建稳定性工程与依赖品味决策的新协作范式。",
-    "url": "https://www.bestblogs.dev/article/8c920a3598?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / twisted-meadows.com",
+    "title": "人类骨骼的独特性，从何而来？",
+    "summary": "《自然》刊文揭示人类骨骼独特性源于糖胺聚糖（GAG）减少的调控变化，这既塑造了直立行走等特征，也导致人类高发骨关节炎，并建立了首个跨物种调控变异功能图谱。",
+    "url": "https://www.bestblogs.dev/article/37dc202fce?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 原理",
+    "topic": "生活文化",
+    "date": "2026-10-14",
+    "badge": "featured"
+  },
+  {
+    "title": "SSR-Merge：把 LoRA 合并从'参数算术'变成'信号路由' | ICML 2026",
+    "summary": "SSR-Merge 通过在信号空间进行路由，而非在参数空间进行算术，解决了多 LoRA 合并时的干扰问题，实现了高保真度的任务组合。",
+    "url": "https://www.bestblogs.dev/article/fff4064e32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / vivo互联网技术",
     "topic": "人工智能",
     "date": "2026-10-14",
-    "badge": "tooling"
+    "badge": "featured"
   },
   {
-    "title": "刚刚，苹果 HomeView 发布！10+ 款「果家」新品，你能买到的只有一个",
-    "summary": "苹果发布带屏中控 HomeView、HomePod mini 2、Apple TV 4K 及一系列智能家居配件，旨在构建以客厅为中心的智能生态。",
-    "url": "https://www.bestblogs.dev/article/9666e0b31b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 郑廷旭",
+    "title": "车间主任不需要机器人后空翻",
+    "summary": "2026 年，人形机器人在才艺表演赛道已经卷到头，但真正能兑现价值、检验成色的地方是在工厂，而不是舞台。工厂考虑的不是机器人能做什么惊艳动作，而是它能不能稳定地替人干活，重复几千次不出错。具身智能之所以被盯上，是因为它第一次让这类'算不过账'的活有了重新算的可能，通过自己拿主意、感知环境、随时调整，来解决自动化工厂中那些零碎、多变的'长尾'任务。",
+    "url": "https://www.bestblogs.dev/article/509fd3db89?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "人工智能",
+    "date": "2026-10-14",
+    "badge": "featured"
+  },
+  {
+    "title": "手把手带工程同学从零实现一个完整的 LLM（CS336）——Transformer 篇",
+    "summary": "本文详细介绍了如何从零构建一个基于 Transformer 的语言模型，涵盖了从数据预处理、模型架构设计到训练优化的全过程，并提供了可执行的 Python 代码示例。",
+    "url": "https://www.bestblogs.dev/article/93e8cbc5d5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "软件编程",
+    "date": "2026-10-14",
+    "badge": "model"
+  },
+  {
+    "title": "对话出海一叮易宛尧：品牌出海的每一个环节，都值得用 AI 重做一遍",
+    "summary": "出海一叮创始人易宛尧分享了公司从传统服务向 AI 驱动转型的历程，强调 AI 不仅用于内部提效，更将重构整个出海业务流程，并探讨了在 AI 时代如何建立新的组织和人才竞争力。",
+    "url": "https://www.bestblogs.dev/article/a365843ccf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
     "topic": "商业科技",
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "badge": "featured"
   },
   {
-    "title": "魂断威尼斯：枷锁、迷狂与爱之死",
-    "summary": "本文通过对托马斯·曼小说《死于威尼斯》及其电影改编的深度分析，探讨了中年作家阿申巴赫在威尼斯邂逅美少年塔奇奥后，从理性压抑走向激情迷狂，最终在瘟疫中走向死亡的悲剧命运，并揭示了马勒音乐在这一过程中扮演的灵魂角色。",
-    "url": "https://www.bestblogs.dev/article/58885944a4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "生活文化",
-    "date": "2026-10-13",
-    "badge": "featured"
-  },
-  {
-    "title": "大摩：存储股在周期顶部往往看似最便宜，但也最危险",
-    "summary": "摩根士丹利指出，尽管存储行业基本面强劲，但股价已大幅上涨且盈利预期过高，导致当前低市盈率可能暗藏周期顶部的估值陷阱，投资者需警惕 2027 年以后供需格局变化对盈利的影响。",
-    "url": "https://www.bestblogs.dev/article/f53831bed0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 李佳",
-    "topic": "投资财经",
-    "date": "2026-10-13",
-    "badge": "featured"
-  },
-  {
-    "title": "生成的世界也能交互！牛津大学&莫纳什大学&布里斯托大学等团队提出交互式视频世界模型 Oneira",
-    "summary": "Oneira 通过分离世界状态记录与视频生成，实现了对生成场景中特定物体的精确交互和长时状态保持，显著优于现有模型。",
-    "url": "https://www.bestblogs.dev/article/e9f74de361?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "苹果 LensVLM：长上下文压缩成图片，模型边看边「放大」",
+    "summary": "LensVLM 是一种基于视觉语言模型的长上下文理解方案，它将文本压缩为图像进行快速浏览，并允许模型按需展开特定页面以获取高精度信息，从而在保持高准确率的同时显著降低输入成本。",
+    "url": "https://www.bestblogs.dev/article/c5ef9aef0d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 机器之心",
     "topic": "人工智能",
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "badge": "model"
   },
   {
-    "title": "2026 年诺贝尔经济学奖｜霍尔与伍德福德：为什么稳定经济，要先理解人？ - 经济观察网 － 专业财经新闻网站",
-    "summary": "本文深度解析 2026 年诺贝尔经济学奖得主罗伯特·霍尔与迈克尔·伍德福德的贡献，阐述他们如何通过为宏观经济稳定奠定微观经济学基础，将理性预期与个人选择引入宏观模型，重塑现代货币政策与经济稳定理论。",
-    "url": "https://www.bestblogs.dev/article/e7f8dfde26?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 经济观察网",
-    "topic": "投资财经",
-    "date": "2026-10-12",
-    "badge": "model"
-  },
-  {
-    "title": "QwenGyre：开启长程智能体强化学习",
-    "summary": "阿里推出 QwenGyre 框架，通过面向超长程任务的在线强化学习，利用弹性调度和轨迹处理提升模型在复杂工程任务中的能力与效率。",
-    "url": "https://www.bestblogs.dev/article/3cc2013af3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 千问大模型",
+    "title": "Natura-1 发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
+    "summary": "自然意志发布 50B 参数 MoE 模型 Natura-1，在 100 万小时人类视频上预训练，实现灵巧手零样本指令遵循，在 12 项基准测试中得分 53.4～59.1，远超现有模型，并展示出长程任务稳定性和意外的恢复能力。",
+    "url": "https://www.bestblogs.dev/article/151aeaaf29?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 机器之心",
     "topic": "人工智能",
-    "date": "2026-10-12",
+    "date": "2026-10-14",
     "badge": "model"
   },
   {
-    "title": "对话丘成桐：数学家与一个功利时代",
-    "summary": "丘成桐通过深度访谈探讨了数学研究的本质、中国学术环境评价体系的功利化弊端，以及 AI 时代对基础科学的未来冲击。",
-    "url": "https://www.bestblogs.dev/article/f087974963?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "生活文化",
-    "date": "2026-10-12",
+    "title": "带给摄影师更多自由：Austin Mann 评 iPhone 18 Pro 影像体验",
+    "summary": "iPhone 18 Pro 的可变光圈、专业控制和胶片质感功能，为摄影师提供了前所未有的创作自由，让他们能够轻松捕捉具有艺术感的运动模糊、浅景深和复古氛围，而不仅仅是技术上准确的图像。",
+    "url": "https://www.bestblogs.dev/article/802559f5de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Vanilla",
+    "topic": "产品设计",
+    "date": "2026-10-14",
     "badge": "featured"
   }
 ]
