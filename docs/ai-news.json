@@ -1,74 +1,74 @@
 [
   {
+    "title": "英伟达 RTX Spark 笔记本首发实测，我实现了 WorkBuddy 额度自由",
+    "summary": "爱范儿首发实测搭载英伟达 RTX Spark 超级芯片的华硕 ProArt 创 16 笔记本，验证其本地运行 270 亿参数大模型的性能、续航与 WorkBuddy 协作体验。",
+    "url": "https://www.bestblogs.dev/article/8fca76c0ba?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张子豪",
+    "topic": "人工智能",
+    "date": "2026-10-16",
+    "badge": "model"
+  },
+  {
+    "title": "独家对话 Karpo：Personal AI 的终局，是用户意图的「竞争」，但这还不是行业共识",
+    "summary": "Karpo 创始人 Leah 提出 Personal AI 的核心竞争在于「意图前插」——在用户形成明确需求前捕捉模糊感受，并据此生成个性化供给，而非比拼任务执行。",
+    "url": "https://www.bestblogs.dev/article/38f66ab31d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-10-16",
+    "badge": "featured"
+  },
+  {
+    "title": "淘特端侧模型从微调到应用的全链路实践",
+    "summary": "淘特团队将 QWen3-0.6B 端侧模型从数据集建设、LoRA 微调、ShortGPT 剪枝、AWQ 量化一路做到真机部署，把意图识别准确率从 43% 提升到 91.8%，并落地信息流重排序与离端发券两个场景。",
+    "url": "https://www.bestblogs.dev/article/aa58c5847e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-10-16",
+    "badge": "model"
+  },
+  {
+    "title": "这 8 所学校“零近视”，怎么做到的？",
+    "summary": "云南 8 所学校通过精心预防、精准筛查、精细干预，把近视防控做成日常，实现近视率趋零增长，为全国青少年近视防控提供可复制路径。",
+    "url": "https://www.bestblogs.dev/article/91352ec8da?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人民日报",
+    "topic": "媒体资讯",
+    "date": "2026-10-16",
+    "badge": "featured"
+  },
+  {
+    "title": "花两千踩坑四大 Personal Agent，我 3 个提示语把 33% 成功率救回来了",
+    "summary": "作者实测四款 Personal Agent 后指出云端代理只能稳定承接约 33% 的日常任务，并给出进度表、六道门验证、融合日报三套提示语来补足可靠性。",
+    "url": "https://www.bestblogs.dev/article/c10a8c5025?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 卡尔的AI沃茨",
+    "topic": "人工智能",
+    "date": "2026-10-16",
+    "badge": "agent"
+  },
+  {
+    "title": "中年破产三件套，又多一个",
+    "summary": "本文通过多位手作面包创业者的真实经历，揭示了烘焙行业看似门槛低实则竞争惨烈、成本高企的现状，以及消费者转向平价商超烘焙后引发的关店潮。",
+    "url": "https://www.bestblogs.dev/article/94877485d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人物",
+    "topic": "商业科技",
+    "date": "2026-10-16",
+    "badge": "featured"
+  },
+  {
+    "title": "3 个月用 Harness 重写 90 万行旧代码：踩过的坑都在这",
+    "summary": "作者团队用 3 个月、2～3 人全栈加 AI，把 90 万行旧视频剪辑系统重写为 12 万行新代码，并沉淀出一套以「验证可靠」为核心的 Harness 开发工作流。",
+    "url": "https://www.bestblogs.dev/article/27353949c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-10-16",
+    "badge": "tooling"
+  },
+  {
     "title": "奥斯卡外语片的逻辑，彻底变了",
     "summary": "本文梳理奥斯卡最佳国际影片从国族竞赛到电影节直通、导演本位的制度演变，揭示法国选送外流导演、跨国合拍等现象下国家电影概念的松动与选片机制的争议。",
     "url": "https://www.bestblogs.dev/article/c8cd301e9c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 虹膜",
     "topic": "生活文化",
     "date": "2026-10-15",
-    "badge": "featured"
-  },
-  {
-    "title": "杨源（yuè zhuó），被发现",
-    "summary": "中国科学院古脊椎所和福建地科院在福建政和发现一具侏罗纪新鸟类化石，命名为杨源，其独特形态（短前肢、强壮后肢、恐爪龙类第二趾）表明其为地栖性食肉鸟类，不具备飞行能力，挑战了鸟类演化早期必须依赖飞行的传统认知。",
-    "url": "https://www.bestblogs.dev/article/82bf3890aa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央视网",
-    "topic": "媒体资讯",
-    "date": "2026-10-15",
-    "badge": "featured"
-  },
-  {
-    "title": "他建立了中国的“脑银行”，利息是征服人脑疾病",
-    "summary": "浙江大学脑科学与脑医学学院院长段树民院士，于 2012 年牵头建立了中国最早的脑库之一——浙江大学医学院中国人脑库，旨在通过收集和研究人脑组织，攻克阿尔茨海默病、帕金森病等神经精神类疾病。",
-    "url": "https://www.bestblogs.dev/article/9e04aa579d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-10-15",
-    "badge": "featured"
-  },
-  {
-    "title": "暗访突袭！5A 景区的生死之战",
-    "summary": "桂林旅游业正面临一场大考：游客投诉、网络舆情不断，监管部门点名批评，要求限期整改，而景区和城市管理者必须在保护文化遗产与提升游客体验之间找到平衡，保住 5A 这块金字招牌。",
-    "url": "https://www.bestblogs.dev/article/2526e750a8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国新闻周刊",
-    "topic": "媒体资讯",
-    "date": "2026-10-14",
-    "badge": "featured"
-  },
-  {
-    "title": "真相更加可怕，问题不是内卷",
-    "summary": "文章通过对'内卷'概念的溯源和现实案例的分析，指出当前社会中存在一种更极端、更具破坏性的竞争模式——'负卷'，即不追求收益增长而只图消灭对手，并探讨了这种现象的根源和应对之道。",
-    "url": "https://www.bestblogs.dev/article/c4b2962092?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南风窗",
-    "topic": "媒体资讯",
-    "date": "2026-10-14",
-    "badge": "featured"
-  },
-  {
-    "title": "人类骨骼的独特性，从何而来？",
-    "summary": "《自然》刊文揭示人类骨骼独特性源于糖胺聚糖（GAG）减少的调控变化，这既塑造了直立行走等特征，也导致人类高发骨关节炎，并建立了首个跨物种调控变异功能图谱。",
-    "url": "https://www.bestblogs.dev/article/37dc202fce?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 原理",
-    "topic": "生活文化",
-    "date": "2026-10-14",
-    "badge": "featured"
-  },
-  {
-    "title": "SSR-Merge：把 LoRA 合并从'参数算术'变成'信号路由' | ICML 2026",
-    "summary": "SSR-Merge 通过在信号空间进行路由，而非在参数空间进行算术，解决了多 LoRA 合并时的干扰问题，实现了高保真度的任务组合。",
-    "url": "https://www.bestblogs.dev/article/fff4064e32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / vivo互联网技术",
-    "topic": "人工智能",
-    "date": "2026-10-14",
-    "badge": "featured"
-  },
-  {
-    "title": "车间主任不需要机器人后空翻",
-    "summary": "2026 年，人形机器人在才艺表演赛道已经卷到头，但真正能兑现价值、检验成色的地方是在工厂，而不是舞台。工厂考虑的不是机器人能做什么惊艳动作，而是它能不能稳定地替人干活，重复几千次不出错。具身智能之所以被盯上，是因为它第一次让这类'算不过账'的活有了重新算的可能，通过自己拿主意、感知环境、随时调整，来解决自动化工厂中那些零碎、多变的'长尾'任务。",
-    "url": "https://www.bestblogs.dev/article/509fd3db89?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "人工智能",
-    "date": "2026-10-14",
     "badge": "featured"
   }
 ]
