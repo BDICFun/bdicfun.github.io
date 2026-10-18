@@ -1,5 +1,14 @@
 [
   {
+    "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与 AI 重生",
+    "summary": "美光凭借「美国性」的资本运作与法律工具，以及「东亚性」的亚洲制造产能，在存储行业残酷周期中成为美国独苗，并借 AI 与 HBM 竞争迎来历史性增长。",
+    "url": "https://www.bestblogs.dev/article/70c4ea4225?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "商业科技",
+    "date": "2026-10-17",
+    "badge": "tooling"
+  },
+  {
     "title": "英伟达 RTX Spark 笔记本首发实测，我实现了 WorkBuddy 额度自由",
     "summary": "爱范儿首发实测搭载英伟达 RTX Spark 超级芯片的华硕 ProArt 创 16 笔记本，验证其本地运行 270 亿参数大模型的性能、续航与 WorkBuddy 协作体验。",
     "url": "https://www.bestblogs.dev/article/8fca76c0ba?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,6 +16,15 @@
     "topic": "人工智能",
     "date": "2026-10-16",
     "badge": "model"
+  },
+  {
+    "title": "李录最新对谈：价值投资、人工智能与人类的未来",
+    "summary": "李录在哥伦比亚大学商学院对谈中系统阐述价值投资六原则，剖析生成式 AI 从工具到生命体的连续谱与人类必须划定的红线，并解读中国经济转型的代价与共同市场下的投资机会。",
+    "url": "https://www.bestblogs.dev/article/1c4928ed5a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "投资财经",
+    "date": "2026-10-16",
+    "badge": "tooling"
   },
   {
     "title": "独家对话 Karpo：Personal AI 的终局，是用户意图的「竞争」，但这还不是行业共识",
@@ -51,24 +69,6 @@
     "source": "BestBlogs / 人物",
     "topic": "商业科技",
     "date": "2026-10-16",
-    "badge": "featured"
-  },
-  {
-    "title": "3 个月用 Harness 重写 90 万行旧代码：踩过的坑都在这",
-    "summary": "作者团队用 3 个月、2～3 人全栈加 AI，把 90 万行旧视频剪辑系统重写为 12 万行新代码，并沉淀出一套以「验证可靠」为核心的 Harness 开发工作流。",
-    "url": "https://www.bestblogs.dev/article/27353949c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-10-16",
-    "badge": "tooling"
-  },
-  {
-    "title": "奥斯卡外语片的逻辑，彻底变了",
-    "summary": "本文梳理奥斯卡最佳国际影片从国族竞赛到电影节直通、导演本位的制度演变，揭示法国选送外流导演、跨国合拍等现象下国家电影概念的松动与选片机制的争议。",
-    "url": "https://www.bestblogs.dev/article/c8cd301e9c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虹膜",
-    "topic": "生活文化",
-    "date": "2026-10-15",
     "badge": "featured"
   }
 ]
