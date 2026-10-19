@@ -40,15 +40,15 @@ Data race: 发生在 lw 和 sw 之间，在一个指令 A 执行 lw( 得到 rema
 
 #  **Design of Single-Cycle CPU Datapath and Control Unit** 
 
-1) **MemtoReg** <mark>:This signal decides what is written back to the destination register (</mark> rd).If <mark>0, it writes the ALU result back (for R-type/I-type or addi</mark> ).If <mark>1, it writes the data read from Data Memory back (for</mark> lw),If <mark>the</mark> op is sw or <mark>beq they not write register,flled</mark> i by 0 or x 
+1) **MemtoReg** <mark>: This signal decides what is written back to the destination register (</mark> rd). If <mark>0, it writes the ALU result back (for R-type/I-type or addi</mark> ).If <mark>1, it writes the data read from Data Memory back (for</mark> lw), If <mark>the</mark> op is sw or <mark>beq they not write register,flled</mark> i by 0 or x 
 
-2) **<mark>MemRead</mark>** <mark>:This enables Data Memory to output the value at the given address.</mark> 1 <mark>reads from memory (only asserted for load instructions like</mark> lw).0 <mark>means no memory read</mark> . 
+2) **<mark>MemRead</mark>** <mark>: This enables Data Memory to output the value at the given address.</mark> 1 <mark>reads from memory (only asserted for load instructions like</mark> lw).0 <mark>means no memory read</mark> . 
 
-3) RegWrite: <mark>This enable signal controls whether the register fle is allowed to write data into the</mark> i <mark>destination register (</mark> r <mark>d) on the next clock edge.</mark> 
+3) RegWrite: <mark>This enable signal controls whether the register flie is allowed to write data into the</mark> i <mark>destination register (</mark> r <mark>d) on the next clock edge.</mark> 
 
-4) MemWrite <mark>:This enables Data Memory to store data into the given address.</mark> 1 <mark>writes to memory (only asserted for store instructions like</mark> sw).0 <mark>means no memory write.</mark> 
+4) MemWrite <mark>: This enables Data Memory to store data into the given address.</mark> 1 <mark>writes to memory (only asserted for store instructions like</mark> sw).0 <mark>means no memory write.</mark> 
 
-5) Branch <mark>: This indicates the current instruction is a conditional branch (e.g., beq).It does NOT directly change the PC; it is ANDed with the ALU zero fag to generate</mark> l <mark>PCSrc</mark> . <mark>1enables branch evaluation;</mark> 0 <mark>means no branch.</mark> 
+5) Branch <mark>: This indicates the current instruction is a conditional branch (e.g., beq). It does NOT directly change the PC; it is ANDed with the ALU zero fag to generate</mark> l <mark>PCSrc</mark> . <mark>1enables branch evaluation;</mark> 0 <mark>means no branch.</mark> 
 
 ALU input mux ：在来自寄存器的值 _rs2(Read data 2)_ 和来自指令的立即数 _imm_ 二选一 
 
@@ -401,7 +401,7 @@ _Miss Penalty_ = _Latency_ ¿ _first word_ + _Transfer time for remaining words_
 
 Latency to first word 首字延迟， Transfer time 传输时间 
 
-1 ） .Instruction cache miss & data cache miss 
+1 ） Instruction cache miss & data cache miss 
 
 Instruction cache miss 在 IF 阶段被触发， PC 将地址发送给主存，导致 fetch stall 。 data cache miss 在 MEM 阶段被触发， 
 
