@@ -21,7 +21,7 @@
 
 ### 课程笔记
 
-- [计算机架构导论笔记](Introduction%20to%20Computer%20Architecture%20Notes%281%29.md)
+- [计算机架构导论笔记](computer-architecture-notes.md)
 
 ### 历年试卷
 
