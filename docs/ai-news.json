@@ -1,5 +1,50 @@
 [
   {
+    "title": "MiniMax M3.1 Flash：重新定义 Agent 的性能与成本",
+    "summary": "MiniMax 发布 M3.1 Flash，提升 Agent、编程、电脑操作与网络安全性能，同时将推理成本降低 70%，并公布详细基准与价格。",
+    "url": "https://www.bestblogs.dev/article/d8cd131e06?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / MiniMax 稀宇科技",
+    "topic": "人工智能",
+    "date": "2026-10-19",
+    "badge": "agent"
+  },
+  {
+    "title": "中国 AI 的年轻掌权者们",
+    "summary": "本文深度剖析了中国 AI 行业中一批 30 岁左右的技术领军者如何通过技术能力获取权力，并探讨他们在资源分配、组织管理与技术自由之间寻找平衡的实践与悖论。",
+    "url": "https://www.bestblogs.dev/article/60b247da89?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "商业科技",
+    "date": "2026-10-19",
+    "badge": "featured"
+  },
+  {
+    "title": "越忙越穷，外卖链条上的 12 个打工人",
+    "summary": "通过 12 位外卖链条从业者的亲历叙事，深度揭示平台补贴大战如何将成本转嫁给商家与骑手，导致商家利润缩水、骑手超时焦虑、顾客体验下降的「三输」困局。",
+    "url": "https://www.bestblogs.dev/article/a8e7451d51?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 凤凰网",
+    "topic": "媒体资讯",
+    "date": "2026-10-19",
+    "badge": "featured"
+  },
+  {
+    "title": "告别 AI Demo 页面：构建支持淘内货品运营、可 C 端投放的会场 Agent Harness",
+    "summary": "方舟 AI 会场 Agent Harness 将一句话需求转化为可投放的淘内会场，通过策划、视觉设计、数据装配与页面构建链路，结合 Skill 体系、SubAgent 与多层质检，实现想法即生成、生成即可投放。",
+    "url": "https://www.bestblogs.dev/article/5f3444c8a6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-10-19",
+    "badge": "agent"
+  },
+  {
+    "title": "以大数据重读鲁迅：一个跨越时空的精神象征",
+    "summary": "朱嘉明以鲁迅藏书、日记、书信为数据源，量化还原其知识结构、经济生活与人际网络，论证鲁迅的独立、更新与批判皆植根于具体日常。",
+    "url": "https://www.bestblogs.dev/article/8623feb533?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 经济观察网",
+    "topic": "生活文化",
+    "date": "2026-10-19",
+    "badge": "featured"
+  },
+  {
     "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与 AI 重生",
     "summary": "美光凭借「美国性」的资本运作与法律工具，以及「东亚性」的亚洲制造产能，在存储行业残酷周期中成为美国独苗，并借 AI 与 HBM 竞争迎来历史性增长。",
     "url": "https://www.bestblogs.dev/article/70c4ea4225?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -25,50 +70,5 @@
     "topic": "投资财经",
     "date": "2026-10-16",
     "badge": "tooling"
-  },
-  {
-    "title": "独家对话 Karpo：Personal AI 的终局，是用户意图的「竞争」，但这还不是行业共识",
-    "summary": "Karpo 创始人 Leah 提出 Personal AI 的核心竞争在于「意图前插」——在用户形成明确需求前捕捉模糊感受，并据此生成个性化供给，而非比拼任务执行。",
-    "url": "https://www.bestblogs.dev/article/38f66ab31d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-10-16",
-    "badge": "featured"
-  },
-  {
-    "title": "淘特端侧模型从微调到应用的全链路实践",
-    "summary": "淘特团队将 QWen3-0.6B 端侧模型从数据集建设、LoRA 微调、ShortGPT 剪枝、AWQ 量化一路做到真机部署，把意图识别准确率从 43% 提升到 91.8%，并落地信息流重排序与离端发券两个场景。",
-    "url": "https://www.bestblogs.dev/article/aa58c5847e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-10-16",
-    "badge": "model"
-  },
-  {
-    "title": "这 8 所学校“零近视”，怎么做到的？",
-    "summary": "云南 8 所学校通过精心预防、精准筛查、精细干预，把近视防控做成日常，实现近视率趋零增长，为全国青少年近视防控提供可复制路径。",
-    "url": "https://www.bestblogs.dev/article/91352ec8da?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人民日报",
-    "topic": "媒体资讯",
-    "date": "2026-10-16",
-    "badge": "featured"
-  },
-  {
-    "title": "花两千踩坑四大 Personal Agent，我 3 个提示语把 33% 成功率救回来了",
-    "summary": "作者实测四款 Personal Agent 后指出云端代理只能稳定承接约 33% 的日常任务，并给出进度表、六道门验证、融合日报三套提示语来补足可靠性。",
-    "url": "https://www.bestblogs.dev/article/c10a8c5025?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 卡尔的AI沃茨",
-    "topic": "人工智能",
-    "date": "2026-10-16",
-    "badge": "agent"
-  },
-  {
-    "title": "中年破产三件套，又多一个",
-    "summary": "本文通过多位手作面包创业者的真实经历，揭示了烘焙行业看似门槛低实则竞争惨烈、成本高企的现状，以及消费者转向平价商超烘焙后引发的关店潮。",
-    "url": "https://www.bestblogs.dev/article/94877485d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人物",
-    "topic": "商业科技",
-    "date": "2026-10-16",
-    "badge": "featured"
   }
 ]
