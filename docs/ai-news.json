@@ -1,5 +1,32 @@
 [
   {
+    "title": "训练中自己生成的 Rollout，模型还能学到什么？小红书 AllSpark 提出 ROSS",
+    "summary": "小红书 AllSpark 提出 ROSS 方法，通过选择性监督微调让模型重新学习训练中生成的历史 rollout，在单轮 RL、多教师蒸馏及 Agentic RL 三类场景中均显著提升模型性能，且无需额外生成新轨迹。",
+    "url": "https://www.bestblogs.dev/article/3364d29a2b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
+    "topic": "人工智能",
+    "date": "2026-10-20",
+    "badge": "agent"
+  },
+  {
+    "title": "为什么越来越多文章，都是“AI 里 AI 气”的？",
+    "summary": "本文通过采访编辑、计算语言学家与 AI 研究者，揭示“AI 味”源于大模型的统计预测机制与 RLHF 偏好，指出其正侵蚀人类写作的深度思考过程、导致语言同质化并带来英语中心主义偏见，但专家认为活生生的语言社群仍具韧性。",
+    "url": "https://www.bestblogs.dev/article/1efab7a05a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-10-20",
+    "badge": "model"
+  },
+  {
+    "title": "DeepSeek 开源推理框架：走向真正普惠的未来",
+    "summary": "DeepSeek 发布 V4.1-Flash-1017 新模型，在性能提升的同时降低任务成本，并开放自研搜索 API 与模型权重。",
+    "url": "https://www.bestblogs.dev/article/e1e534e6d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / DeepSeek",
+    "topic": "人工智能",
+    "date": "2026-10-20",
+    "badge": "model"
+  },
+  {
     "title": "MiniMax M3.1 Flash：重新定义 Agent 的性能与成本",
     "summary": "MiniMax 发布 M3.1 Flash，提升 Agent、编程、电脑操作与网络安全性能，同时将推理成本降低 70%，并公布详细基准与价格。",
     "url": "https://www.bestblogs.dev/article/d8cd131e06?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "生活文化",
     "date": "2026-10-19",
     "badge": "featured"
-  },
-  {
-    "title": "美光崛起背后：美国内存“独苗”的生存战、资本博弈与 AI 重生",
-    "summary": "美光凭借「美国性」的资本运作与法律工具，以及「东亚性」的亚洲制造产能，在存储行业残酷周期中成为美国独苗，并借 AI 与 HBM 竞争迎来历史性增长。",
-    "url": "https://www.bestblogs.dev/article/70c4ea4225?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "商业科技",
-    "date": "2026-10-17",
-    "badge": "tooling"
-  },
-  {
-    "title": "英伟达 RTX Spark 笔记本首发实测，我实现了 WorkBuddy 额度自由",
-    "summary": "爱范儿首发实测搭载英伟达 RTX Spark 超级芯片的华硕 ProArt 创 16 笔记本，验证其本地运行 270 亿参数大模型的性能、续航与 WorkBuddy 协作体验。",
-    "url": "https://www.bestblogs.dev/article/8fca76c0ba?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张子豪",
-    "topic": "人工智能",
-    "date": "2026-10-16",
-    "badge": "model"
-  },
-  {
-    "title": "李录最新对谈：价值投资、人工智能与人类的未来",
-    "summary": "李录在哥伦比亚大学商学院对谈中系统阐述价值投资六原则，剖析生成式 AI 从工具到生命体的连续谱与人类必须划定的红线，并解读中国经济转型的代价与共同市场下的投资机会。",
-    "url": "https://www.bestblogs.dev/article/1c4928ed5a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "投资财经",
-    "date": "2026-10-16",
-    "badge": "tooling"
   }
 ]
