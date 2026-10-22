@@ -1,5 +1,41 @@
 [
   {
+    "title": "记忆不是存历史，而是治理未来行动｜KDC 系列 04",
+    "summary": "本文探讨了 AI 记忆的本质，指出记忆不应是无条件保存历史，而应是决定哪些历史可以影响未来判断与行动的治理机制。通过区分四类记忆对象、引入生命周期管理和反馈验证，KDC 旨在构建一个能够持续修正偏差、保持一致性的长期运行系统。",
+    "url": "https://www.bestblogs.dev/article/94cd388edb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / vivo互联网技术",
+    "topic": "人工智能",
+    "date": "2026-10-21",
+    "badge": "featured"
+  },
+  {
+    "title": "国产算力·昇腾 910C 大模型推理优化（上）：镜像更新与参数调优，提速 40%",
+    "summary": "本文总结了在华为昇腾 910C 上对大模型进行推理优化的实践经验，通过镜像升级、参数调优和源码修改等 20 余项措施，显著降低 TPOT 延迟，为国产算力在线推理提供可复用的工程参考。",
+    "url": "https://www.bestblogs.dev/article/e5eed9d6f7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 得物技术",
+    "topic": "人工智能",
+    "date": "2026-10-21",
+    "badge": "model"
+  },
+  {
+    "title": "天猫数字员工（协作篇）- 研发的暗物质与 AI Native 组织协作",
+    "summary": "数字员工通过驻群共享上下文、异步卡片交互和主动进度跟进，有效压缩了传递、获取、默契和决策四类协作摩擦，同时将隐性知识沉淀为可复用的业务资产，推动组织从职能分工向任务驱动演进。",
+    "url": "https://www.bestblogs.dev/article/c3cea32eb8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-10-21",
+    "badge": "featured"
+  },
+  {
+    "title": "Jev：当 AI 不再\"写答案」，而是直接做决策",
+    "summary": "本文探讨了 TypeSafe AI 的 Jev 模型，它通过将上下文、问题和答案空间直接映射为带概率的决策结果，而非生成开放式文本，从而为自动化系统提供了更高效、更可靠的决策接口。",
+    "url": "https://www.bestblogs.dev/article/79c0bf1e76?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 京东技术",
+    "topic": "人工智能",
+    "date": "2026-10-20",
+    "badge": "model"
+  },
+  {
     "title": "训练中自己生成的 Rollout，模型还能学到什么？小红书 AllSpark 提出 ROSS",
     "summary": "小红书 AllSpark 提出 ROSS 方法，通过选择性监督微调让模型重新学习训练中生成的历史 rollout，在单轮 RL、多教师蒸馏及 Agentic RL 三类场景中均显著提升模型性能，且无需额外生成新轨迹。",
     "url": "https://www.bestblogs.dev/article/3364d29a2b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -27,48 +63,12 @@
     "badge": "model"
   },
   {
-    "title": "MiniMax M3.1 Flash：重新定义 Agent 的性能与成本",
-    "summary": "MiniMax 发布 M3.1 Flash，提升 Agent、编程、电脑操作与网络安全性能，同时将推理成本降低 70%，并公布详细基准与价格。",
-    "url": "https://www.bestblogs.dev/article/d8cd131e06?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
+    "title": "个人提效到团队提效：货拉拉 AI Coding 流程化落地实践",
+    "summary": "货拉拉通过统一 AI 工具配置、规范化编码流程和闭环度量体系，将个人级别的 AI 提效扩展为团队级的交付优化，实现了从需求理解到代码上线的全链路自动化。",
+    "url": "https://www.bestblogs.dev/article/b8a33e7b87?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / dbaplus社群",
+    "topic": "软件编程",
     "date": "2026-10-19",
-    "badge": "agent"
-  },
-  {
-    "title": "中国 AI 的年轻掌权者们",
-    "summary": "本文深度剖析了中国 AI 行业中一批 30 岁左右的技术领军者如何通过技术能力获取权力，并探讨他们在资源分配、组织管理与技术自由之间寻找平衡的实践与悖论。",
-    "url": "https://www.bestblogs.dev/article/60b247da89?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-10-19",
-    "badge": "featured"
-  },
-  {
-    "title": "越忙越穷，外卖链条上的 12 个打工人",
-    "summary": "通过 12 位外卖链条从业者的亲历叙事，深度揭示平台补贴大战如何将成本转嫁给商家与骑手，导致商家利润缩水、骑手超时焦虑、顾客体验下降的「三输」困局。",
-    "url": "https://www.bestblogs.dev/article/a8e7451d51?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 凤凰网",
-    "topic": "媒体资讯",
-    "date": "2026-10-19",
-    "badge": "featured"
-  },
-  {
-    "title": "告别 AI Demo 页面：构建支持淘内货品运营、可 C 端投放的会场 Agent Harness",
-    "summary": "方舟 AI 会场 Agent Harness 将一句话需求转化为可投放的淘内会场，通过策划、视觉设计、数据装配与页面构建链路，结合 Skill 体系、SubAgent 与多层质检，实现想法即生成、生成即可投放。",
-    "url": "https://www.bestblogs.dev/article/5f3444c8a6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-10-19",
-    "badge": "agent"
-  },
-  {
-    "title": "以大数据重读鲁迅：一个跨越时空的精神象征",
-    "summary": "朱嘉明以鲁迅藏书、日记、书信为数据源，量化还原其知识结构、经济生活与人际网络，论证鲁迅的独立、更新与批判皆植根于具体日常。",
-    "url": "https://www.bestblogs.dev/article/8623feb533?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 经济观察网",
-    "topic": "生活文化",
-    "date": "2026-10-19",
-    "badge": "featured"
+    "badge": "tooling"
   }
 ]
