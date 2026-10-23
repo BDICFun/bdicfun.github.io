@@ -1,74 +1,74 @@
 [
   {
-    "title": "记忆不是存历史，而是治理未来行动｜KDC 系列 04",
-    "summary": "本文探讨了 AI 记忆的本质，指出记忆不应是无条件保存历史，而应是决定哪些历史可以影响未来判断与行动的治理机制。通过区分四类记忆对象、引入生命周期管理和反馈验证，KDC 旨在构建一个能够持续修正偏差、保持一致性的长期运行系统。",
-    "url": "https://www.bestblogs.dev/article/94cd388edb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / vivo互联网技术",
-    "topic": "人工智能",
-    "date": "2026-10-21",
-    "badge": "featured"
-  },
-  {
-    "title": "国产算力·昇腾 910C 大模型推理优化（上）：镜像更新与参数调优，提速 40%",
-    "summary": "本文总结了在华为昇腾 910C 上对大模型进行推理优化的实践经验，通过镜像升级、参数调优和源码修改等 20 余项措施，显著降低 TPOT 延迟，为国产算力在线推理提供可复用的工程参考。",
-    "url": "https://www.bestblogs.dev/article/e5eed9d6f7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 得物技术",
-    "topic": "人工智能",
-    "date": "2026-10-21",
+    "title": "从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路",
+    "summary": "本文详细介绍了美团技术团队如何将 Karpathy 的 AutoResearch 理念从单线程循环扩展为分布式图探索架构，通过状态机、业务知识库和真实大闭环实现算法研究的自进化，显著提升了模型优化效率和稳定性。",
+    "url": "https://www.bestblogs.dev/article/e5031a99c8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
+    "topic": "软件编程",
+    "date": "2026-10-22",
     "badge": "model"
   },
   {
-    "title": "天猫数字员工（协作篇）- 研发的暗物质与 AI Native 组织协作",
-    "summary": "数字员工通过驻群共享上下文、异步卡片交互和主动进度跟进，有效压缩了传递、获取、默契和决策四类协作摩擦，同时将隐性知识沉淀为可复用的业务资产，推动组织从职能分工向任务驱动演进。",
-    "url": "https://www.bestblogs.dev/article/c3cea32eb8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
+    "title": "用完 12 个 Personal Agent 后，我找到了决定好用上限的五个标准",
+    "summary": "判断 Personal Agent 好不好用，不在于用的哪个模型，而在于你拥有的账号与它能提供的服务重叠有多高。我通过测试 12 个 Agent，发现五个关键维度——记忆、信息获取、Computer Use、主动性和多端联动——决定了其上限，并分享了实际案例和工作流优化。",
+    "url": "https://www.bestblogs.dev/article/d4dd0870d3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 卡尔的AI沃茨",
     "topic": "人工智能",
-    "date": "2026-10-21",
-    "badge": "featured"
-  },
-  {
-    "title": "Jev：当 AI 不再\"写答案」，而是直接做决策",
-    "summary": "本文探讨了 TypeSafe AI 的 Jev 模型，它通过将上下文、问题和答案空间直接映射为带概率的决策结果，而非生成开放式文本，从而为自动化系统提供了更高效、更可靠的决策接口。",
-    "url": "https://www.bestblogs.dev/article/79c0bf1e76?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 京东技术",
-    "topic": "人工智能",
-    "date": "2026-10-20",
-    "badge": "model"
-  },
-  {
-    "title": "训练中自己生成的 Rollout，模型还能学到什么？小红书 AllSpark 提出 ROSS",
-    "summary": "小红书 AllSpark 提出 ROSS 方法，通过选择性监督微调让模型重新学习训练中生成的历史 rollout，在单轮 RL、多教师蒸馏及 Agentic RL 三类场景中均显著提升模型性能，且无需额外生成新轨迹。",
-    "url": "https://www.bestblogs.dev/article/3364d29a2b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
-    "topic": "人工智能",
-    "date": "2026-10-20",
+    "date": "2026-10-22",
     "badge": "agent"
   },
   {
-    "title": "为什么越来越多文章，都是“AI 里 AI 气”的？",
-    "summary": "本文通过采访编辑、计算语言学家与 AI 研究者，揭示“AI 味”源于大模型的统计预测机制与 RLHF 偏好，指出其正侵蚀人类写作的深度思考过程、导致语言同质化并带来英语中心主义偏见，但专家认为活生生的语言社群仍具韧性。",
-    "url": "https://www.bestblogs.dev/article/1efab7a05a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "生活文化",
-    "date": "2026-10-20",
-    "badge": "model"
-  },
-  {
-    "title": "DeepSeek 开源推理框架：走向真正普惠的未来",
-    "summary": "DeepSeek 发布 V4.1-Flash-1017 新模型，在性能提升的同时降低任务成本，并开放自研搜索 API 与模型权重。",
-    "url": "https://www.bestblogs.dev/article/e1e534e6d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / DeepSeek",
+    "title": "高分智能体为何反而更脆弱？阿里 Token Foundry 揭示「协同进化陷阱」，提出 CODA 可靠性评测协议",
+    "summary": "阿里巴巴 Token Foundry 发现，智能体在技能-策略协同进化中取得的高分，往往伴随着对特定技能库的过度依赖，导致在实际部署中面对技能变化时表现不稳定。为此，他们提出了 CODA 评测协议，通过模拟技能漂移来衡量模型的可靠性，并揭示了当前方法在应对技能变化时的脆弱性。",
+    "url": "https://www.bestblogs.dev/article/78b7ab9e6e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
     "topic": "人工智能",
-    "date": "2026-10-20",
+    "date": "2026-10-22",
     "badge": "model"
   },
   {
-    "title": "个人提效到团队提效：货拉拉 AI Coding 流程化落地实践",
-    "summary": "货拉拉通过统一 AI 工具配置、规范化编码流程和闭环度量体系，将个人级别的 AI 提效扩展为团队级的交付优化，实现了从需求理解到代码上线的全链路自动化。",
-    "url": "https://www.bestblogs.dev/article/b8a33e7b87?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / dbaplus社群",
-    "topic": "软件编程",
-    "date": "2026-10-19",
-    "badge": "tooling"
+    "title": "小红书 NeurIPS 2026｜用推理模型自己的思维链作 hint，1000 条数据教会模型“少想”",
+    "summary": "小红书提出 Hint Tuning 方法，通过将推理模型的思维链切片作为提示，让模型学会按题目难度动态调整思考长度，在数学基准上实现 31.5% 的 token 节省，同时保持准确率稳定。",
+    "url": "https://www.bestblogs.dev/article/93a220fcf5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
+    "topic": "人工智能",
+    "date": "2026-10-22",
+    "badge": "model"
+  },
+  {
+    "title": "后知识社会的五种稀缺能力",
+    "summary": "在 AI 无处不在的时代，人的价值不在于回答问题，而在于提出好问题、敢于犯错、辨别信息方向、跨界迁移，以及保持同理心——这些都是机器无法替代的稀缺能力。",
+    "url": "https://www.bestblogs.dev/article/bb18bb5144?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "个人成长",
+    "date": "2026-10-22",
+    "badge": "featured"
+  },
+  {
+    "title": "大模型如何胜任职场？WorkForge 让大模型进入真实职场工作流",
+    "summary": "腾讯混元与复旦大学提出 WorkForge，一个从真实世界资源出发、规模化构建可验证智能体工作环境的框架，通过 16，665 个真实工作区训练模型，显著提升智能体在长程任务中的探索、核查与交付能力。",
+    "url": "https://www.bestblogs.dev/article/5e135a7ad5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯混元",
+    "topic": "人工智能",
+    "date": "2026-10-22",
+    "badge": "model"
+  },
+  {
+    "title": "被卖进电诈园区的“王星们”，永远还不清身上的“贷款” | 专访何袜皮",
+    "summary": "东南亚电诈园区通过人口转卖和高额赔付机制，将普通人困在诈骗链条中，无法逃脱。本文专访人类学学者何袜皮，揭露园区内部的暴力控制、女性受害者境况，以及如何从这些陷阱中救出被困者。",
+    "url": "https://www.bestblogs.dev/article/b9aa02f0a3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新周刊",
+    "topic": "媒体资讯",
+    "date": "2026-10-22",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 冲击数学，信誉系统崩盘，数学界何去何从？",
+    "summary": "OpenAI 发布的 700 多篇数学论文，涵盖 400 个猜想的解，对数学界造成巨大冲击，暴露了长期脱离现实、依赖脆弱信任体系的弊端，并引发对未来数学发展方向的深刻反思。",
+    "url": "https://www.bestblogs.dev/article/f28686348c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 知识分子",
+    "topic": "媒体资讯",
+    "date": "2026-10-22",
+    "badge": "featured"
   }
 ]
