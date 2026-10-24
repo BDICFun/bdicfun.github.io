@@ -1,74 +1,74 @@
 [
   {
-    "title": "从 LOOP 到图探索 —— 算法模型的 AutoResearch 自进化系统架构演进之路",
-    "summary": "本文详细介绍了美团技术团队如何将 Karpathy 的 AutoResearch 理念从单线程循环扩展为分布式图探索架构，通过状态机、业务知识库和真实大闭环实现算法研究的自进化，显著提升了模型优化效率和稳定性。",
-    "url": "https://www.bestblogs.dev/article/e5031a99c8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 美团 · 技术团队",
-    "topic": "软件编程",
-    "date": "2026-10-22",
+    "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+    "summary": "Kimi K3.1 Pro 凭借 3 万亿参数和 100 万上下文，在代码、3D 创作、金融分析等领域展现出媲美 GPT-6 Astra 和 Opus 5.5 的能力，成为国产模型中新的性能天花板。",
+    "url": "https://www.bestblogs.dev/article/e4059c1902?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张子豪",
+    "topic": "人工智能",
+    "date": "2026-10-24",
     "badge": "model"
   },
   {
-    "title": "用完 12 个 Personal Agent 后，我找到了决定好用上限的五个标准",
-    "summary": "判断 Personal Agent 好不好用，不在于用的哪个模型，而在于你拥有的账号与它能提供的服务重叠有多高。我通过测试 12 个 Agent，发现五个关键维度——记忆、信息获取、Computer Use、主动性和多端联动——决定了其上限，并分享了实际案例和工作流优化。",
-    "url": "https://www.bestblogs.dev/article/d4dd0870d3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 卡尔的AI沃茨",
+    "title": "Kimi K3.1 Pro：智能前沿，更进一步",
+    "summary": "月之暗面发布 Kimi K3.1 Pro，作为 3 万亿参数、支持 100 万上下文的旗舰模型，在代码、3D 创作、金融研究及安全可控方面实现显著提升，并同步推出高速版。",
+    "url": "https://www.bestblogs.dev/article/3638ffdddf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 月之暗面 Kimi",
     "topic": "人工智能",
-    "date": "2026-10-22",
+    "date": "2026-10-23",
+    "badge": "model"
+  },
+  {
+    "title": "还原田柯宇事件：被破坏的训练，和一个争抢 “天才” 的时代",
+    "summary": "本文深度还原了字节跳动实习生田柯宇破坏 AI 模型训练事件的完整经过，并探讨了 AI 行业竞争加剧背景下人才选拔机制与职业伦理的边界问题。",
+    "url": "https://www.bestblogs.dev/article/d2cba98689?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "商业科技",
+    "date": "2026-10-23",
+    "badge": "model"
+  },
+  {
+    "title": "小红书推荐系统评测 Agent：上下文驱动的 LLM-as-Judge 实践",
+    "summary": "小红书构建了上下文驱动的推荐评测 Agent，通过将一次推荐请求作为最小评测单元，结合确定性规则与 LLM-as-Judge 的分工，对内容质量、兴趣匹配、时效性和多样性进行多维度判断，并支持可回放的实验级诊断。",
+    "url": "https://www.bestblogs.dev/article/a047f1fea0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
+    "topic": "人工智能",
+    "date": "2026-10-23",
     "badge": "agent"
   },
   {
-    "title": "高分智能体为何反而更脆弱？阿里 Token Foundry 揭示「协同进化陷阱」，提出 CODA 可靠性评测协议",
-    "summary": "阿里巴巴 Token Foundry 发现，智能体在技能-策略协同进化中取得的高分，往往伴随着对特定技能库的过度依赖，导致在实际部署中面对技能变化时表现不稳定。为此，他们提出了 CODA 评测协议，通过模拟技能漂移来衡量模型的可靠性，并揭示了当前方法在应对技能变化时的脆弱性。",
-    "url": "https://www.bestblogs.dev/article/78b7ab9e6e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-10-22",
-    "badge": "model"
-  },
-  {
-    "title": "小红书 NeurIPS 2026｜用推理模型自己的思维链作 hint，1000 条数据教会模型“少想”",
-    "summary": "小红书提出 Hint Tuning 方法，通过将推理模型的思维链切片作为提示，让模型学会按题目难度动态调整思考长度，在数学基准上实现 31.5% 的 token 节省，同时保持准确率稳定。",
-    "url": "https://www.bestblogs.dev/article/93a220fcf5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
-    "topic": "人工智能",
-    "date": "2026-10-22",
-    "badge": "model"
-  },
-  {
-    "title": "后知识社会的五种稀缺能力",
-    "summary": "在 AI 无处不在的时代，人的价值不在于回答问题，而在于提出好问题、敢于犯错、辨别信息方向、跨界迁移，以及保持同理心——这些都是机器无法替代的稀缺能力。",
-    "url": "https://www.bestblogs.dev/article/bb18bb5144?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "Token 经济的终点，依然是人",
+    "summary": "Token 经济的核心变化是认知能力第一次以如此细密、连续、可编程的方式进入经济系统，改变了成本结构、价值分布、需求主体、产业竞争和商业制度边界，但其终点不应是让人退到系统之外，而应让人有能力重新站在系统中央，调用智能而不是依附智能。",
+    "url": "https://www.bestblogs.dev/article/0e6b5568f8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 腾讯研究院",
-    "topic": "个人成长",
-    "date": "2026-10-22",
-    "badge": "featured"
+    "topic": "商业科技",
+    "date": "2026-10-23",
+    "badge": "tooling"
   },
   {
-    "title": "大模型如何胜任职场？WorkForge 让大模型进入真实职场工作流",
-    "summary": "腾讯混元与复旦大学提出 WorkForge，一个从真实世界资源出发、规模化构建可验证智能体工作环境的框架，通过 16，665 个真实工作区训练模型，显著提升智能体在长程任务中的探索、核查与交付能力。",
-    "url": "https://www.bestblogs.dev/article/5e135a7ad5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯混元",
+    "title": "Agent、机器人与制药，谁先被 GPT-6 Astra 改写？",
+    "summary": "GPT-6 Astra 的发布引发了 AI 领域的一场变革，它不仅在机器人控制中展现出超强的适应性和迭代能力，还通过 Computer Use 功能显著提升了生物医学实验的效率，同时在 AI for Science 领域，它对长程任务的稳定执行能力也得到了广泛认可。",
+    "url": "https://www.bestblogs.dev/article/00645e1ff3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
     "topic": "人工智能",
-    "date": "2026-10-22",
-    "badge": "model"
+    "date": "2026-10-23",
+    "badge": "agent"
   },
   {
-    "title": "被卖进电诈园区的“王星们”，永远还不清身上的“贷款” | 专访何袜皮",
-    "summary": "东南亚电诈园区通过人口转卖和高额赔付机制，将普通人困在诈骗链条中，无法逃脱。本文专访人类学学者何袜皮，揭露园区内部的暴力控制、女性受害者境况，以及如何从这些陷阱中救出被困者。",
-    "url": "https://www.bestblogs.dev/article/b9aa02f0a3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新周刊",
-    "topic": "媒体资讯",
-    "date": "2026-10-22",
-    "badge": "featured"
+    "title": "Astra 得分仅 19%，这可能是目前最难刷的 Benchmark｜RobotWorld 团队回应一切",
+    "summary": "RobotWorld 评测揭示了通用模型在机器人操作中的能力差距，Astra 和 Opus 表现领先但仍有限，团队强调了视觉理解、物理知识、编程和 Agent 能力的综合重要性，并展望了具身智能的未来发展。",
+    "url": "https://www.bestblogs.dev/article/06ef42640d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "人工智能",
+    "date": "2026-10-23",
+    "badge": "agent"
   },
   {
-    "title": "AI 冲击数学，信誉系统崩盘，数学界何去何从？",
-    "summary": "OpenAI 发布的 700 多篇数学论文，涵盖 400 个猜想的解，对数学界造成巨大冲击，暴露了长期脱离现实、依赖脆弱信任体系的弊端，并引发对未来数学发展方向的深刻反思。",
-    "url": "https://www.bestblogs.dev/article/f28686348c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 知识分子",
+    "title": "7 年心血恐被 AI 抢先，数学家带两名中国博士生，3 天赶出 95 页论文",
+    "summary": "MIT 数学副教授多尔·明泽在得知 OpenAI 可能抢先证明唯一博弈猜想后，与两名中国博士生紧急赶出 95 页论文，成功在 AI 发布前公开成果，尽管最终 AI 的结论更强，但他们的工作仍为该领域提供了重要贡献。",
+    "url": "https://www.bestblogs.dev/article/57cf02f07f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 返朴",
     "topic": "媒体资讯",
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "badge": "featured"
   }
 ]
