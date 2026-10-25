@@ -9,6 +9,33 @@
     "badge": "model"
   },
   {
+    "title": "跑不了了，中国“AI 禁令”震动全球",
+    "summary": "中国商务部和科技部发布第 48 号公告，拟对人工智能、生物医药、光伏三大领域的共 40 项关键技术进行出口管制，其中 14 项禁止、26 项限制，并同步开启出口前登记的临时管理措施，旨在保护国家核心资产和防范技术外流风险。",
+    "url": "https://www.bestblogs.dev/article/fd4bb5b4c7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 果壳",
+    "topic": "人工智能",
+    "date": "2026-10-24",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 助理争夺战：解析 Muse、Grok Bot 与 Instinct 背后的产品布局、入口生意与盈利难题",
+    "summary": "硅谷 101 深度解析 Instinct、Meta Muse、Grok Bot 三大 AI 助理产品的差异化切入、技术成熟度支撑、信任与平台冲突及盈利困境，揭示 AI Agent 抢占任务执行入口的商业博弈。",
+    "url": "https://www.bestblogs.dev/article/3d63b11351?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "商业科技",
+    "date": "2026-10-24",
+    "badge": "agent"
+  },
+  {
+    "title": "互联网中心化与 NAT 原罪：为啥你的电脑不能当服务器？",
+    "summary": "NAT 的广泛使用导致大部分设备失去了公网可寻址能力，迫使互联网从对等网络退化为客户端-服务器模型，而 IPv6 的迟缓部署未能及时纠正这一趋势。",
+    "url": "https://www.bestblogs.dev/article/67707c51a6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / dbaplus社群",
+    "topic": "软件编程",
+    "date": "2026-10-24",
+    "badge": "model"
+  },
+  {
     "title": "Kimi K3.1 Pro：智能前沿，更进一步",
     "summary": "月之暗面发布 Kimi K3.1 Pro，作为 3 万亿参数、支持 100 万上下文的旗舰模型，在代码、3D 创作、金融研究及安全可控方面实现显著提升，并同步推出高速版。",
     "url": "https://www.bestblogs.dev/article/3638ffdddf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -16,6 +43,15 @@
     "topic": "人工智能",
     "date": "2026-10-23",
     "badge": "model"
+  },
+  {
+    "title": "一座西班牙老厂，等来了一家中国车企",
+    "summary": "零跑汽车通过与 Stellantis 合作，在西班牙萨拉戈萨工厂实现欧洲本地量产，并自建电池工厂主导技术标准，标志着中国车企从产品出口转向技术标准输出的新阶段，也揭示了欧盟关税壁垒难以阻挡中国汽车产业体系进入欧洲的深层逻辑。",
+    "url": "https://www.bestblogs.dev/article/e1170a1b90?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "商业科技",
+    "date": "2026-10-23",
+    "badge": "featured"
   },
   {
     "title": "还原田柯宇事件：被破坏的训练，和一个争抢 “天才” 的时代",
@@ -27,47 +63,11 @@
     "badge": "model"
   },
   {
-    "title": "小红书推荐系统评测 Agent：上下文驱动的 LLM-as-Judge 实践",
-    "summary": "小红书构建了上下文驱动的推荐评测 Agent，通过将一次推荐请求作为最小评测单元，结合确定性规则与 LLM-as-Judge 的分工，对内容质量、兴趣匹配、时效性和多样性进行多维度判断，并支持可回放的实验级诊断。",
-    "url": "https://www.bestblogs.dev/article/a047f1fea0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
-    "topic": "人工智能",
-    "date": "2026-10-23",
-    "badge": "agent"
-  },
-  {
-    "title": "Token 经济的终点，依然是人",
-    "summary": "Token 经济的核心变化是认知能力第一次以如此细密、连续、可编程的方式进入经济系统，改变了成本结构、价值分布、需求主体、产业竞争和商业制度边界，但其终点不应是让人退到系统之外，而应让人有能力重新站在系统中央，调用智能而不是依附智能。",
-    "url": "https://www.bestblogs.dev/article/0e6b5568f8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
+    "title": "胡泳｜为什么人类非得比 AI 强，才配过上好日子？",
+    "summary": "文章批判了将人的价值与机器可替代性挂钩的观念，认为社会不应要求每个人都通过「有用」来换取生存，而应重新设计一个不以人的可用性为起点的社会，确保基本生活保障与多元贡献的认可。",
+    "url": "https://www.bestblogs.dev/article/0909d86cc2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 胡泳",
     "topic": "商业科技",
-    "date": "2026-10-23",
-    "badge": "tooling"
-  },
-  {
-    "title": "Agent、机器人与制药，谁先被 GPT-6 Astra 改写？",
-    "summary": "GPT-6 Astra 的发布引发了 AI 领域的一场变革，它不仅在机器人控制中展现出超强的适应性和迭代能力，还通过 Computer Use 功能显著提升了生物医学实验的效率，同时在 AI for Science 领域，它对长程任务的稳定执行能力也得到了广泛认可。",
-    "url": "https://www.bestblogs.dev/article/00645e1ff3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "人工智能",
-    "date": "2026-10-23",
-    "badge": "agent"
-  },
-  {
-    "title": "Astra 得分仅 19%，这可能是目前最难刷的 Benchmark｜RobotWorld 团队回应一切",
-    "summary": "RobotWorld 评测揭示了通用模型在机器人操作中的能力差距，Astra 和 Opus 表现领先但仍有限，团队强调了视觉理解、物理知识、编程和 Agent 能力的综合重要性，并展望了具身智能的未来发展。",
-    "url": "https://www.bestblogs.dev/article/06ef42640d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "人工智能",
-    "date": "2026-10-23",
-    "badge": "agent"
-  },
-  {
-    "title": "7 年心血恐被 AI 抢先，数学家带两名中国博士生，3 天赶出 95 页论文",
-    "summary": "MIT 数学副教授多尔·明泽在得知 OpenAI 可能抢先证明唯一博弈猜想后，与两名中国博士生紧急赶出 95 页论文，成功在 AI 发布前公开成果，尽管最终 AI 的结论更强，但他们的工作仍为该领域提供了重要贡献。",
-    "url": "https://www.bestblogs.dev/article/57cf02f07f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 返朴",
-    "topic": "媒体资讯",
     "date": "2026-10-23",
     "badge": "featured"
   }
