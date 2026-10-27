@@ -1,74 +1,74 @@
 [
   {
-    "title": "抑郁症的运动、饮食与睡眠调理：具体怎么做，为什么有用",
-    "summary": "本文系统阐述了运动、饮食和睡眠调理在抑郁症治疗中的科学依据和具体实施策略，强调这些生活方式干预不仅是辅助建议，更是改善患者生理基础、增强治疗效果的必要组成部分。",
-    "url": "https://www.bestblogs.dev/article/ffa5bca8ba?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 神经精神科杂谈",
+    "title": "怎么让大模型更好地利用上下文？小红书 AllSpark 提出增强上下文学习能力的数据管线",
+    "summary": "小红书 AllSpark 团队提出无需人工标注的合成数据管线，通过扰动真实文档切断模型参数记忆，结合 Gap Check 筛选依赖上下文的样本，将 35B 模型在 CL-bench 上提升至 24.6%，超越万亿参数模型。",
+    "url": "https://www.bestblogs.dev/article/4fa1e16220?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
+    "topic": "人工智能",
+    "date": "2026-10-26",
+    "badge": "model"
+  },
+  {
+    "title": "国产算力·昇腾 910C 大模型推理优化（下）：源码修改与算子优化，提速 30%｜得物技术",
+    "summary": "本文深入分析了在华为昇腾 910C 上对大模型推理进行源码级和算子层优化，通过多流重叠、host 开销优化、融合算子、静态 kernel 编译等手段，实现了 TPOT 延迟从基线 14.1ms 降至 5.0ms 的显著提升，并验证了这些优化在真实业务场景中的有效性。",
+    "url": "https://www.bestblogs.dev/article/6d9c06f1f2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 得物技术",
+    "topic": "人工智能",
+    "date": "2026-10-26",
+    "badge": "model"
+  },
+  {
+    "title": "AI 写作是一种命运",
+    "summary": "本文探讨了 AI 写作的不可避免性，认为它不再是一个选择，而是一种必须面对的现实，并提出了在 AI 辅助下保持写作个性和原创性的策略。",
+    "url": "https://www.bestblogs.dev/article/e299e67b46?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
     "topic": "商业科技",
+    "date": "2026-10-26",
+    "badge": "featured"
+  },
+  {
+    "title": "继母的选择",
+    "summary": "任叶在 42 岁时决定离婚，并主动争取抚养三个孩子，包括丈夫与前妻所生的女儿，这一罕见的选择反映了她对家庭责任的坚定承诺和对孩子们未来的关怀。",
+    "url": "https://www.bestblogs.dev/article/6a866173d3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人物",
+    "topic": "生活文化",
+    "date": "2026-10-26",
+    "badge": "featured"
+  },
+  {
+    "title": "最新证据为富兰克林翻案：她看懂了那张震惊世界的 51 号照片",
+    "summary": "新研究表明，富兰克林在拍摄 51 号照片前，已从 49 号照片中测出 DNA 螺旋的尺寸，并有意重拍以获取完整数据，证明她并未错过照片中的螺旋结构。",
+    "url": "https://www.bestblogs.dev/article/a0ede6266a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 返朴",
+    "topic": "个人成长",
+    "date": "2026-10-26",
+    "badge": "featured"
+  },
+  {
+    "title": "前 EAGLE Team 成员自述 EAGLE-4 的设计，以及背后的工程取舍！",
+    "summary": "本文由前 EAGLE Team 成员撰写，详细回顾了 EAGLE-4 的设计过程，重点介绍了 EAGLE-Harness 的动态验证逻辑和 EAGLE Efficient LM Head 的两阶段优化方案，并讨论了其中的工程取舍和实验结果。",
+    "url": "https://www.bestblogs.dev/article/cfa63cdce1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 青稞AI",
+    "topic": "人工智能",
     "date": "2026-10-25",
     "badge": "featured"
   },
   {
-    "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
-    "summary": "Kimi K3.1 Pro 凭借 3 万亿参数和 100 万上下文，在代码、3D 创作、金融分析等领域展现出媲美 GPT-6 Astra 和 Opus 5.5 的能力，成为国产模型中新的性能天花板。",
-    "url": "https://www.bestblogs.dev/article/e4059c1902?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张子豪",
-    "topic": "人工智能",
-    "date": "2026-10-24",
-    "badge": "model"
-  },
-  {
-    "title": "跑不了了，中国“AI 禁令”震动全球",
-    "summary": "中国商务部和科技部发布第 48 号公告，拟对人工智能、生物医药、光伏三大领域的共 40 项关键技术进行出口管制，其中 14 项禁止、26 项限制，并同步开启出口前登记的临时管理措施，旨在保护国家核心资产和防范技术外流风险。",
-    "url": "https://www.bestblogs.dev/article/fd4bb5b4c7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 果壳",
-    "topic": "人工智能",
-    "date": "2026-10-24",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 助理争夺战：解析 Muse、Grok Bot 与 Instinct 背后的产品布局、入口生意与盈利难题",
-    "summary": "硅谷 101 深度解析 Instinct、Meta Muse、Grok Bot 三大 AI 助理产品的差异化切入、技术成熟度支撑、信任与平台冲突及盈利困境，揭示 AI Agent 抢占任务执行入口的商业博弈。",
-    "url": "https://www.bestblogs.dev/article/3d63b11351?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "商业科技",
-    "date": "2026-10-24",
-    "badge": "agent"
-  },
-  {
-    "title": "Kimi K3.1 Pro：智能前沿，更进一步",
-    "summary": "月之暗面发布 Kimi K3.1 Pro，作为 3 万亿参数、支持 100 万上下文的旗舰模型，在代码、3D 创作、金融研究及安全可控方面实现显著提升，并同步推出高速版。",
-    "url": "https://www.bestblogs.dev/article/3638ffdddf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 月之暗面 Kimi",
-    "topic": "人工智能",
-    "date": "2026-10-23",
-    "badge": "model"
-  },
-  {
-    "title": "一座西班牙老厂，等来了一家中国车企",
-    "summary": "零跑汽车通过与 Stellantis 合作，在西班牙萨拉戈萨工厂实现欧洲本地量产，并自建电池工厂主导技术标准，标志着中国车企从产品出口转向技术标准输出的新阶段，也揭示了欧盟关税壁垒难以阻挡中国汽车产业体系进入欧洲的深层逻辑。",
-    "url": "https://www.bestblogs.dev/article/e1170a1b90?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-10-23",
-    "badge": "featured"
-  },
-  {
-    "title": "还原田柯宇事件：被破坏的训练，和一个争抢 “天才” 的时代",
-    "summary": "本文深度还原了字节跳动实习生田柯宇破坏 AI 模型训练事件的完整经过，并探讨了 AI 行业竞争加剧背景下人才选拔机制与职业伦理的边界问题。",
-    "url": "https://www.bestblogs.dev/article/d2cba98689?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-10-23",
-    "badge": "model"
-  },
-  {
-    "title": "胡泳｜为什么人类非得比 AI 强，才配过上好日子？",
-    "summary": "文章批判了将人的价值与机器可替代性挂钩的观念，认为社会不应要求每个人都通过「有用」来换取生存，而应重新设计一个不以人的可用性为起点的社会，确保基本生活保障与多元贡献的认可。",
-    "url": "https://www.bestblogs.dev/article/0909d86cc2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "胡泳 | 重阳节之问：我们是否欠老人一个“走得慢”的权利？",
+    "summary": "文章以机场值机柜台高度这一具体问题为切入点，系统探讨机场适老化设计的多重维度，指出适老化不应是特殊照顾而应是通用设计，呼吁公共交通系统为“走得慢”的旅客留出空间。",
+    "url": "https://www.bestblogs.dev/article/6427275bfc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 胡泳",
-    "topic": "商业科技",
-    "date": "2026-10-23",
+    "topic": "生活文化",
+    "date": "2026-10-25",
+    "badge": "featured"
+  },
+  {
+    "title": "独家资料，我们来把上海大歌剧院的技术要点讲清楚。",
+    "summary": "Snøhetta 设计的上海大歌剧院以螺旋楼梯诠释「动态」概念，通过镜像调整、第五立面公共化、UHPC 结构技术创新与多专业协作，实现了形式美学与功能理性的高度统一。",
+    "url": "https://www.bestblogs.dev/article/eefb2157d0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Wallpaper中文版",
+    "topic": "产品设计",
+    "date": "2026-10-25",
     "badge": "featured"
   }
 ]
