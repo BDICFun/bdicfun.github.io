@@ -1,5 +1,32 @@
 [
   {
+    "title": "差评之后，一个摊主的死亡",
+    "summary": "四川夜市摊主胡二妹因十元炸菜消费纠纷遭遇网络差评，三天后跳河离世，文章以此悲剧深入剖析小微餐饮从业者在网络评价体系下的生存困境与心理压力。",
+    "url": "https://www.bestblogs.dev/article/8b0d18ceed?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-10-27",
+    "badge": "featured"
+  },
+  {
+    "title": "别再让计算等着搬权重了！KTransformers 让 CPU 直接参与 MoE 微调计算",
+    "summary": "KTransformers-FineTune (KT-FT) 提出 CPU/GPU 协同计算范式，让 CPU 直接利用 AVX-512/AMX 指令集完成 MoE 专家计算，配合语义感知布局引擎与动态线程调度，在千亿参数 MoE 模型上实现比传统卸载范式快 2.5–21.2 倍的 LoRA 微调吞吐。",
+    "url": "https://www.bestblogs.dev/article/456f1fed7b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 青稞AI",
+    "topic": "人工智能",
+    "date": "2026-10-26",
+    "badge": "model"
+  },
+  {
+    "title": "具身智能最危险的幻觉，专坑那些迷信百万小时数的人",
+    "summary": "穹彻智能创始人卢策吾揭示具身智能核心瓶颈在于数据斜率而非单纯堆砌小时数，主张通过无本体采集与 99%鲁棒性指标推动商业化落地。",
+    "url": "https://www.bestblogs.dev/article/6b0a3c005a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "人工智能",
+    "date": "2026-10-26",
+    "badge": "featured"
+  },
+  {
     "title": "怎么让大模型更好地利用上下文？小红书 AllSpark 提出增强上下文学习能力的数据管线",
     "summary": "小红书 AllSpark 团队提出无需人工标注的合成数据管线，通过扰动真实文档切断模型参数记忆，结合 Gap Check 筛选依赖上下文的样本，将 35B 模型在 CL-bench 上提升至 24.6%，超越万亿参数模型。",
     "url": "https://www.bestblogs.dev/article/4fa1e16220?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -42,33 +69,6 @@
     "source": "BestBlogs / 返朴",
     "topic": "个人成长",
     "date": "2026-10-26",
-    "badge": "featured"
-  },
-  {
-    "title": "前 EAGLE Team 成员自述 EAGLE-4 的设计，以及背后的工程取舍！",
-    "summary": "本文由前 EAGLE Team 成员撰写，详细回顾了 EAGLE-4 的设计过程，重点介绍了 EAGLE-Harness 的动态验证逻辑和 EAGLE Efficient LM Head 的两阶段优化方案，并讨论了其中的工程取舍和实验结果。",
-    "url": "https://www.bestblogs.dev/article/cfa63cdce1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 青稞AI",
-    "topic": "人工智能",
-    "date": "2026-10-25",
-    "badge": "featured"
-  },
-  {
-    "title": "胡泳 | 重阳节之问：我们是否欠老人一个“走得慢”的权利？",
-    "summary": "文章以机场值机柜台高度这一具体问题为切入点，系统探讨机场适老化设计的多重维度，指出适老化不应是特殊照顾而应是通用设计，呼吁公共交通系统为“走得慢”的旅客留出空间。",
-    "url": "https://www.bestblogs.dev/article/6427275bfc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 胡泳",
-    "topic": "生活文化",
-    "date": "2026-10-25",
-    "badge": "featured"
-  },
-  {
-    "title": "独家资料，我们来把上海大歌剧院的技术要点讲清楚。",
-    "summary": "Snøhetta 设计的上海大歌剧院以螺旋楼梯诠释「动态」概念，通过镜像调整、第五立面公共化、UHPC 结构技术创新与多专业协作，实现了形式美学与功能理性的高度统一。",
-    "url": "https://www.bestblogs.dev/article/eefb2157d0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Wallpaper中文版",
-    "topic": "产品设计",
-    "date": "2026-10-25",
     "badge": "featured"
   }
 ]
