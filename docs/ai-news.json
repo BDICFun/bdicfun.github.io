@@ -1,5 +1,41 @@
 [
   {
+    "title": "“兄弟情谊”背后的权谋：从康奈尔“七人性侵案”看暴力的再生产",
+    "summary": "本文通过分析康奈尔大学 Chi Phi 兄弟会发生的恶性性侵事件，揭示了美国高等教育中男性社交网络内部的权力结构与暴力机制，探讨了兄弟会从友谊共同体异化为压迫性装置的深层原因，并批判了司法系统在处理此类案件时的结构性缺陷。",
+    "url": "https://www.bestblogs.dev/article/5a3e5bbd44?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 澎湃思想市场",
+    "topic": "媒体资讯",
+    "date": "2026-10-28",
+    "badge": "featured"
+  },
+  {
+    "title": "好看视频鸿蒙端 AI 研发交付流程的建设思考与实践",
+    "summary": "本文详细介绍了好看视频团队在鸿蒙端迁移中，如何通过建立一套完整的 AI 研发交付流程，将复杂的迁移工作拆解为可执行的步骤，并确保每个环节都符合'完整、正确、可验证、可持续'的标准，从而实现高效、高质量的交付。",
+    "url": "https://www.bestblogs.dev/article/9005911253?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 百度Geek说",
+    "topic": "软件编程",
+    "date": "2026-10-28",
+    "badge": "tooling"
+  },
+  {
+    "title": "EMNLP 2026｜京东零售 AI Infra 团队提出分离式多模态训练框架 FlowTrain",
+    "summary": "FlowTrain 是一个基于流式解耦的工业级多模态训练框架，通过统一内存池、异构并行分配和动态打包调度，显著提升了视觉语言模型的训练效率，在超节点实验中实现了超过 50% 的 MFU 和最高 1.7 倍的吞吐量提升。",
+    "url": "https://www.bestblogs.dev/article/27d657a2c4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 京东技术",
+    "topic": "人工智能",
+    "date": "2026-10-27",
+    "badge": "model"
+  },
+  {
+    "title": "从三天 Demo 到一个月全员可用：小红书企业级 AI 助理 Seal 的规模化实践",
+    "summary": "小红书基于 OpenClaw 快速构建了企业级 AI 个人助理 Seal，通过安全隔离、成本优化、记忆增强和生态建设，实现了从内测到全员覆盖的规模化落地，并探索了下一代智能体的目标交付与协同能力。",
+    "url": "https://www.bestblogs.dev/article/cbe3864fb4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-10-27",
+    "badge": "featured"
+  },
+  {
     "title": "差评之后，一个摊主的死亡",
     "summary": "四川夜市摊主胡二妹因十元炸菜消费纠纷遭遇网络差评，三天后跳河离世，文章以此悲剧深入剖析小微餐饮从业者在网络评价体系下的生存困境与心理压力。",
     "url": "https://www.bestblogs.dev/article/8b0d18ceed?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-10-26",
     "badge": "model"
-  },
-  {
-    "title": "国产算力·昇腾 910C 大模型推理优化（下）：源码修改与算子优化，提速 30%｜得物技术",
-    "summary": "本文深入分析了在华为昇腾 910C 上对大模型推理进行源码级和算子层优化，通过多流重叠、host 开销优化、融合算子、静态 kernel 编译等手段，实现了 TPOT 延迟从基线 14.1ms 降至 5.0ms 的显著提升，并验证了这些优化在真实业务场景中的有效性。",
-    "url": "https://www.bestblogs.dev/article/6d9c06f1f2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 得物技术",
-    "topic": "人工智能",
-    "date": "2026-10-26",
-    "badge": "model"
-  },
-  {
-    "title": "AI 写作是一种命运",
-    "summary": "本文探讨了 AI 写作的不可避免性，认为它不再是一个选择，而是一种必须面对的现实，并提出了在 AI 辅助下保持写作个性和原创性的策略。",
-    "url": "https://www.bestblogs.dev/article/e299e67b46?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-10-26",
-    "badge": "featured"
-  },
-  {
-    "title": "继母的选择",
-    "summary": "任叶在 42 岁时决定离婚，并主动争取抚养三个孩子，包括丈夫与前妻所生的女儿，这一罕见的选择反映了她对家庭责任的坚定承诺和对孩子们未来的关怀。",
-    "url": "https://www.bestblogs.dev/article/6a866173d3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人物",
-    "topic": "生活文化",
-    "date": "2026-10-26",
-    "badge": "featured"
-  },
-  {
-    "title": "最新证据为富兰克林翻案：她看懂了那张震惊世界的 51 号照片",
-    "summary": "新研究表明，富兰克林在拍摄 51 号照片前，已从 49 号照片中测出 DNA 螺旋的尺寸，并有意重拍以获取完整数据，证明她并未错过照片中的螺旋结构。",
-    "url": "https://www.bestblogs.dev/article/a0ede6266a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 返朴",
-    "topic": "个人成长",
-    "date": "2026-10-26",
-    "badge": "featured"
   }
 ]
