@@ -1,74 +1,74 @@
 [
   {
-    "title": "“兄弟情谊”背后的权谋：从康奈尔“七人性侵案”看暴力的再生产",
-    "summary": "本文通过分析康奈尔大学 Chi Phi 兄弟会发生的恶性性侵事件，揭示了美国高等教育中男性社交网络内部的权力结构与暴力机制，探讨了兄弟会从友谊共同体异化为压迫性装置的深层原因，并批判了司法系统在处理此类案件时的结构性缺陷。",
-    "url": "https://www.bestblogs.dev/article/5a3e5bbd44?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 澎湃思想市场",
+    "title": "基于 RSI 架构的淘宝闪购店铺装修选品 Agent 实践",
+    "summary": "阿里技术团队构建基于 RSI（递归自我改进）架构的淘宝闪购店铺装修选品 Agent，通过多岛进化、门控专家与 CMA-ES 优化器实现选品策略的持续自动迭代，线上 AB 测试 8 天整店加购转化率 P2 相对提升 0.34%。",
+    "url": "https://www.bestblogs.dev/article/c9c28a6677?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-10-29",
+    "badge": "agent"
+  },
+  {
+    "title": "中国共产党第二十届中央委员会第五次全体会议公报",
+    "summary": "二十届五中全会通过《关于持之以恒推进全面从严治党若干重大问题的决定》，系统部署新时代党建新要求，宣布党的二十一大于 2027 年下半年召开，并通报多名高级将领及省部级官员严重违纪违法处分决定。",
+    "url": "https://www.bestblogs.dev/article/da97bc60ee?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人民日报",
     "topic": "媒体资讯",
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "badge": "featured"
   },
   {
-    "title": "好看视频鸿蒙端 AI 研发交付流程的建设思考与实践",
-    "summary": "本文详细介绍了好看视频团队在鸿蒙端迁移中，如何通过建立一套完整的 AI 研发交付流程，将复杂的迁移工作拆解为可执行的步骤，并确保每个环节都符合'完整、正确、可验证、可持续'的标准，从而实现高效、高质量的交付。",
-    "url": "https://www.bestblogs.dev/article/9005911253?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 百度Geek说",
+    "title": "一个人用 AI 像开挂，团队协作就打架？问题不在工具，在组织",
+    "summary": "嘀嗒出行 CEO 王晓波复盘千人研发团队两年 AI 编程实验：三条常规路线均撞上天花板，核心矛盾在于编码仅占研发 30%却承载全部 AI 投入，第四条路通过企业本体抽取项目事实、重组围绕 Agent 的执行验证责任链，实现组织级倍增。",
+    "url": "https://www.bestblogs.dev/article/5042daa409?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-10-29",
+    "badge": "agent"
+  },
+  {
+    "title": "中国 AI 最有权力的数据掌舵人：8 家公司，11 位核心负责人",
+    "summary": "随着公开互联网语料日益耗尽，中国 8 家主流大模型公司与大厂正经历一轮密集的数据战略转向与组织重构，将训练数据从业务副产品升格为决定模型上限的核心基础设施，并重用关键数据掌舵人。",
+    "url": "https://www.bestblogs.dev/article/3f2828c3be?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "人工智能",
+    "date": "2026-10-29",
+    "badge": "model"
+  },
+  {
+    "title": "把记忆塞进 KV Cache，Agent 反而变笨了？KV 驻留内存，到底靠什么在干活！",
+    "summary": "通过 12 次受控消融实验拆解 Agent KV Cache 驻留内存的机制，发现鲜活编码而非驻留本身是关键，账本类内容 stale 驻留会触发任务框塌缩，检索注入必须采用行级窄窗方案，最终给出「活跃对象 KV 鲜活驻留 + 账本外部存储窄窗注入」的分裂架构配方。",
+    "url": "https://www.bestblogs.dev/article/94a7e819d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 青稞AI",
+    "topic": "人工智能",
+    "date": "2026-10-28",
+    "badge": "agent"
+  },
+  {
+    "title": "冥想、扩散与大模型的另一条路丨对谈西湖心辰创始人蓝振忠",
+    "summary": "西湖心辰创始人蓝振忠，前谷歌大模型专家，致力于用扩散模型提升通用语言模型的智能上限，即将发布并行思维链模型，旨在通过并行计算实现更快速、更高质量的 AI 交互。",
+    "url": "https://www.bestblogs.dev/article/1549649974?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "人工智能",
+    "date": "2026-10-28",
+    "badge": "model"
+  },
+  {
+    "title": "从知识沉淀到编程范式：AI Coding 项目冷启动落地实践",
+    "summary": "本文基于 SmartFlow 互动策略引擎的开发实践，提出一套 AI Coding 项目冷启动方法，通过历史知识沉淀和新需求按 AI 编程范式开发两条主线，实现高效、稳定的代码生成与团队经验积累。",
+    "url": "https://www.bestblogs.dev/article/869c114bec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / vivo互联网技术",
     "topic": "软件编程",
     "date": "2026-10-28",
     "badge": "tooling"
   },
   {
-    "title": "EMNLP 2026｜京东零售 AI Infra 团队提出分离式多模态训练框架 FlowTrain",
-    "summary": "FlowTrain 是一个基于流式解耦的工业级多模态训练框架，通过统一内存池、异构并行分配和动态打包调度，显著提升了视觉语言模型的训练效率，在超节点实验中实现了超过 50% 的 MFU 和最高 1.7 倍的吞吐量提升。",
-    "url": "https://www.bestblogs.dev/article/27d657a2c4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 京东技术",
-    "topic": "人工智能",
-    "date": "2026-10-27",
-    "badge": "model"
-  },
-  {
-    "title": "从三天 Demo 到一个月全员可用：小红书企业级 AI 助理 Seal 的规模化实践",
-    "summary": "小红书基于 OpenClaw 快速构建了企业级 AI 个人助理 Seal，通过安全隔离、成本优化、记忆增强和生态建设，实现了从内测到全员覆盖的规模化落地，并探索了下一代智能体的目标交付与协同能力。",
-    "url": "https://www.bestblogs.dev/article/cbe3864fb4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-10-27",
+    "title": "全球最大“电力超市”正式营业：中国首个区域电力市场的这十年",
+    "summary": "南方区域电力市场历经十年发展，于 2026 年 10 月 24 日正式转入运行，成为中国首个实现跨省区一体化、连续结算的电力现货市场，标志着电力资源配置从计划指令向市场机制的重大转变。",
+    "url": "https://www.bestblogs.dev/article/29c1266b5e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方周末",
+    "topic": "媒体资讯",
+    "date": "2026-10-28",
     "badge": "featured"
-  },
-  {
-    "title": "差评之后，一个摊主的死亡",
-    "summary": "四川夜市摊主胡二妹因十元炸菜消费纠纷遭遇网络差评，三天后跳河离世，文章以此悲剧深入剖析小微餐饮从业者在网络评价体系下的生存困境与心理压力。",
-    "url": "https://www.bestblogs.dev/article/8b0d18ceed?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "生活文化",
-    "date": "2026-10-27",
-    "badge": "featured"
-  },
-  {
-    "title": "别再让计算等着搬权重了！KTransformers 让 CPU 直接参与 MoE 微调计算",
-    "summary": "KTransformers-FineTune (KT-FT) 提出 CPU/GPU 协同计算范式，让 CPU 直接利用 AVX-512/AMX 指令集完成 MoE 专家计算，配合语义感知布局引擎与动态线程调度，在千亿参数 MoE 模型上实现比传统卸载范式快 2.5–21.2 倍的 LoRA 微调吞吐。",
-    "url": "https://www.bestblogs.dev/article/456f1fed7b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 青稞AI",
-    "topic": "人工智能",
-    "date": "2026-10-26",
-    "badge": "model"
-  },
-  {
-    "title": "具身智能最危险的幻觉，专坑那些迷信百万小时数的人",
-    "summary": "穹彻智能创始人卢策吾揭示具身智能核心瓶颈在于数据斜率而非单纯堆砌小时数，主张通过无本体采集与 99%鲁棒性指标推动商业化落地。",
-    "url": "https://www.bestblogs.dev/article/6b0a3c005a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "人工智能",
-    "date": "2026-10-26",
-    "badge": "featured"
-  },
-  {
-    "title": "怎么让大模型更好地利用上下文？小红书 AllSpark 提出增强上下文学习能力的数据管线",
-    "summary": "小红书 AllSpark 团队提出无需人工标注的合成数据管线，通过扰动真实文档切断模型参数记忆，结合 Gap Check 筛选依赖上下文的样本，将 35B 模型在 CL-bench 上提升至 24.6%，超越万亿参数模型。",
-    "url": "https://www.bestblogs.dev/article/4fa1e16220?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
-    "topic": "人工智能",
-    "date": "2026-10-26",
-    "badge": "model"
   }
 ]
