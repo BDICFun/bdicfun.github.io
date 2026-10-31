@@ -1,74 +1,74 @@
 [
   {
-    "title": "基于 RSI 架构的淘宝闪购店铺装修选品 Agent 实践",
-    "summary": "阿里技术团队构建基于 RSI（递归自我改进）架构的淘宝闪购店铺装修选品 Agent，通过多岛进化、门控专家与 CMA-ES 优化器实现选品策略的持续自动迭代，线上 AB 测试 8 天整店加购转化率 P2 相对提升 0.34%。",
-    "url": "https://www.bestblogs.dev/article/c9c28a6677?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
+    "title": "自进化（Self-evolving／RSI），一篇就够了 - 知乎",
+    "summary": "本文全面梳理了 AI 自进化（RSI）的最新进展，从机构实践到理论定义，再到具体实现路径，涵盖 Artifacts、Harness 和 Model 三个层面，并重点分析了 Harness 工程如何成为 RSI 的突破口。",
+    "url": "https://www.bestblogs.dev/article/bc9518cf5d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 知乎专栏",
     "topic": "人工智能",
-    "date": "2026-10-29",
-    "badge": "agent"
+    "date": "2026-10-30",
+    "badge": "model"
   },
   {
-    "title": "中国共产党第二十届中央委员会第五次全体会议公报",
-    "summary": "二十届五中全会通过《关于持之以恒推进全面从严治党若干重大问题的决定》，系统部署新时代党建新要求，宣布党的二十一大于 2027 年下半年召开，并通报多名高级将领及省部级官员严重违纪违法处分决定。",
-    "url": "https://www.bestblogs.dev/article/da97bc60ee?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "习近平同德国总统施泰因迈尔会谈",
+    "summary": "国家主席习近平与德国总统施泰因迈尔在北京人民大会堂举行会谈，双方一致同意加强中德合作，打造平等互利、战略稳定的合作新范式，并共同应对全球挑战。",
+    "url": "https://www.bestblogs.dev/article/c05a1c2b24?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 人民日报",
     "topic": "媒体资讯",
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "badge": "featured"
   },
   {
-    "title": "一个人用 AI 像开挂，团队协作就打架？问题不在工具，在组织",
-    "summary": "嘀嗒出行 CEO 王晓波复盘千人研发团队两年 AI 编程实验：三条常规路线均撞上天花板，核心矛盾在于编码仅占研发 30%却承载全部 AI 投入，第四条路通过企业本体抽取项目事实、重组围绕 Agent 的执行验证责任链，实现组织级倍增。",
-    "url": "https://www.bestblogs.dev/article/5042daa409?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-10-29",
+    "title": "要来了，最强厄尔尼诺",
+    "summary": "本文详细分析了即将到来的超强厄尔尼诺事件，预计其强度将超过历史记录，并探讨了这一气候现象对全球和中国的影响，包括极端天气、农业、能源和公共安全的潜在风险。",
+    "url": "https://www.bestblogs.dev/article/9bd5e05df8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南风窗",
+    "topic": "媒体资讯",
+    "date": "2026-10-30",
+    "badge": "featured"
+  },
+  {
+    "title": "从模型优化到智能体协同：阿里 MaaS 团队的 WMT26 技术实践",
+    "summary": "阿里 MaaS 团队在 WMT26 中通过 Qwen-MT-Lumen 和 Wayfinder 两套系统，分别探索了翻译领域模型的专项优化与多模型协同的 Agent 路线，均取得了显著成绩，验证了在复杂翻译任务中，模型优化与系统协同的互补价值。",
+    "url": "https://www.bestblogs.dev/article/b39f4c1fa5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-10-30",
     "badge": "agent"
   },
   {
-    "title": "中国 AI 最有权力的数据掌舵人：8 家公司，11 位核心负责人",
-    "summary": "随着公开互联网语料日益耗尽，中国 8 家主流大模型公司与大厂正经历一轮密集的数据战略转向与组织重构，将训练数据从业务副产品升格为决定模型上限的核心基础设施，并重用关键数据掌舵人。",
-    "url": "https://www.bestblogs.dev/article/3f2828c3be?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
+    "title": "TGR-GenRec：从 next-item 到 next-slate 端到端生成",
+    "summary": "TGR-GenRec 探索用端到端生成模型替换级联中的判别式决策阶段，包括基于 next-token prediction（NTP）的 BARGE 模型和基于 next-slate prediction（NSP）的 HiGR 模型，分别解决 item 边界丢失、语义漂移和列表级优化问题。",
+    "url": "https://www.bestblogs.dev/article/e12ca1a585?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
     "topic": "人工智能",
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "badge": "model"
   },
   {
-    "title": "把记忆塞进 KV Cache，Agent 反而变笨了？KV 驻留内存，到底靠什么在干活！",
-    "summary": "通过 12 次受控消融实验拆解 Agent KV Cache 驻留内存的机制，发现鲜活编码而非驻留本身是关键，账本类内容 stale 驻留会触发任务框塌缩，检索注入必须采用行级窄窗方案，最终给出「活跃对象 KV 鲜活驻留 + 账本外部存储窄窗注入」的分裂架构配方。",
-    "url": "https://www.bestblogs.dev/article/94a7e819d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 青稞AI",
-    "topic": "人工智能",
-    "date": "2026-10-28",
-    "badge": "agent"
+    "title": "谷歌这份财报，把市场吓到了",
+    "summary": "谷歌三季度营收超预期，但利润和现金流表现欠佳，估值合理但缺乏安全边际。",
+    "url": "https://www.bestblogs.dev/article/00f2079268?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Joey研究随笔",
+    "topic": "商业科技",
+    "date": "2026-10-30",
+    "badge": "featured"
   },
   {
-    "title": "冥想、扩散与大模型的另一条路丨对谈西湖心辰创始人蓝振忠",
-    "summary": "西湖心辰创始人蓝振忠，前谷歌大模型专家，致力于用扩散模型提升通用语言模型的智能上限，即将发布并行思维链模型，旨在通过并行计算实现更快速、更高质量的 AI 交互。",
-    "url": "https://www.bestblogs.dev/article/1549649974?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "人工智能",
-    "date": "2026-10-28",
-    "badge": "model"
-  },
-  {
-    "title": "从知识沉淀到编程范式：AI Coding 项目冷启动落地实践",
-    "summary": "本文基于 SmartFlow 互动策略引擎的开发实践，提出一套 AI Coding 项目冷启动方法，通过历史知识沉淀和新需求按 AI 编程范式开发两条主线，实现高效、稳定的代码生成与团队经验积累。",
-    "url": "https://www.bestblogs.dev/article/869c114bec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / vivo互联网技术",
+    "title": "从 AI Friendly 架构到可复制的 AI 迁移能力 - 淘宝直播搜推在线架构升级实践",
+    "summary": "淘宝直播推荐系统通过自研轻量级执行框架，将多框架、多分支的复杂架构重构为统一的物料和声明式编排体系，并利用 AI 参与历史应用的迁移与验证，实现了性能稳定、成本降低的长期维护能力。",
+    "url": "https://www.bestblogs.dev/article/4c6347cf32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
     "topic": "软件编程",
-    "date": "2026-10-28",
+    "date": "2026-10-30",
     "badge": "tooling"
   },
   {
-    "title": "全球最大“电力超市”正式营业：中国首个区域电力市场的这十年",
-    "summary": "南方区域电力市场历经十年发展，于 2026 年 10 月 24 日正式转入运行，成为中国首个实现跨省区一体化、连续结算的电力现货市场，标志着电力资源配置从计划指令向市场机制的重大转变。",
-    "url": "https://www.bestblogs.dev/article/29c1266b5e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-10-28",
+    "title": "给原子造“笼子”，他让化学界从此告别“开盲盒”",
+    "summary": "藤田诚教授通过自组装技术构建分子笼，并开发结晶海绵法，成功解决了无法结晶分子的结构表征问题，为化学分析带来革命性突破。",
+    "url": "https://www.bestblogs.dev/article/61935bc9ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 返朴",
+    "topic": "人工智能",
+    "date": "2026-10-29",
     "badge": "featured"
   }
 ]
