@@ -1,5 +1,32 @@
 [
   {
+    "title": "他给普通人配了个 “AI 剧组”丨 100 个 AI 创业者",
+    "summary": "MovieFlow 创始人梁巍将 16 年的电影工业经验封装成 AI 智能体，让普通人也能轻松创作高质量视频，推动内容生产从精英垄断走向全民参与。",
+    "url": "https://www.bestblogs.dev/article/70021ec7db?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 知乎专栏",
+    "topic": "人工智能",
+    "date": "2026-10-31",
+    "badge": "featured"
+  },
+  {
+    "title": "Super-agent 设计探索：迈向更自主的 Agent 系统",
+    "summary": "本文探讨了 Super-agent 的架构设计，旨在通过双层结构、事件驱动、异步交互和存算分离，实现跨信道连续、多任务高效、主动响应和持久在线的智能代理系统。",
+    "url": "https://www.bestblogs.dev/article/a62a98baf3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / uied.cn",
+    "topic": "人工智能",
+    "date": "2026-10-31",
+    "badge": "agent"
+  },
+  {
+    "title": "大模型从 60 分走到 90 分，下一代 AI 的突破在哪里？｜对话上交大陈明达",
+    "summary": "陈明达博士在对话中回顾了从 Meta 到上交大的研究经历，分析了当前 AI 发展中 Scaling 的局限性，并提出了利用流程性知识和探索非语言模态基座模型作为未来突破的方向。",
+    "url": "https://www.bestblogs.dev/article/7b51860b35?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 163.com",
+    "topic": "人工智能",
+    "date": "2026-10-31",
+    "badge": "model"
+  },
+  {
     "title": "自进化（Self-evolving／RSI），一篇就够了 - 知乎",
     "summary": "本文全面梳理了 AI 自进化（RSI）的最新进展，从机构实践到理论定义，再到具体实现路径，涵盖 Artifacts、Harness 和 Model 三个层面，并重点分析了 Harness 工程如何成为 RSI 的突破口。",
     "url": "https://www.bestblogs.dev/article/bc9518cf5d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -18,6 +45,15 @@
     "badge": "featured"
   },
   {
+    "title": "小尺寸全能王：小米开源 0.8B 卷王 OCR 模型",
+    "summary": "小米开源了 0.8B 参数的轻量级 Xiaomi-OCR-0 模型，实现了文档解析、信息抽取与视觉问答的统一，在多种复杂场景下表现优异。",
+    "url": "https://www.bestblogs.dev/article/015d64f0fb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小米技术",
+    "topic": "人工智能",
+    "date": "2026-10-30",
+    "badge": "model"
+  },
+  {
     "title": "要来了，最强厄尔尼诺",
     "summary": "本文详细分析了即将到来的超强厄尔尼诺事件，预计其强度将超过历史记录，并探讨了这一气候现象对全球和中国的影响，包括极端天气、农业、能源和公共安全的潜在风险。",
     "url": "https://www.bestblogs.dev/article/9bd5e05df8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -27,48 +63,12 @@
     "badge": "featured"
   },
   {
-    "title": "从模型优化到智能体协同：阿里 MaaS 团队的 WMT26 技术实践",
-    "summary": "阿里 MaaS 团队在 WMT26 中通过 Qwen-MT-Lumen 和 Wayfinder 两套系统，分别探索了翻译领域模型的专项优化与多模型协同的 Agent 路线，均取得了显著成绩，验证了在复杂翻译任务中，模型优化与系统协同的互补价值。",
-    "url": "https://www.bestblogs.dev/article/b39f4c1fa5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
+    "title": "AI 零帧起手写算子，反超 DeepSeek 人类手写巅峰：快了 9.8%！",
+    "summary": "ForgeKernel，一个无人参与的 AI Agent，在 22.5 小时内从零开始优化 DeepSeek 的 FlashMLA Prefill 算子，最终将执行时间从 518 微秒降低到 472 微秒，超越了人类专家的手写巅峰。",
+    "url": "https://www.bestblogs.dev/article/62bba02100?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十三",
     "topic": "人工智能",
     "date": "2026-10-30",
     "badge": "agent"
-  },
-  {
-    "title": "TGR-GenRec：从 next-item 到 next-slate 端到端生成",
-    "summary": "TGR-GenRec 探索用端到端生成模型替换级联中的判别式决策阶段，包括基于 next-token prediction（NTP）的 BARGE 模型和基于 next-slate prediction（NSP）的 HiGR 模型，分别解决 item 边界丢失、语义漂移和列表级优化问题。",
-    "url": "https://www.bestblogs.dev/article/e12ca1a585?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-10-30",
-    "badge": "model"
-  },
-  {
-    "title": "谷歌这份财报，把市场吓到了",
-    "summary": "谷歌三季度营收超预期，但利润和现金流表现欠佳，估值合理但缺乏安全边际。",
-    "url": "https://www.bestblogs.dev/article/00f2079268?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Joey研究随笔",
-    "topic": "商业科技",
-    "date": "2026-10-30",
-    "badge": "featured"
-  },
-  {
-    "title": "从 AI Friendly 架构到可复制的 AI 迁移能力 - 淘宝直播搜推在线架构升级实践",
-    "summary": "淘宝直播推荐系统通过自研轻量级执行框架，将多框架、多分支的复杂架构重构为统一的物料和声明式编排体系，并利用 AI 参与历史应用的迁移与验证，实现了性能稳定、成本降低的长期维护能力。",
-    "url": "https://www.bestblogs.dev/article/4c6347cf32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-10-30",
-    "badge": "tooling"
-  },
-  {
-    "title": "给原子造“笼子”，他让化学界从此告别“开盲盒”",
-    "summary": "藤田诚教授通过自组装技术构建分子笼，并开发结晶海绵法，成功解决了无法结晶分子的结构表征问题，为化学分析带来革命性突破。",
-    "url": "https://www.bestblogs.dev/article/61935bc9ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 返朴",
-    "topic": "人工智能",
-    "date": "2026-10-29",
-    "badge": "featured"
   }
 ]
