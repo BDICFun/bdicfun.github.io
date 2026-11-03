@@ -1,74 +1,74 @@
 [
   {
-    "title": "AI 软件工程范式革命的思考 - 知乎",
-    "summary": "文章提出软件工程始终停留在手工艺阶段，批判其未能实现能源替代低阶智能的工程化范式，并论证大模型开启了 AI 软件工程的可能性，强调人类角色从亲手操作转向设计自我纠偏的系统。",
-    "url": "https://www.bestblogs.dev/article/3f50e0d8d8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 知乎专栏",
+    "title": "新质策源导刊丨张亚勤院士：AI 的起点和终点是帮助更多人",
+    "summary": "文章通过清华大学人工智能国际治理研究院院长张亚勤的专访，探讨 AI 技术如何从技术演进到产业变革，强调 AI 的价值终点应是帮助更多人，并从具身智能、AI 经济影响、产业变革等角度阐述 AI 的机遇与挑战。",
+    "url": "https://www.bestblogs.dev/article/c6f519164c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 清华大学人工智能国际治理研究院",
     "topic": "人工智能",
-    "date": "2026-11-01",
-    "badge": "model"
+    "date": "2026-11-02",
+    "badge": "featured"
   },
   {
-    "title": "一人创业时代：组织能力依托 AI 压缩至个体-清华大学经济管理学院",
-    "summary": "本文提出 OPC（One Person Company）是 AI 时代组织能力向个体压缩的新型生产形态，指出 T 型人才（兼具专业深度、跨界广度与价值翻译能力）是跑通商业闭环的关键，并构建 AITL 飞轮模型，系统阐释 AI 原生 OPC 的成长路径。",
-    "url": "https://www.bestblogs.dev/article/581ad10060?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / sem.tsinghua.edu.cn",
+    "title": "免费、自己爽、无限效率，红果如何改造中国影视业",
+    "summary": "文章分析了红果如何通过免费模式、数据算法和 AI 技术改造中国短剧产业，打破传统影视格局，实现高效的内容生产与商业化闭环。",
+    "url": "https://www.bestblogs.dev/article/4ae27a9a53?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
     "topic": "商业科技",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
+    "badge": "featured"
+  },
+  {
+    "title": "Hyra 2.0 发布：为模型研发打造可复用工具",
+    "summary": "Hyra 2.0 推出面向科研的工具研发框架，实现了从解题到造工具的跃迁，已成功研发出蛋白质设计模型、分子力场模型、数学证明工作流、量子码构造系统等多个可复用工具。",
+    "url": "https://www.bestblogs.dev/article/708e2fbe65?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯混元",
+    "topic": "人工智能",
+    "date": "2026-11-02",
     "badge": "model"
   },
   {
-    "title": "为什么 AI 能解千禧年题，但还是做不到 RSI｜Hao 好聊趋势",
-    "summary": "文章分析了 AI 在数学物理等符号自足领域的卓越表现，与在需要跨层级视角转换的经验科学领域的有限创新能力之间的反差，探讨了 RSI 实践中的局限性及其背后的认知机制根源。",
-    "url": "https://www.bestblogs.dev/article/9aaee48484?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
+    "title": "揭秘小红书自研稀疏训练引擎 SparseGear：面向搜广推模型 Scaling Up 的资源协同与 HBM-Friendly 架构",
+    "summary": "小红书自研稀疏训练引擎 SparseGear 通过 HBM-Friendly 多级存储、统一特征抽取平台和 Agent 自动调优，实现稀疏参数供给效率提升和 Dense 扩展显存释放，为搜广推模型 Scaling Up 提供高性能解决方案。",
+    "url": "https://www.bestblogs.dev/article/e746465b60?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
     "topic": "人工智能",
-    "date": "2026-11-01",
-    "badge": "featured"
-  },
-  {
-    "title": "Super-agent 设计探索：迈向更自主的 Agent 系统",
-    "summary": "文章探讨了基于双层架构、事件驱动、存算分离和 Watchdog 的 Super-agent 设计，旨在构建持续在线、可并发推进多任务的自主 Agent 系统。",
-    "url": "https://www.bestblogs.dev/article/bdcf6ab3ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / blog.eimoon.com",
-    "topic": "人工智能",
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "badge": "agent"
   },
   {
-    "title": "CSDN 创始人蒋涛：时间第一次可以被采购， 开发者的红利在硅基时间里",
-    "summary": "蒋涛提出硅基时间概念，阐释 AI 如何重塑开发者价值与企业组织结构，预测开发者红利将驱动下一轮软件产业革命。",
-    "url": "https://www.bestblogs.dev/article/433d329e8a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / CSDN",
-    "topic": "人工智能",
-    "date": "2026-11-01",
+    "title": "一个 Mac 清理工具，为什么要花这么多心思决定哪些东西不能删？",
+    "summary": "作者分享了从开源 CLI 工具 Mole 到付费 Mac 桌面版的独立开发经历，探讨了 AI 工具带来的垃圾文件问题、清理工具的设计哲学、用户反馈对产品迭代的影响，以及个人化的产品思考与信任构建。",
+    "url": "https://www.bestblogs.dev/article/d88a91d389?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 少数派",
+    "topic": "产品设计",
+    "date": "2026-11-02",
+    "badge": "tooling"
+  },
+  {
+    "title": "让 AI 看得见、判得准、改得对—— D2C 从设计稿到三端真机达标的自动化实践",
+    "summary": "本文介绍了 D2C（设计稿到代码）在移动端的自动化实践，构建端上 UI Harness 体系，实现 AI 从设计稿到三端真机达标的全流程闭环，解决了 AI 生码后验收难、三端差异大的问题。",
+    "url": "https://www.bestblogs.dev/article/0e3672b4c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-11-02",
+    "badge": "tooling"
+  },
+  {
+    "title": "在时光中摇摆的“厌世”诗人：夏多布里昂的三层世界",
+    "summary": "本文通过深度解读《墓畔回忆录》，阐释了夏多布里昂作为一位被死亡不断叩击的作家，如何借助文学与政治两条逃离生命有限性的道路，构建出一座以死亡为基石、以宗教与人文为顶点的思想圣殿，从而探讨人类如何在无常与乱世中寻找超越生命的意义。",
+    "url": "https://www.bestblogs.dev/article/75235c1adb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新京报书评周刊",
+    "topic": "生活文化",
+    "date": "2026-11-02",
     "badge": "featured"
   },
   {
-    "title": "他给普通人配了个 “AI 剧组”丨 100 个 AI 创业者",
-    "summary": "MovieFlow 创始人梁巍将 16 年的电影工业经验封装成 AI 智能体，让普通人也能轻松创作高质量视频，推动内容生产从精英垄断走向全民参与。",
-    "url": "https://www.bestblogs.dev/article/70021ec7db?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 知乎专栏",
+    "title": "折腾了整整 1 年，毫无保留地分享一下我这套 Agent 自动化系统。",
+    "summary": "作者分享了一套基于 Agent 自动化的系统架构，通过事件中台统一调度、模型按需调用和 CI 流水线，最大化释放人类注意力，实现「批奏折」决策模式，显著提升生产力。",
+    "url": "https://www.bestblogs.dev/article/2b3cb757fa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 数字生命卡兹克",
     "topic": "人工智能",
-    "date": "2026-10-31",
-    "badge": "featured"
-  },
-  {
-    "title": "Super-agent 设计探索：迈向更自主的 Agent 系统",
-    "summary": "本文探讨了 Super-agent 的架构设计，旨在通过双层结构、事件驱动、异步交互和存算分离，实现跨信道连续、多任务高效、主动响应和持久在线的智能代理系统。",
-    "url": "https://www.bestblogs.dev/article/a62a98baf3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / uied.cn",
-    "topic": "人工智能",
-    "date": "2026-10-31",
-    "badge": "agent"
-  },
-  {
-    "title": "Super-agent 设计探索：迈向更自主的 Agent 系统",
-    "summary": "本文提出了 Super-agent 的架构设计，通过双层架构、事件驱动、全双工交互、存算分离及 Watchdog 机制，构建了一个跨会话连续、高效并发、主动响应且持久运行的自主 Agent 系统。",
-    "url": "https://www.bestblogs.dev/article/0aa572044e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / DeepSeek Harness 团队",
-    "topic": "人工智能",
-    "date": "2026-10-31",
+    "date": "2026-11-02",
     "badge": "agent"
   }
 ]
