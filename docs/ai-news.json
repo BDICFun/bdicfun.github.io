@@ -1,74 +1,74 @@
 [
   {
-    "title": "新质策源导刊丨张亚勤院士：AI 的起点和终点是帮助更多人",
-    "summary": "文章通过清华大学人工智能国际治理研究院院长张亚勤的专访，探讨 AI 技术如何从技术演进到产业变革，强调 AI 的价值终点应是帮助更多人，并从具身智能、AI 经济影响、产业变革等角度阐述 AI 的机遇与挑战。",
-    "url": "https://www.bestblogs.dev/article/c6f519164c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 清华大学人工智能国际治理研究院",
+    "title": "便宜的模型越来越多，怎么判断它能不能胜任我的 Agent 工作",
+    "summary": "本文从智价比角度分析如何判断低价模型是否适合 Agent 任务，提出基于实时评估的模型路由策略，并通过 HiRoute 项目展示了具体落地方案。",
+    "url": "https://www.bestblogs.dev/article/8295ec393f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里巴巴中间件",
     "topic": "人工智能",
-    "date": "2026-11-02",
+    "date": "2026-11-03",
+    "badge": "agent"
+  },
+  {
+    "title": "Supabase 创始人：Personal Agent 的下一步，是给每个人一个 Personal Database",
+    "summary": "Supabase 创始人阐述了 Personal Agent 时代的关键趋势：每个人都需要一个 Personal Database，这将重塑数据库的扩展架构和产品定位。",
+    "url": "https://www.bestblogs.dev/article/a75e64d9b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-11-03",
+    "badge": "agent"
+  },
+  {
+    "title": "70 岁相亲局，“为钱所困”",
+    "summary": "文章通过李抗美与老李的悲剧故事揭示了 70 岁相亲局中老年人婚恋关系的现实困境：男性追求陪伴与安全，女性为生活依赖，财产、子女、法律身份等现实因素构成复杂枷锁，导致感情被利益绑架。",
+    "url": "https://www.bestblogs.dev/article/a16e209d2b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 凤凰网",
+    "topic": "生活文化",
+    "date": "2026-11-03",
     "badge": "featured"
   },
   {
-    "title": "免费、自己爽、无限效率，红果如何改造中国影视业",
-    "summary": "文章分析了红果如何通过免费模式、数据算法和 AI 技术改造中国短剧产业，打破传统影视格局，实现高效的内容生产与商业化闭环。",
-    "url": "https://www.bestblogs.dev/article/4ae27a9a53?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-11-02",
+    "title": "让改进有迹可循：Storage Agent Family Eval 工程实践",
+    "summary": "文章介绍了火山引擎存储团队构建的 Storage Agent Family 评测体系，通过离线回归实验、Trace 调用链分析和线上真实问题回流，实现了 Agent 持续迭代和质量提升，确保其在云存储场景下的准确性与安全性。",
+    "url": "https://www.bestblogs.dev/article/7bb077e3a1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
+    "topic": "人工智能",
+    "date": "2026-11-03",
+    "badge": "agent"
+  },
+  {
+    "title": "她花 3 年研究 40 个女富豪，发现酒桌上没有大女主",
+    "summary": "本文通过对 40 多名中国女企业家的田野调查，揭示了互联网时代的‘市场女性主义’如何赋予女性经济独立与自主权，却也制造了持续的倦怠压力，迫使女性不断证明自己的成功与价值。",
+    "url": "https://www.bestblogs.dev/article/b78e9330dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新周刊",
+    "topic": "生活文化",
+    "date": "2026-11-03",
     "badge": "featured"
   },
   {
-    "title": "Hyra 2.0 发布：为模型研发打造可复用工具",
-    "summary": "Hyra 2.0 推出面向科研的工具研发框架，实现了从解题到造工具的跃迁，已成功研发出蛋白质设计模型、分子力场模型、数学证明工作流、量子码构造系统等多个可复用工具。",
-    "url": "https://www.bestblogs.dev/article/708e2fbe65?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯混元",
+    "title": "年终复盘：AI 带给我的 10 个 Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会",
+    "summary": "庄明浩以 10 个 Aha Moments 复盘 2026 年 AI 发展，涵盖 OpenClaw、Seedance、Sora 2 关闭、RSI 循环、硬件复兴、Codex-ChatGPT 合并、Qwen 小模型、App Store 收入下降、斩杀线概念及 Opus 5.5 带来的震撼，揭示了从技术范式到商业生态的全链路变革。",
+    "url": "https://www.bestblogs.dev/article/85d863d2f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
     "topic": "人工智能",
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "badge": "model"
   },
   {
-    "title": "揭秘小红书自研稀疏训练引擎 SparseGear：面向搜广推模型 Scaling Up 的资源协同与 HBM-Friendly 架构",
-    "summary": "小红书自研稀疏训练引擎 SparseGear 通过 HBM-Friendly 多级存储、统一特征抽取平台和 Agent 自动调优，实现稀疏参数供给效率提升和 Dense 扩展显存释放，为搜广推模型 Scaling Up 提供高性能解决方案。",
-    "url": "https://www.bestblogs.dev/article/e746465b60?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
+    "title": "深度 | AI 数据公司凶猛",
+    "summary": "本文深入剖析了 AI 数据公司作为模型训练的核心供给方，其融资热潮、商业模式、供需关系及行业内卷化现象，揭示了数据成为驱动 AI 演进的关键燃料。",
+    "url": "https://www.bestblogs.dev/article/ec3e33a3ad?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅星人Pro",
+    "topic": "商业科技",
+    "date": "2026-11-03",
+    "badge": "model"
+  },
+  {
+    "title": "2.5：面向智能体任务的原生多模态模型",
+    "summary": "美团发布参数 1.6 万亿、激活 480 亿的 LongCat-2.5 原生多模态模型，聚焦长程智能体任务，通过大规模长程强化学习提升复杂代码库开发能力，同时实现原生视觉理解与高效 W4A4 推理。",
+    "url": "https://www.bestblogs.dev/article/e15186ce25?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
     "topic": "人工智能",
-    "date": "2026-11-02",
-    "badge": "agent"
-  },
-  {
-    "title": "一个 Mac 清理工具，为什么要花这么多心思决定哪些东西不能删？",
-    "summary": "作者分享了从开源 CLI 工具 Mole 到付费 Mac 桌面版的独立开发经历，探讨了 AI 工具带来的垃圾文件问题、清理工具的设计哲学、用户反馈对产品迭代的影响，以及个人化的产品思考与信任构建。",
-    "url": "https://www.bestblogs.dev/article/d88a91d389?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 少数派",
-    "topic": "产品设计",
-    "date": "2026-11-02",
-    "badge": "tooling"
-  },
-  {
-    "title": "让 AI 看得见、判得准、改得对—— D2C 从设计稿到三端真机达标的自动化实践",
-    "summary": "本文介绍了 D2C（设计稿到代码）在移动端的自动化实践，构建端上 UI Harness 体系，实现 AI 从设计稿到三端真机达标的全流程闭环，解决了 AI 生码后验收难、三端差异大的问题。",
-    "url": "https://www.bestblogs.dev/article/0e3672b4c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-11-02",
-    "badge": "tooling"
-  },
-  {
-    "title": "在时光中摇摆的“厌世”诗人：夏多布里昂的三层世界",
-    "summary": "本文通过深度解读《墓畔回忆录》，阐释了夏多布里昂作为一位被死亡不断叩击的作家，如何借助文学与政治两条逃离生命有限性的道路，构建出一座以死亡为基石、以宗教与人文为顶点的思想圣殿，从而探讨人类如何在无常与乱世中寻找超越生命的意义。",
-    "url": "https://www.bestblogs.dev/article/75235c1adb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新京报书评周刊",
-    "topic": "生活文化",
-    "date": "2026-11-02",
-    "badge": "featured"
-  },
-  {
-    "title": "折腾了整整 1 年，毫无保留地分享一下我这套 Agent 自动化系统。",
-    "summary": "作者分享了一套基于 Agent 自动化的系统架构，通过事件中台统一调度、模型按需调用和 CI 流水线，最大化释放人类注意力，实现「批奏折」决策模式，显著提升生产力。",
-    "url": "https://www.bestblogs.dev/article/2b3cb757fa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 数字生命卡兹克",
-    "topic": "人工智能",
-    "date": "2026-11-02",
-    "badge": "agent"
+    "date": "2026-11-03",
+    "badge": "model"
   }
 ]
