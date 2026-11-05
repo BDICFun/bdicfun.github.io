@@ -1,5 +1,68 @@
 [
   {
+    "title": "多 Agent 架构的三次反转：从中心调度到自驱协作｜得物技术",
+    "summary": "本文系统性分析了多 Agent 架构的演进路径，从中心调度的 Master Agent、任务看板模式，到按需咨询的 Advisor 模式，阐述了控制权如何从中心下沉到执行者，从而提升系统的并行能力、弹性和专业化决策。",
+    "url": "https://www.bestblogs.dev/article/d5982ce609?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 得物技术",
+    "topic": "人工智能",
+    "date": "2026-11-04",
+    "badge": "agent"
+  },
+  {
+    "title": "Hy4 正式发布，为真实生产力而生",
+    "summary": "Hy4 正式版发布，首次跻身最强开源模型之列，集成视觉能力和电脑操作，显著提升指令遵循、长文理解、科研与生产力等综合能力，并在金融、前端开发、科研等场景取得领先表现。",
+    "url": "https://www.bestblogs.dev/article/f8ae58775e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "人工智能",
+    "date": "2026-11-04",
+    "badge": "model"
+  },
+  {
+    "title": "QCon 上海 2026：百度 SRE Agent 规模化落地实践解读",
+    "summary": "本文详述了百度 SRE 团队如何构建 AgentOps 平台，解决 Agent 规模化落地的部署、版本、观测、安全等问题，实现从单点试用到持续进化的全生命周期托管。",
+    "url": "https://www.bestblogs.dev/article/0e067f647b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 百度Geek说",
+    "topic": "软件编程",
+    "date": "2026-11-04",
+    "badge": "agent"
+  },
+  {
+    "title": "实测腾讯 Hy4：我用它复刻《王者荣耀》， WorkBuddy 真能接大活了",
+    "summary": "本文通过实测腾讯 Hy4 模型，展示了其在 Agent 能力、长程任务、视觉理解和电脑操作方面的显著提升，证明了其在实际生产任务中的强大竞争力，成为目前最强开源模型之一。",
+    "url": "https://www.bestblogs.dev/article/296f288c3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / APPSO",
+    "topic": "人工智能",
+    "date": "2026-11-04",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 写的东西越来越难懂，Gemini 是怎么做到「说人话」的？｜Hao 好聊趋势",
+    "summary": "文章分析了 AI 生成文本的可读性问题，提出均匀信息密度与修辞结构理论等诊断框架，并介绍 Google 通过 LearnLM 等方法让模型「说人话」的技术路径。",
+    "url": "https://www.bestblogs.dev/article/bce5b557f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-11-04",
+    "badge": "model"
+  },
+  {
+    "title": "医生错过的癌症，AI 发现了",
+    "summary": "本文通过阿里巴巴达摩院的案例展示，AI 如何在已有影像数据中发现胰腺癌早期病灶，为癌症早筛提供新可能，并探讨了技术落地、患者沟通与健康传播的挑战。",
+    "url": "https://www.bestblogs.dev/article/52b3323ada?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南风窗",
+    "topic": "媒体资讯",
+    "date": "2026-11-03",
+    "badge": "featured"
+  },
+  {
+    "title": "OxygenData-Vibe 搭建：用 AI Coding 重新定义数据看板搭建",
+    "summary": "OxygenData-Vibe 利用 AI Coding 技术，通过面向 AI 的新宇宙架构设计，实现了数据看板从 30 人天缩短至 3 天交付，用户已创建 478 个 AI 生成看板，显著提升了数据可视化开发效率。",
+    "url": "https://www.bestblogs.dev/article/56aacae6e0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 京东技术",
+    "topic": "软件编程",
+    "date": "2026-11-03",
+    "badge": "tooling"
+  },
+  {
     "title": "便宜的模型越来越多，怎么判断它能不能胜任我的 Agent 工作",
     "summary": "本文从智价比角度分析如何判断低价模型是否适合 Agent 任务，提出基于实时评估的模型路由策略，并通过 HiRoute 项目展示了具体落地方案。",
     "url": "https://www.bestblogs.dev/article/8295ec393f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,68 +70,5 @@
     "topic": "人工智能",
     "date": "2026-11-03",
     "badge": "agent"
-  },
-  {
-    "title": "Supabase 创始人：Personal Agent 的下一步，是给每个人一个 Personal Database",
-    "summary": "Supabase 创始人阐述了 Personal Agent 时代的关键趋势：每个人都需要一个 Personal Database，这将重塑数据库的扩展架构和产品定位。",
-    "url": "https://www.bestblogs.dev/article/a75e64d9b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-11-03",
-    "badge": "agent"
-  },
-  {
-    "title": "70 岁相亲局，“为钱所困”",
-    "summary": "文章通过李抗美与老李的悲剧故事揭示了 70 岁相亲局中老年人婚恋关系的现实困境：男性追求陪伴与安全，女性为生活依赖，财产、子女、法律身份等现实因素构成复杂枷锁，导致感情被利益绑架。",
-    "url": "https://www.bestblogs.dev/article/a16e209d2b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 凤凰网",
-    "topic": "生活文化",
-    "date": "2026-11-03",
-    "badge": "featured"
-  },
-  {
-    "title": "让改进有迹可循：Storage Agent Family Eval 工程实践",
-    "summary": "文章介绍了火山引擎存储团队构建的 Storage Agent Family 评测体系，通过离线回归实验、Trace 调用链分析和线上真实问题回流，实现了 Agent 持续迭代和质量提升，确保其在云存储场景下的准确性与安全性。",
-    "url": "https://www.bestblogs.dev/article/7bb077e3a1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "人工智能",
-    "date": "2026-11-03",
-    "badge": "agent"
-  },
-  {
-    "title": "她花 3 年研究 40 个女富豪，发现酒桌上没有大女主",
-    "summary": "本文通过对 40 多名中国女企业家的田野调查，揭示了互联网时代的‘市场女性主义’如何赋予女性经济独立与自主权，却也制造了持续的倦怠压力，迫使女性不断证明自己的成功与价值。",
-    "url": "https://www.bestblogs.dev/article/b78e9330dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新周刊",
-    "topic": "生活文化",
-    "date": "2026-11-03",
-    "badge": "featured"
-  },
-  {
-    "title": "年终复盘：AI 带给我的 10 个 Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会",
-    "summary": "庄明浩以 10 个 Aha Moments 复盘 2026 年 AI 发展，涵盖 OpenClaw、Seedance、Sora 2 关闭、RSI 循环、硬件复兴、Codex-ChatGPT 合并、Qwen 小模型、App Store 收入下降、斩杀线概念及 Opus 5.5 带来的震撼，揭示了从技术范式到商业生态的全链路变革。",
-    "url": "https://www.bestblogs.dev/article/85d863d2f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "人工智能",
-    "date": "2026-11-03",
-    "badge": "model"
-  },
-  {
-    "title": "深度 | AI 数据公司凶猛",
-    "summary": "本文深入剖析了 AI 数据公司作为模型训练的核心供给方，其融资热潮、商业模式、供需关系及行业内卷化现象，揭示了数据成为驱动 AI 演进的关键燃料。",
-    "url": "https://www.bestblogs.dev/article/ec3e33a3ad?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅星人Pro",
-    "topic": "商业科技",
-    "date": "2026-11-03",
-    "badge": "model"
-  },
-  {
-    "title": "2.5：面向智能体任务的原生多模态模型",
-    "summary": "美团发布参数 1.6 万亿、激活 480 亿的 LongCat-2.5 原生多模态模型，聚焦长程智能体任务，通过大规模长程强化学习提升复杂代码库开发能力，同时实现原生视觉理解与高效 W4A4 推理。",
-    "url": "https://www.bestblogs.dev/article/e15186ce25?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 美团 · 技术团队",
-    "topic": "人工智能",
-    "date": "2026-11-03",
-    "badge": "model"
   }
 ]
