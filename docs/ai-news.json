@@ -1,74 +1,74 @@
 [
   {
-    "title": "多 Agent 架构的三次反转：从中心调度到自驱协作｜得物技术",
-    "summary": "本文系统性分析了多 Agent 架构的演进路径，从中心调度的 Master Agent、任务看板模式，到按需咨询的 Advisor 模式，阐述了控制权如何从中心下沉到执行者，从而提升系统的并行能力、弹性和专业化决策。",
-    "url": "https://www.bestblogs.dev/article/d5982ce609?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 得物技术",
-    "topic": "人工智能",
-    "date": "2026-11-04",
-    "badge": "agent"
-  },
-  {
-    "title": "Hy4 正式发布，为真实生产力而生",
-    "summary": "Hy4 正式版发布，首次跻身最强开源模型之列，集成视觉能力和电脑操作，显著提升指令遵循、长文理解、科研与生产力等综合能力，并在金融、前端开发、科研等场景取得领先表现。",
-    "url": "https://www.bestblogs.dev/article/f8ae58775e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "人工智能",
-    "date": "2026-11-04",
-    "badge": "model"
-  },
-  {
-    "title": "QCon 上海 2026：百度 SRE Agent 规模化落地实践解读",
-    "summary": "本文详述了百度 SRE 团队如何构建 AgentOps 平台，解决 Agent 规模化落地的部署、版本、观测、安全等问题，实现从单点试用到持续进化的全生命周期托管。",
-    "url": "https://www.bestblogs.dev/article/0e067f647b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 百度Geek说",
+    "title": "科技爱好者周刊（第 418 期）：如果科技停止在 21 世纪初",
+    "summary": "本期周刊通过对 21 世纪初科技生活的回顾与思考，警示技术过度主导人类生活的风险，同时分享 AI 工作台、太空机房实验等前沿科技动态。",
+    "url": "https://www.bestblogs.dev/article/a57df1d2c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
     "topic": "软件编程",
-    "date": "2026-11-04",
-    "badge": "agent"
-  },
-  {
-    "title": "实测腾讯 Hy4：我用它复刻《王者荣耀》， WorkBuddy 真能接大活了",
-    "summary": "本文通过实测腾讯 Hy4 模型，展示了其在 Agent 能力、长程任务、视觉理解和电脑操作方面的显著提升，证明了其在实际生产任务中的强大竞争力，成为目前最强开源模型之一。",
-    "url": "https://www.bestblogs.dev/article/296f288c3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / APPSO",
-    "topic": "人工智能",
-    "date": "2026-11-04",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 写的东西越来越难懂，Gemini 是怎么做到「说人话」的？｜Hao 好聊趋势",
-    "summary": "文章分析了 AI 生成文本的可读性问题，提出均匀信息密度与修辞结构理论等诊断框架，并介绍 Google 通过 LearnLM 等方法让模型「说人话」的技术路径。",
-    "url": "https://www.bestblogs.dev/article/bce5b557f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-11-04",
-    "badge": "model"
-  },
-  {
-    "title": "医生错过的癌症，AI 发现了",
-    "summary": "本文通过阿里巴巴达摩院的案例展示，AI 如何在已有影像数据中发现胰腺癌早期病灶，为癌症早筛提供新可能，并探讨了技术落地、患者沟通与健康传播的挑战。",
-    "url": "https://www.bestblogs.dev/article/52b3323ada?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南风窗",
-    "topic": "媒体资讯",
-    "date": "2026-11-03",
-    "badge": "featured"
-  },
-  {
-    "title": "OxygenData-Vibe 搭建：用 AI Coding 重新定义数据看板搭建",
-    "summary": "OxygenData-Vibe 利用 AI Coding 技术，通过面向 AI 的新宇宙架构设计，实现了数据看板从 30 人天缩短至 3 天交付，用户已创建 478 个 AI 生成看板，显著提升了数据可视化开发效率。",
-    "url": "https://www.bestblogs.dev/article/56aacae6e0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 京东技术",
-    "topic": "软件编程",
-    "date": "2026-11-03",
+    "date": "2026-11-05",
     "badge": "tooling"
   },
   {
-    "title": "便宜的模型越来越多，怎么判断它能不能胜任我的 Agent 工作",
-    "summary": "本文从智价比角度分析如何判断低价模型是否适合 Agent 任务，提出基于实时评估的模型路由策略，并通过 HiRoute 项目展示了具体落地方案。",
-    "url": "https://www.bestblogs.dev/article/8295ec393f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里巴巴中间件",
+    "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
+    "summary": "OpenAI 发布 Images 2.6，引入 GIF 动图生成、50%速度提升及双模型架构，推动 AI 生图向专业设计和社交表达场景深化融合。",
+    "url": "https://www.bestblogs.dev/article/9e587b007b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 山宗",
     "topic": "人工智能",
-    "date": "2026-11-03",
+    "date": "2026-11-05",
+    "badge": "model"
+  },
+  {
+    "title": "双 11：当 AI 接管支付宝大促交付，模型之外还要建什么？",
+    "summary": "文章系统阐述了支付宝通过 AI Harness 从工程化走向 AI 全链路交付的实践方法，回答了当 AI 接管大促交付时，模型之外还需构建的关键运行框架问题。",
+    "url": "https://www.bestblogs.dev/article/f1ee023080?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-11-05",
+    "badge": "model"
+  },
+  {
+    "title": "拆解小红书存储底座 03｜从存得下到读得快：小红书自研对象存储实践",
+    "summary": "小红书自研对象存储 ROS 通过混合云架构、HDD 内外圈放置与 SSD RDMA 优化，实现高带宽读写，支撑多媒体、大数据和 AI 训练等业务场景。",
+    "url": "https://www.bestblogs.dev/article/92b09c6e01?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
+    "topic": "软件编程",
+    "date": "2026-11-05",
+    "badge": "tooling"
+  },
+  {
+    "title": "我写了 Hinton 署名的那篇 RSI 论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann",
+    "summary": "文章聚焦 AI 递归自我改进（RSI）可能带来的十倍研发加速，分析了 AI 研究品味、算力、数据等瓶颈，以及 AI 安全风险如 Hugging Face 事件的警示，并探讨了 AI 辅助安全对齐的技术路径。",
+    "url": "https://www.bestblogs.dev/article/01481ac65e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-11-05",
+    "badge": "featured"
+  },
+  {
+    "title": "上限让人尝鲜，可靠让人常用：千问蒋冠军谈 Personal Agent",
+    "summary": "千问蒋冠军阐述 Personal Agent 从尝鲜到常用的关键路径：模型、记忆、生态缺一不可，以稳定性为核心，通过后训练、Skill 约束和用户确认机制提升可靠性。",
+    "url": "https://www.bestblogs.dev/article/7a4dc8231a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / AI炼金术",
+    "topic": "人工智能",
+    "date": "2026-11-05",
     "badge": "agent"
+  },
+  {
+    "title": "吴婷对话 Rokid 祝铭明：决战 AI 眼镜半山腰｜我有嘉宾",
+    "summary": "通过与 Rokid 创始人祝铭明的深度对话，揭示 AI 时代人机交互的关键赛点——智能眼镜如何突破「不可能三角」，构建「硬件+OS+生态」全栈护城河，并在面对巨头「决战半山腰」时的策略与思考。",
+    "url": "https://www.bestblogs.dev/article/6d5ae959e0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 嘉宾商学课程",
+    "topic": "人工智能",
+    "date": "2026-11-05",
+    "badge": "featured"
+  },
+  {
+    "title": "还好大促前刷到了！一种基于分布式缓存的强一致性热点库存扣减方案",
+    "summary": "本文介绍了一种基于 Redis 分桶计数和 DB 合并提交的强一致性热点库存扣减方案，通过分布式缓存提升 TPS，同时通过锁库存、合并扣减、回收模块和防超卖设计，实现了在保证数据准确性的同时显著提升了库存扣减性能。",
+    "url": "https://www.bestblogs.dev/article/706c73f66f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / dbaplus社群",
+    "topic": "软件编程",
+    "date": "2026-11-04",
+    "badge": "tooling"
   }
 ]
