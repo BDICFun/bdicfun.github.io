@@ -1,74 +1,74 @@
 [
   {
+    "title": "多 Agent 协作的下一场竞争，不在模型，而在上下文",
+    "summary": "文章提出多 Agent 协作的核心问题在于上下文传递的折损，认为应通过共享上下文而非转述来实现低损耗协作，Siboot 通过群、Topic、@ 三要素构建共享工作现场。",
+    "url": "https://www.bestblogs.dev/article/c9766fc40c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-11-06",
+    "badge": "agent"
+  },
+  {
+    "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
+    "summary": "本文提出 AI 加速狂奔下的悖论，论证为何在智能体时代需要“慢下来”打磨品鉴能力、用好人脑、说好人话，以及建立高浓度的人际信任，从而在 AI 原生工作流中实现人机协同、组织资产增厚和创新涌现。",
+    "url": "https://www.bestblogs.dev/article/07d4f9169a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-11-06",
+    "badge": "featured"
+  },
+  {
+    "title": "已故明星竟也难逃盗脸带货？澎湃实测 AI 盗脸非法产业：花 350 元定制，四大平台全部轻松过审",
+    "summary": "澎湃新闻通过 350 元定制 AI 盗脸视频实测，发现即使标注 AI 生成或注明侵权明星姓名，仍可轻松通过抖音、小红书、快手、视频号等平台审核，揭露盗脸带货的非法产业链条。",
+    "url": "https://www.bestblogs.dev/article/54d2da95f2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 澎湃新闻",
+    "topic": "媒体资讯",
+    "date": "2026-11-06",
+    "badge": "featured"
+  },
+  {
+    "title": "Agent 越用越多，企业为何仍不够 AI Native ？",
+    "summary": "文章从组织层面分析 AI Native 的核心在于组织结构变革而非工具使用量，通过「左移」降低复杂度、统一概念字典、建立价值闭环，最终实现从「生码率」到「交付效率」的根本性提升。",
+    "url": "https://www.bestblogs.dev/article/6cc233fae1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-11-06",
+    "badge": "agent"
+  },
+  {
+    "title": "淘宝 MNN 团队开源 0.3B 手机模型，iPhone 18 Pro 上离线跑出 350 token/s",
+    "summary": "淘宝 MNN 团队开源 0.3B 手机模型，实现 iPhone 18 Pro 上离线 350 token/s 的解码速度，兼顾速度、内存、功耗与能力，为手机应用原生大模型提供可集成的轻量化解决方案。",
+    "url": "https://www.bestblogs.dev/article/4fb6604e8e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-11-06",
+    "badge": "model"
+  },
+  {
+    "title": "从 LLM 到 Ontology：本体驱动的 AI 数据研发原理与最佳实践",
+    "summary": "本文探讨将本体（Ontology）应用于数据研发领域，通过自动抽取生产代码中的业务规则和口径，构建结构化知识资产，显著提升大模型生成 SQL 的准确性，实测字段维度提升 3 分，业务规则提升 1 分。",
+    "url": "https://www.bestblogs.dev/article/de7d86656b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "软件编程",
+    "date": "2026-11-06",
+    "badge": "model"
+  },
+  {
+    "title": "对话千觉马道林：当通用大模型走进物理世界，具身难点在 “触碰之后”",
+    "summary": "本文通过对话千觉机器人创始人马道林的专访，探讨了具身智能中触觉感知的技术挑战、视触觉传感器的优势以及如何让机器人从‘看见’走向‘理解’和‘交互’世界的路径。",
+    "url": "https://www.bestblogs.dev/article/17a08df417?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "人工智能",
+    "date": "2026-11-06",
+    "badge": "model"
+  },
+  {
     "title": "科技爱好者周刊（第 418 期）：如果科技停止在 21 世纪初",
     "summary": "本期周刊通过对 21 世纪初科技生活的回顾与思考，警示技术过度主导人类生活的风险，同时分享 AI 工作台、太空机房实验等前沿科技动态。",
     "url": "https://www.bestblogs.dev/article/a57df1d2c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阮一峰",
     "topic": "软件编程",
     "date": "2026-11-05",
-    "badge": "tooling"
-  },
-  {
-    "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
-    "summary": "OpenAI 发布 Images 2.6，引入 GIF 动图生成、50%速度提升及双模型架构，推动 AI 生图向专业设计和社交表达场景深化融合。",
-    "url": "https://www.bestblogs.dev/article/9e587b007b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 山宗",
-    "topic": "人工智能",
-    "date": "2026-11-05",
-    "badge": "model"
-  },
-  {
-    "title": "双 11：当 AI 接管支付宝大促交付，模型之外还要建什么？",
-    "summary": "文章系统阐述了支付宝通过 AI Harness 从工程化走向 AI 全链路交付的实践方法，回答了当 AI 接管大促交付时，模型之外还需构建的关键运行框架问题。",
-    "url": "https://www.bestblogs.dev/article/f1ee023080?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-11-05",
-    "badge": "model"
-  },
-  {
-    "title": "拆解小红书存储底座 03｜从存得下到读得快：小红书自研对象存储实践",
-    "summary": "小红书自研对象存储 ROS 通过混合云架构、HDD 内外圈放置与 SSD RDMA 优化，实现高带宽读写，支撑多媒体、大数据和 AI 训练等业务场景。",
-    "url": "https://www.bestblogs.dev/article/92b09c6e01?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
-    "topic": "软件编程",
-    "date": "2026-11-05",
-    "badge": "tooling"
-  },
-  {
-    "title": "我写了 Hinton 署名的那篇 RSI 论文，未来几年 AI 研发可能提速十倍｜Sören Mindermann",
-    "summary": "文章聚焦 AI 递归自我改进（RSI）可能带来的十倍研发加速，分析了 AI 研究品味、算力、数据等瓶颈，以及 AI 安全风险如 Hugging Face 事件的警示，并探讨了 AI 辅助安全对齐的技术路径。",
-    "url": "https://www.bestblogs.dev/article/01481ac65e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-11-05",
-    "badge": "featured"
-  },
-  {
-    "title": "上限让人尝鲜，可靠让人常用：千问蒋冠军谈 Personal Agent",
-    "summary": "千问蒋冠军阐述 Personal Agent 从尝鲜到常用的关键路径：模型、记忆、生态缺一不可，以稳定性为核心，通过后训练、Skill 约束和用户确认机制提升可靠性。",
-    "url": "https://www.bestblogs.dev/article/7a4dc8231a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / AI炼金术",
-    "topic": "人工智能",
-    "date": "2026-11-05",
-    "badge": "agent"
-  },
-  {
-    "title": "吴婷对话 Rokid 祝铭明：决战 AI 眼镜半山腰｜我有嘉宾",
-    "summary": "通过与 Rokid 创始人祝铭明的深度对话，揭示 AI 时代人机交互的关键赛点——智能眼镜如何突破「不可能三角」，构建「硬件+OS+生态」全栈护城河，并在面对巨头「决战半山腰」时的策略与思考。",
-    "url": "https://www.bestblogs.dev/article/6d5ae959e0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 嘉宾商学课程",
-    "topic": "人工智能",
-    "date": "2026-11-05",
-    "badge": "featured"
-  },
-  {
-    "title": "还好大促前刷到了！一种基于分布式缓存的强一致性热点库存扣减方案",
-    "summary": "本文介绍了一种基于 Redis 分桶计数和 DB 合并提交的强一致性热点库存扣减方案，通过分布式缓存提升 TPS，同时通过锁库存、合并扣减、回收模块和防超卖设计，实现了在保证数据准确性的同时显著提升了库存扣减性能。",
-    "url": "https://www.bestblogs.dev/article/706c73f66f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / dbaplus社群",
-    "topic": "软件编程",
-    "date": "2026-11-04",
     "badge": "tooling"
   }
 ]
