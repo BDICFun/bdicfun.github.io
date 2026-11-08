@@ -1,5 +1,23 @@
 [
   {
+    "title": "终于，你能在国内玩到正版 2077 摩托街机了",
+    "summary": "本文通过追踪《赛博朋克 2077：夜城狂飙》街机研发历程，揭示了国产街机厂商世宇科技如何通过正版 IP 授权、高规格硬件配置与本土化研发，推动国内街机产业从低龄化向高端化、从模仿海外向本土 IP 输出的转型进程。",
+    "url": "https://www.bestblogs.dev/article/032aed15a3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 游戏研究社",
+    "topic": "商业科技",
+    "date": "2026-11-07",
+    "badge": "featured"
+  },
+  {
+    "title": "唯一“真·全平台”的国产游戏，给担心 Steam 太拥挤的国单们指了条明路",
+    "summary": "文章通过《苍翼：混沌效应》案例，阐释了中国国产单机游戏全平台布局的商业逻辑、技术实现与行业启示，揭示了在 Steam 拥挤背景下，多平台策略如何成为小团队突围的关键路径。",
+    "url": "https://www.bestblogs.dev/article/5f3aefb080?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 游戏研究社",
+    "topic": "商业科技",
+    "date": "2026-11-06",
+    "badge": "featured"
+  },
+  {
     "title": "多 Agent 协作的下一场竞争，不在模型，而在上下文",
     "summary": "文章提出多 Agent 协作的核心问题在于上下文传递的折损，认为应通过共享上下文而非转述来实现低损耗协作，Siboot 通过群、Topic、@ 三要素构建共享工作现场。",
     "url": "https://www.bestblogs.dev/article/c9766fc40c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -36,6 +54,15 @@
     "badge": "agent"
   },
   {
+    "title": "AI 内容核查怎么做：智能内容 AI 核查系统实践",
+    "summary": "文章介绍了百度构建的 AI 内容核查系统的实践方法，通过将内容拆解为最小可验证主张、以权威证据为准，结合多阶段小模型流水线和 DSPy 优化，实现了对 AIGC 内容的高效核查，已在知识百科和内容问答等五类业务中落地。",
+    "url": "https://www.bestblogs.dev/article/ccb1620999?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 百度Geek说",
+    "topic": "人工智能",
+    "date": "2026-11-06",
+    "badge": "model"
+  },
+  {
     "title": "淘宝 MNN 团队开源 0.3B 手机模型，iPhone 18 Pro 上离线跑出 350 token/s",
     "summary": "淘宝 MNN 团队开源 0.3B 手机模型，实现 iPhone 18 Pro 上离线 350 token/s 的解码速度，兼顾速度、内存、功耗与能力，为手机应用原生大模型提供可集成的轻量化解决方案。",
     "url": "https://www.bestblogs.dev/article/4fb6604e8e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "软件编程",
     "date": "2026-11-06",
     "badge": "model"
-  },
-  {
-    "title": "从 LLM 到 Ontology：本体驱动的 AI 数据研发原理与最佳实践",
-    "summary": "本文探讨将本体（Ontology）应用于数据研发领域，通过自动抽取生产代码中的业务规则和口径，构建结构化知识资产，显著提升大模型生成 SQL 的准确性，实测字段维度提升 3 分，业务规则提升 1 分。",
-    "url": "https://www.bestblogs.dev/article/de7d86656b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "软件编程",
-    "date": "2026-11-06",
-    "badge": "model"
-  },
-  {
-    "title": "对话千觉马道林：当通用大模型走进物理世界，具身难点在 “触碰之后”",
-    "summary": "本文通过对话千觉机器人创始人马道林的专访，探讨了具身智能中触觉感知的技术挑战、视触觉传感器的优势以及如何让机器人从‘看见’走向‘理解’和‘交互’世界的路径。",
-    "url": "https://www.bestblogs.dev/article/17a08df417?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "人工智能",
-    "date": "2026-11-06",
-    "badge": "model"
-  },
-  {
-    "title": "科技爱好者周刊（第 418 期）：如果科技停止在 21 世纪初",
-    "summary": "本期周刊通过对 21 世纪初科技生活的回顾与思考，警示技术过度主导人类生活的风险，同时分享 AI 工作台、太空机房实验等前沿科技动态。",
-    "url": "https://www.bestblogs.dev/article/a57df1d2c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "软件编程",
-    "date": "2026-11-05",
-    "badge": "tooling"
   }
 ]
