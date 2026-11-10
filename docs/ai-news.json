@@ -1,74 +1,74 @@
 [
   {
-    "title": "终于，你能在国内玩到正版 2077 摩托街机了",
-    "summary": "本文通过追踪《赛博朋克 2077：夜城狂飙》街机研发历程，揭示了国产街机厂商世宇科技如何通过正版 IP 授权、高规格硬件配置与本土化研发，推动国内街机产业从低龄化向高端化、从模仿海外向本土 IP 输出的转型进程。",
-    "url": "https://www.bestblogs.dev/article/032aed15a3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 游戏研究社",
+    "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
+    "summary": "豆包 Seedream 5.5 推出多轮编辑稳定性、RGBA 透明背景和图层拆分等能力，显著提升 AI 作图在实际设计工作流中的可用性与效率。",
+    "url": "https://www.bestblogs.dev/article/7cae98b22b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张子豪",
+    "topic": "人工智能",
+    "date": "2026-11-09",
+    "badge": "featured"
+  },
+  {
+    "title": "新华深读丨“一人公司”潮起",
+    "summary": "人工智能深度赋能下，单人创业模式“一人公司”快速崛起，涵盖 AI 工具普及、产业应用、政策扶持及治理挑战等多维度变革。",
+    "url": "https://www.bestblogs.dev/article/b3f40309f2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / news.cn",
     "topic": "商业科技",
-    "date": "2026-11-07",
-    "badge": "featured"
+    "date": "2026-11-09",
+    "badge": "tooling"
   },
   {
-    "title": "凌晨 2 点，在清华实验室，人类能看见的宇宙悄悄变远了",
-    "summary": "清华大学博士生郭钰铎通过创新的 AI 算法‘星衍’，让价值 100 亿美元的韦布望远镜显现出以往看不见的暗弱星系，显著提升天文观测极限。",
-    "url": "https://www.bestblogs.dev/article/edb14c467a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 果壳",
+    "title": "谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
+    "summary": "字节跳动发布 Seedream 5.5 模型，主打像素级精准编辑、百轮连续修改不崩坏和原生 RGBA 透明素材，进一步逼近专业图像编辑工具。",
+    "url": "https://www.bestblogs.dev/article/fd9db407e9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 山宗",
     "topic": "人工智能",
-    "date": "2026-11-07",
-    "badge": "featured"
-  },
-  {
-    "title": "陶大程教授最新技术文章：一台机器人犯过的错，怎样让另一台少走弯路？",
-    "summary": "文章探讨了机器人经验复用的核心问题，提出双脑协同架构，通过 SenseNova 云端大脑与开悟世界模型结合具身 Harness 系统，构建从真实交互到仿真验证的 Real2Sim2Real 闭环，实现经验迁移与持续能力积累。",
-    "url": "https://www.bestblogs.dev/article/680bf1ad5d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 机器之心",
-    "topic": "人工智能",
-    "date": "2026-11-07",
+    "date": "2026-11-09",
     "badge": "model"
   },
   {
-    "title": "NeurIPS 2026 | 从「先出题」到「先探索」：重新思考 Tool-Calling Agent 的训练数据合成",
-    "summary": "文章介绍了 Firefly 方法，通过反转训练数据合成流程——先在真实 MCP Server 上探索后再出题，从而构建出规模化、真实且可验证的 Tool-Calling Agent 训练数据集，验证了该方法在提升小模型性能方面的有效性。",
-    "url": "https://www.bestblogs.dev/article/5f613f15d3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 机器之心",
+    "title": "数字员工：有关 AI Native 新流水线的思考",
+    "summary": "本文提出数字员工作为 AI Native 组织协同层的核心形态，强调需构建面向业务单元的'云端 PM'角色，通过感知上下文、串联目标实现人与 AI 协作，弥补执行层技术成熟度不足的组织瓶颈。",
+    "url": "https://www.bestblogs.dev/article/b4104e486d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
     "topic": "人工智能",
-    "date": "2026-11-07",
+    "date": "2026-11-09",
+    "badge": "featured"
+  },
+  {
+    "title": "从进化到泛化，RSI 四大前沿框架如何实现 Agent 自动调优",
+    "summary": "本文系统梳理了 Google 提出的四大 RSI 框架（Harness²、Evo²、RRSI、OO-Harness），从无金标进化、进化机制自优化、正则化防过拟合及面向对象架构解耦四个维度，阐述了实现 Agent 自动调优的完整方法论。",
+    "url": "https://www.bestblogs.dev/article/e514436b48?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-11-09",
     "badge": "agent"
   },
   {
-    "title": "下载量过亿的出海团队，在东南亚和拉美做了哪些选择？｜AI 未来谈",
-    "summary": "文章通过吴晓波频道与 Genora Science 创始人许乐洋的对话，探讨了中国 AI 出海团队在东南亚和拉美的市场选择、产品形态、本地化策略及商业模式，揭示了面向海外普通用户的 AI 应用从选市场到获客、护城河构建的完整路径。",
-    "url": "https://www.bestblogs.dev/article/af0ef5eee1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 吴晓波",
+    "title": "生成更真实，百轮编辑更稳定｜Seedream 5.5 发布",
+    "summary": "Seedream 5.5 发布，提升多轮编辑稳定性、支持原生 RGBA 透明输出，优化真实感与文字渲染，显著领先于主流模型。",
+    "url": "https://www.bestblogs.dev/article/5fd1d5bc9d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动Seed",
     "topic": "人工智能",
-    "date": "2026-11-07",
+    "date": "2026-11-09",
+    "badge": "model"
+  },
+  {
+    "title": "一个 12 岁女孩打赏 14 万之后",
+    "summary": "本文追踪了一名 12 岁女孩因直播打赏导致家庭财产蒸发、亲子关系破裂、个人人生偏离正轨的悲剧经历，揭示了直播行业围捕机制对未成年人的渗透及其社会法律边界。",
+    "url": "https://www.bestblogs.dev/article/eb809ce88b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人物",
+    "topic": "媒体资讯",
+    "date": "2026-11-09",
     "badge": "featured"
   },
   {
-    "title": "唯一“真·全平台”的国产游戏，给担心 Steam 太拥挤的国单们指了条明路",
-    "summary": "文章通过《苍翼：混沌效应》案例，阐释了中国国产单机游戏全平台布局的商业逻辑、技术实现与行业启示，揭示了在 Steam 拥挤背景下，多平台策略如何成为小团队突围的关键路径。",
-    "url": "https://www.bestblogs.dev/article/5f3aefb080?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 游戏研究社",
-    "topic": "商业科技",
-    "date": "2026-11-06",
-    "badge": "featured"
-  },
-  {
-    "title": "多 Agent 协作的下一场竞争，不在模型，而在上下文",
-    "summary": "文章提出多 Agent 协作的核心问题在于上下文传递的折损，认为应通过共享上下文而非转述来实现低损耗协作，Siboot 通过群、Topic、@ 三要素构建共享工作现场。",
-    "url": "https://www.bestblogs.dev/article/c9766fc40c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
+    "title": "零售数据工程前端团队：用 AI Coding 重新定义数据看板搭建 – AI 星球",
+    "summary": "京东零售数据工程前端团队通过 AI Coding 实践，构建 BI-Vibe-Agent，实现用户通过自然语言创建数据看板，显著提升开发效率并改变数据看板生产方式。",
+    "url": "https://www.bestblogs.dev/article/e6a16bcdc3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / aixq.cc",
     "topic": "人工智能",
-    "date": "2026-11-06",
+    "date": "2026-11-08",
     "badge": "agent"
-  },
-  {
-    "title": "当 AI 在加速狂奔，什么反而应该“慢”下来？",
-    "summary": "本文提出 AI 加速狂奔下的悖论，论证为何在智能体时代需要“慢下来”打磨品鉴能力、用好人脑、说好人话，以及建立高浓度的人际信任，从而在 AI 原生工作流中实现人机协同、组织资产增厚和创新涌现。",
-    "url": "https://www.bestblogs.dev/article/07d4f9169a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-11-06",
-    "badge": "featured"
   }
 ]
