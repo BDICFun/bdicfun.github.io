@@ -1,5 +1,68 @@
 [
   {
+    "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+    "summary": "MiniMax 开源 H3 Image 模型实现 GPT 效果与 Midjourney 审美结合，支持 4K 超清生成、16 张参考图和 Agent 工作流集成，显著提升图像生成的指令遵循、视觉质感和实际创作效率。",
+    "url": "https://www.bestblogs.dev/article/c925f8a4c1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张子豪",
+    "topic": "人工智能",
+    "date": "2026-11-11",
+    "badge": "agent"
+  },
+  {
+    "title": "美团 LongCat-2.5 正式开源：从看见，到抵达",
+    "summary": "美团正式开源参数 1.6 万亿、激活 480 亿的 LongCat-2.5 原生多模态模型，聚焦长程智能体任务，支持一百万上下文，采用 MIT 协议开放商用部署与二次训练。",
+    "url": "https://www.bestblogs.dev/article/a6ee41dc03?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
+    "topic": "人工智能",
+    "date": "2026-11-10",
+    "badge": "model"
+  },
+  {
+    "title": "等不来一部戏，横店演员过寒冬",
+    "summary": "文章通过记叙横店演员宋年欢在影视寒冬中摆摊卖柠檬茶的真实经历，揭示了 AI 技术冲击下短剧行业的剧变，以及从演员到摊主的生存转型与人性困境。",
+    "url": "https://www.bestblogs.dev/article/7aed0c95bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 凤凰网",
+    "topic": "生活文化",
+    "date": "2026-11-10",
+    "badge": "featured"
+  },
+  {
+    "title": "从淘小蜜分流模型的实践，聊聊 Jev 与 System One",
+    "summary": "本文通过淘小蜜客服 Agent 分流模型的实践经验，分析了 Jev 的实现原理及其与 System One 任务的关联，探讨了候选 logits 打分、动态选项映射、概率校准等关键技术细节。",
+    "url": "https://www.bestblogs.dev/article/342e64b5f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-11-10",
+    "badge": "agent"
+  },
+  {
+    "title": "拆解小红书存储底座 04｜从对象到文件：RedStore SSD 引擎与 RedFS 的设计与实践",
+    "summary": "本文详解了小红书如何从对象存储演进到并行文件系统，介绍了 RedStore SSD 引擎的读写路径优化、QLC SSD 写放大降低策略，以及 RedFS 在文件元数据、访问路径和写入一致性方面的设计实践。",
+    "url": "https://www.bestblogs.dev/article/6d7cfb70ab?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
+    "topic": "软件编程",
+    "date": "2026-11-10",
+    "badge": "tooling"
+  },
+  {
+    "title": "AI 从 Working、Coding 到 Oncall：腾讯视频如何让知识流动起来？",
+    "summary": "文章阐述了腾讯视频技术部构建 AI 驱动知识沉淀体系的实践，通过分析 Working、Coding、OnCall 三类工作场景，提出知识从生产、组织、消费、验证、回流的闭环模型，实现个人经验向组织能力的转化。",
+    "url": "https://www.bestblogs.dev/article/a08552a08c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-11-10",
+    "badge": "model"
+  },
+  {
+    "title": "进入“双智能”时代，我们该如何与 AI 相处？",
+    "summary": "本文从人类智能与 AI 智能并存的“双智能”时代出发，系统分析了 AI 工具演化史、AI 在数学等领域的突破、以及人类应如何在控制、共生、养育和继任四种关系路径中建立“有否决权的共生”，以保持人类价值与主体性。",
+    "url": "https://www.bestblogs.dev/article/326d5d4be7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-11-10",
+    "badge": "tooling"
+  },
+  {
     "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
     "summary": "豆包 Seedream 5.5 推出多轮编辑稳定性、RGBA 透明背景和图层拆分等能力，显著提升 AI 作图在实际设计工作流中的可用性与效率。",
     "url": "https://www.bestblogs.dev/article/7cae98b22b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,68 +70,5 @@
     "topic": "人工智能",
     "date": "2026-11-09",
     "badge": "featured"
-  },
-  {
-    "title": "新华深读丨“一人公司”潮起",
-    "summary": "人工智能深度赋能下，单人创业模式“一人公司”快速崛起，涵盖 AI 工具普及、产业应用、政策扶持及治理挑战等多维度变革。",
-    "url": "https://www.bestblogs.dev/article/b3f40309f2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / news.cn",
-    "topic": "商业科技",
-    "date": "2026-11-09",
-    "badge": "tooling"
-  },
-  {
-    "title": "谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
-    "summary": "字节跳动发布 Seedream 5.5 模型，主打像素级精准编辑、百轮连续修改不崩坏和原生 RGBA 透明素材，进一步逼近专业图像编辑工具。",
-    "url": "https://www.bestblogs.dev/article/fd9db407e9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 山宗",
-    "topic": "人工智能",
-    "date": "2026-11-09",
-    "badge": "model"
-  },
-  {
-    "title": "数字员工：有关 AI Native 新流水线的思考",
-    "summary": "本文提出数字员工作为 AI Native 组织协同层的核心形态，强调需构建面向业务单元的'云端 PM'角色，通过感知上下文、串联目标实现人与 AI 协作，弥补执行层技术成熟度不足的组织瓶颈。",
-    "url": "https://www.bestblogs.dev/article/b4104e486d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-11-09",
-    "badge": "featured"
-  },
-  {
-    "title": "从进化到泛化，RSI 四大前沿框架如何实现 Agent 自动调优",
-    "summary": "本文系统梳理了 Google 提出的四大 RSI 框架（Harness²、Evo²、RRSI、OO-Harness），从无金标进化、进化机制自优化、正则化防过拟合及面向对象架构解耦四个维度，阐述了实现 Agent 自动调优的完整方法论。",
-    "url": "https://www.bestblogs.dev/article/e514436b48?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-11-09",
-    "badge": "agent"
-  },
-  {
-    "title": "生成更真实，百轮编辑更稳定｜Seedream 5.5 发布",
-    "summary": "Seedream 5.5 发布，提升多轮编辑稳定性、支持原生 RGBA 透明输出，优化真实感与文字渲染，显著领先于主流模型。",
-    "url": "https://www.bestblogs.dev/article/5fd1d5bc9d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动Seed",
-    "topic": "人工智能",
-    "date": "2026-11-09",
-    "badge": "model"
-  },
-  {
-    "title": "一个 12 岁女孩打赏 14 万之后",
-    "summary": "本文追踪了一名 12 岁女孩因直播打赏导致家庭财产蒸发、亲子关系破裂、个人人生偏离正轨的悲剧经历，揭示了直播行业围捕机制对未成年人的渗透及其社会法律边界。",
-    "url": "https://www.bestblogs.dev/article/eb809ce88b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人物",
-    "topic": "媒体资讯",
-    "date": "2026-11-09",
-    "badge": "featured"
-  },
-  {
-    "title": "零售数据工程前端团队：用 AI Coding 重新定义数据看板搭建 – AI 星球",
-    "summary": "京东零售数据工程前端团队通过 AI Coding 实践，构建 BI-Vibe-Agent，实现用户通过自然语言创建数据看板，显著提升开发效率并改变数据看板生产方式。",
-    "url": "https://www.bestblogs.dev/article/e6a16bcdc3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / aixq.cc",
-    "topic": "人工智能",
-    "date": "2026-11-08",
-    "badge": "agent"
   }
 ]
