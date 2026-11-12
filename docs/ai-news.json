@@ -1,74 +1,74 @@
 [
   {
-    "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
-    "summary": "MiniMax 开源 H3 Image 模型实现 GPT 效果与 Midjourney 审美结合，支持 4K 超清生成、16 张参考图和 Agent 工作流集成，显著提升图像生成的指令遵循、视觉质感和实际创作效率。",
-    "url": "https://www.bestblogs.dev/article/c925f8a4c1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张子豪",
-    "topic": "人工智能",
+    "title": "短剧凶猛，三次洗牌",
+    "summary": "全景解构短剧行业历经付费买量、平台免费与 AI 爆发的三次定价规则洗牌，揭示生产门槛坍塌后内容通胀的商业困境与创作者组织重塑。",
+    "url": "https://www.bestblogs.dev/article/ded7d39f17?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 36氪",
+    "topic": "商业科技",
     "date": "2026-11-11",
-    "badge": "agent"
-  },
-  {
-    "title": "美团 LongCat-2.5 正式开源：从看见，到抵达",
-    "summary": "美团正式开源参数 1.6 万亿、激活 480 亿的 LongCat-2.5 原生多模态模型，聚焦长程智能体任务，支持一百万上下文，采用 MIT 协议开放商用部署与二次训练。",
-    "url": "https://www.bestblogs.dev/article/a6ee41dc03?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 美团 · 技术团队",
-    "topic": "人工智能",
-    "date": "2026-11-10",
-    "badge": "model"
-  },
-  {
-    "title": "等不来一部戏，横店演员过寒冬",
-    "summary": "文章通过记叙横店演员宋年欢在影视寒冬中摆摊卖柠檬茶的真实经历，揭示了 AI 技术冲击下短剧行业的剧变，以及从演员到摊主的生存转型与人性困境。",
-    "url": "https://www.bestblogs.dev/article/7aed0c95bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 凤凰网",
-    "topic": "生活文化",
-    "date": "2026-11-10",
     "badge": "featured"
   },
   {
-    "title": "从淘小蜜分流模型的实践，聊聊 Jev 与 System One",
-    "summary": "本文通过淘小蜜客服 Agent 分流模型的实践经验，分析了 Jev 的实现原理及其与 System One 任务的关联，探讨了候选 logits 打分、动态选项映射、概率校准等关键技术细节。",
-    "url": "https://www.bestblogs.dev/article/342e64b5f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-11-10",
-    "badge": "agent"
+    "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识",
+    "summary": "文章揭露了「花叔全球鸟类贴纸库」用 AI 生成 1 万多张错误鸟类插图的过程，批判其侵犯摄影师版权、制造科普污染，并警示 AI 生成内容对自然科学记录的系统性威胁。",
+    "url": "https://www.bestblogs.dev/article/8ef205ebb1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Selina",
+    "topic": "媒体资讯",
+    "date": "2026-11-11",
+    "badge": "featured"
   },
   {
-    "title": "拆解小红书存储底座 04｜从对象到文件：RedStore SSD 引擎与 RedFS 的设计与实践",
-    "summary": "本文详解了小红书如何从对象存储演进到并行文件系统，介绍了 RedStore SSD 引擎的读写路径优化、QLC SSD 写放大降低策略，以及 RedFS 在文件元数据、访问路径和写入一致性方面的设计实践。",
-    "url": "https://www.bestblogs.dev/article/6d7cfb70ab?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
-    "topic": "软件编程",
-    "date": "2026-11-10",
+    "title": "国务院关于深入实施'人工智能+'行动的意见",
+    "summary": "本文是国务院发布的政策文件，旨在通过'人工智能+'行动，推动人工智能与经济社会各领域的深度融合，重塑生产生活范式，并为中国式现代化建设提供有力支撑。",
+    "url": "https://www.bestblogs.dev/article/7c768bba85?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 现代服务业研究",
+    "topic": "商业科技",
+    "date": "2026-11-11",
+    "badge": "featured"
+  },
+  {
+    "title": "连干 229 轮没人管，Qwen4-Max 预览版成事了吗？",
+    "summary": "Qwen4-Max 预览版在复杂编程、3D 建模和长程任务中表现出色，尤其在无人值守下连续执行 229 轮的鲁布·戈德堡机械题中，展现了强大的自主问题解决能力和对物理约束的理解。",
+    "url": "https://www.bestblogs.dev/article/7dce7ce5c5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 花叔",
+    "topic": "人工智能",
+    "date": "2026-11-11",
     "badge": "tooling"
   },
   {
-    "title": "AI 从 Working、Coding 到 Oncall：腾讯视频如何让知识流动起来？",
-    "summary": "文章阐述了腾讯视频技术部构建 AI 驱动知识沉淀体系的实践，通过分析 Working、Coding、OnCall 三类工作场景，提出知识从生产、组织、消费、验证、回流的闭环模型，实现个人经验向组织能力的转化。",
-    "url": "https://www.bestblogs.dev/article/a08552a08c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-11-10",
+    "title": "从 AI 机遇到现实生产力",
+    "summary": "本文立足大模型演进与中国产业升级的历史性交汇，系统阐述了 AI 从对话工具迈向现实生产力的四重框架，指出需通过模型与运行系统共建、安全可信制度设计、算清经营两本账以及重构群智协同的生产关系，真正释放 AI 的商业与社会价值。",
+    "url": "https://www.bestblogs.dev/article/b66f644ed9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-11-11",
     "badge": "model"
   },
   {
-    "title": "进入“双智能”时代，我们该如何与 AI 相处？",
-    "summary": "本文从人类智能与 AI 智能并存的“双智能”时代出发，系统分析了 AI 工具演化史、AI 在数学等领域的突破、以及人类应如何在控制、共生、养育和继任四种关系路径中建立“有否决权的共生”，以保持人类价值与主体性。",
-    "url": "https://www.bestblogs.dev/article/326d5d4be7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-11-10",
-    "badge": "tooling"
+    "title": "双十一静悄悄，但有 182 个品牌跑出来了",
+    "summary": "在消费低迷的背景下，182 个新品牌通过精准捕捉小众需求、深入微场景、积极共创和持续复利，成功在各自领域脱颖而出，证明了即使在冬天，也有春天。",
+    "url": "https://www.bestblogs.dev/article/b146abc3da?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 香帅的金融江湖",
+    "topic": "投资财经",
+    "date": "2026-11-11",
+    "badge": "featured"
   },
   {
-    "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
-    "summary": "豆包 Seedream 5.5 推出多轮编辑稳定性、RGBA 透明背景和图层拆分等能力，显著提升 AI 作图在实际设计工作流中的可用性与效率。",
-    "url": "https://www.bestblogs.dev/article/7cae98b22b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张子豪",
-    "topic": "人工智能",
-    "date": "2026-11-09",
+    "title": "心梗发作前身体会发出警报！记住这些，关键时刻能救命！",
+    "summary": "本文通过北京大学人民医院心血管内科主任医师刘健的专科解读，系统阐述了心梗的发作机制、易感人群、伪装症状及急救处置，为公众提供科学的心血管健康防护指南。",
+    "url": "https://www.bestblogs.dev/article/a223dd54da?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人民日报",
+    "topic": "生活文化",
+    "date": "2026-11-11",
+    "badge": "featured"
+  },
+  {
+    "title": "“Token”摆上电商货架，该怎么看？",
+    "summary": "“Token”热销“双 11”标志消费结构向数字服务升级，体现中国经济新质生产力加速转化和超大规模市场优势释放，智能消费正成为扩大内需的重要抓手。",
+    "url": "https://www.bestblogs.dev/article/b965033151?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人民日报",
+    "topic": "媒体资讯",
+    "date": "2026-11-11",
     "badge": "featured"
   }
 ]
