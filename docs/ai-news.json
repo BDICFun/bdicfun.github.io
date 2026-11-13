@@ -1,5 +1,59 @@
 [
   {
+    "title": "AI 驱动“自动化测试后周期”诊治体系升级",
+    "summary": "本文围绕 VibeCoding 带来的研发效率与质量矛盾，介绍了 AI 驱动自动化测试后周期诊治体系的建设实践，从断言质量、冗余用例治理到覆盖度提升，完整呈现问题拆解、落地挑战、架构迭代与业务收益。",
+    "url": "https://www.bestblogs.dev/article/6c5d95e5c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 京东技术",
+    "topic": "软件编程",
+    "date": "2026-11-12",
+    "badge": "tooling"
+  },
+  {
+    "title": "授人以鱼不如授人以渔：我对企业级 AI 研发提效的思考与实践",
+    "summary": "本文从企业级 AI 研发提效的角度，分析了如何通过打通内部平台、构建可验证的终端环境、沉淀团队上下文以及实现 AI 与组织协同，来提升团队整体效率并赋能个人判断力。",
+    "url": "https://www.bestblogs.dev/article/8c02b64ce0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "软件编程",
+    "date": "2026-11-12",
+    "badge": "tooling"
+  },
+  {
+    "title": "拆解小红书存储底座 05｜RedTAO 2.0：万亿级图数据库的设计与实践",
+    "summary": "本文详解了小红书自研的分布式图数据库 RedTAO 2.0 的三层架构设计，包括计算、缓存、存储层的职责划分及实现方案，以及如何在万亿级数据规模下支持低延迟的在线查询和跨区域多活。",
+    "url": "https://www.bestblogs.dev/article/c7431ebd2b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
+    "topic": "软件编程",
+    "date": "2026-11-12",
+    "badge": "tooling"
+  },
+  {
+    "title": "构建面向 Agentic 推理的下一代 LLM 推理引擎",
+    "summary": "文章系统阐述了 TokenSpeed 项目从立项到迭代构建面向 Agentic 推理的下一代 LLM 推理引擎的完整技术路径，聚焦 Agent 场景下的延迟约束吞吐优化、KV Cache 复用、跨平台 Kernel 设计及自动并行编译等核心挑战与创新方案。",
+    "url": "https://www.bestblogs.dev/article/5583913e1d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-11-12",
+    "badge": "agent"
+  },
+  {
+    "title": "纪念孙中山先生诞辰 160 周年大会在京举行 习近平发表重要讲话",
+    "summary": "中共中央总书记、国家主席、中央军委主席习近平在纪念孙中山先生诞辰 160 周年大会上发表重要讲话，强调海内外全体中华儿女要继承孙中山先生遗志，同心协力共襄中华民族伟大复兴盛举，不断把近代以来我国各族人民孜孜以求的伟大梦想变成美好现实。",
+    "url": "https://www.bestblogs.dev/article/edb6513a21?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人民日报",
+    "topic": "媒体资讯",
+    "date": "2026-11-12",
+    "badge": "featured"
+  },
+  {
+    "title": "维护 3.3 万字符的长 Prompt？让优化 Agent 迭代执行 Agent",
+    "summary": "本文介绍了如何借助 Google Research 开源的 harness² 框架，构建一个自动迭代的优化 Agent 来提升 3.3 万字符长 Prompt 的性能，在 611 条评测数据上将问题识别 F1 从 82.78% 提升至 89.89%，显著降低了人工调 Prompt 的成本。",
+    "url": "https://www.bestblogs.dev/article/eac30685b5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-11-12",
+    "badge": "agent"
+  },
+  {
     "title": "短剧凶猛，三次洗牌",
     "summary": "全景解构短剧行业历经付费买量、平台免费与 AI 爆发的三次定价规则洗牌，揭示生产门槛坍塌后内容通胀的商业困境与创作者组织重塑。",
     "url": "https://www.bestblogs.dev/article/ded7d39f17?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -9,66 +63,12 @@
     "badge": "featured"
   },
   {
-    "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识",
-    "summary": "文章揭露了「花叔全球鸟类贴纸库」用 AI 生成 1 万多张错误鸟类插图的过程，批判其侵犯摄影师版权、制造科普污染，并警示 AI 生成内容对自然科学记录的系统性威胁。",
-    "url": "https://www.bestblogs.dev/article/8ef205ebb1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Selina",
-    "topic": "媒体资讯",
-    "date": "2026-11-11",
-    "badge": "featured"
-  },
-  {
-    "title": "国务院关于深入实施'人工智能+'行动的意见",
-    "summary": "本文是国务院发布的政策文件，旨在通过'人工智能+'行动，推动人工智能与经济社会各领域的深度融合，重塑生产生活范式，并为中国式现代化建设提供有力支撑。",
-    "url": "https://www.bestblogs.dev/article/7c768bba85?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 现代服务业研究",
-    "topic": "商业科技",
-    "date": "2026-11-11",
-    "badge": "featured"
-  },
-  {
-    "title": "连干 229 轮没人管，Qwen4-Max 预览版成事了吗？",
-    "summary": "Qwen4-Max 预览版在复杂编程、3D 建模和长程任务中表现出色，尤其在无人值守下连续执行 229 轮的鲁布·戈德堡机械题中，展现了强大的自主问题解决能力和对物理约束的理解。",
-    "url": "https://www.bestblogs.dev/article/7dce7ce5c5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 花叔",
+    "title": "陈天奇：构建 Agent 时代的机器学习编译基础层",
+    "summary": "本文介绍了 TVM-TIRx，一个专为 Agent 时代设计的轻量级、模块化机器学习编译基础层，支持多语言混合驱动、动态扩展和底层工具链对接，旨在帮助 AI 快速迭代和验证编译模块。",
+    "url": "https://www.bestblogs.dev/article/fd67858065?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 青稞AI",
     "topic": "人工智能",
     "date": "2026-11-11",
-    "badge": "tooling"
-  },
-  {
-    "title": "从 AI 机遇到现实生产力",
-    "summary": "本文立足大模型演进与中国产业升级的历史性交汇，系统阐述了 AI 从对话工具迈向现实生产力的四重框架，指出需通过模型与运行系统共建、安全可信制度设计、算清经营两本账以及重构群智协同的生产关系，真正释放 AI 的商业与社会价值。",
-    "url": "https://www.bestblogs.dev/article/b66f644ed9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-11-11",
-    "badge": "model"
-  },
-  {
-    "title": "双十一静悄悄，但有 182 个品牌跑出来了",
-    "summary": "在消费低迷的背景下，182 个新品牌通过精准捕捉小众需求、深入微场景、积极共创和持续复利，成功在各自领域脱颖而出，证明了即使在冬天，也有春天。",
-    "url": "https://www.bestblogs.dev/article/b146abc3da?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 香帅的金融江湖",
-    "topic": "投资财经",
-    "date": "2026-11-11",
-    "badge": "featured"
-  },
-  {
-    "title": "心梗发作前身体会发出警报！记住这些，关键时刻能救命！",
-    "summary": "本文通过北京大学人民医院心血管内科主任医师刘健的专科解读，系统阐述了心梗的发作机制、易感人群、伪装症状及急救处置，为公众提供科学的心血管健康防护指南。",
-    "url": "https://www.bestblogs.dev/article/a223dd54da?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人民日报",
-    "topic": "生活文化",
-    "date": "2026-11-11",
-    "badge": "featured"
-  },
-  {
-    "title": "“Token”摆上电商货架，该怎么看？",
-    "summary": "“Token”热销“双 11”标志消费结构向数字服务升级，体现中国经济新质生产力加速转化和超大规模市场优势释放，智能消费正成为扩大内需的重要抓手。",
-    "url": "https://www.bestblogs.dev/article/b965033151?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人民日报",
-    "topic": "媒体资讯",
-    "date": "2026-11-11",
-    "badge": "featured"
+    "badge": "agent"
   }
 ]
