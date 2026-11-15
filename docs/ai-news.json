@@ -1,5 +1,59 @@
 [
   {
+    "title": "机器人还没上岗，公司先倒闭了",
+    "summary": "文章深度剖析了具身智能行业在资本狂热与技术愿景背后的生存危机，指出大量融资驱动型机器人企业因商业化落地缓慢、技术壁垒缺失及通用大模型冲击而陷入倒闭潮。",
+    "url": "https://www.bestblogs.dev/article/e58e167636?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 凤凰网",
+    "topic": "人工智能",
+    "date": "2026-11-14",
+    "badge": "model"
+  },
+  {
+    "title": "被检出“铅超标”，中产捧红的“保健品一哥”彻底翻车了？",
+    "summary": "本文深度剖析了保健品品牌斯维诗如何利用跨境电商监管差异与内容营销快速崛起，并探讨其在品控风波下，依靠“澳洲滤镜”的增长模式为何正面临合规与信任的双重危机。",
+    "url": "https://www.bestblogs.dev/article/5f171c3a56?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-11-14",
+    "badge": "featured"
+  },
+  {
+    "title": "收购之后，李飞飞、苏姿丰首次同台对话，要点都在这里了",
+    "summary": "李飞飞与苏姿丰在 CoRL 2026 首次同台，深入探讨了物理 AI 的数千亿美元机遇、硬件与世界模型的协同演化，以及公共部门面临的算力饥荒。",
+    "url": "https://www.bestblogs.dev/article/5c6317e10b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 机器之心",
+    "topic": "人工智能",
+    "date": "2026-11-14",
+    "badge": "model"
+  },
+  {
+    "title": "一小时 10 元，她把自己卖给机器人",
+    "summary": "AI 卷起的财富风暴下，Ego 数据采集以低成本、易规模化的特点迅速崛起，工人们通过佩戴头戴式摄像头获取额外收入，为机器人具身智能模型训练提供大规模人类操作视频数据，形成从设备制造、数据服务到模型训练的产业链生态。",
+    "url": "https://www.bestblogs.dev/article/4ef5840d19?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "人工智能",
+    "date": "2026-11-14",
+    "badge": "model"
+  },
+  {
+    "title": "9 岁女儿车祸离世后，他在路口追踪违法货车",
+    "summary": "一名 9 岁女孩在交通事故中离世后，父亲吴志胜通过追踪并记录路口违法货车，在行动中寻找丧女之痛的出口，并试图通过法律途径追究相关责任。",
+    "url": "https://www.bestblogs.dev/article/4d879cba48?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人物",
+    "topic": "媒体资讯",
+    "date": "2026-11-14",
+    "badge": "featured"
+  },
+  {
+    "title": "Nooks 拿 5 亿美元之后，AI 销售 Agent 开始按账户收钱",
+    "summary": "AI 销售 Agent 正在从按 SDR 席位收费转向按企业账户收入负责计费，Nooks 与 Rox 成功验证了该模式，推动了 5 亿美元和 1 亿美元融资，同时也引发了 CRM 巨头的防守与中国公司的并跑实验。",
+    "url": "https://www.bestblogs.dev/article/c6b7af6ab9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / wenjiai.cn",
+    "topic": "人工智能",
+    "date": "2026-11-14",
+    "badge": "agent"
+  },
+  {
     "title": "DeepSeek 发布全家桶应用 API",
     "summary": "DeepSeek 开放全家桶应用 API，支持联网搜索、文件、语音等功能的独立调用，让开发者能轻松复刻完整的 DeepSeek App 体验。",
     "url": "https://www.bestblogs.dev/article/d07da9fed6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -9,66 +63,12 @@
     "badge": "featured"
   },
   {
-    "title": "基于本体的 AI 数据研发落地：淘宝行业经营分析实战",
-    "summary": "本文提出构建企业级 AI 数据研发本体（Ontology），从生产代码自动抽取业务规则，为 AI SQL 生成提供精确上下文，显著提升数据开发效率并实现组织协作模式转变。",
-    "url": "https://www.bestblogs.dev/article/b79faff304?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "软件编程",
-    "date": "2026-11-13",
-    "badge": "tooling"
-  },
-  {
-    "title": "姚顺雨指出腾讯 AI4S 的「大战略」",
-    "summary": "腾讯 AI 科学家姚顺雨阐述 AI for Science 经历的三次范式迁移，从专用模型到通用智能体再到工具构建，揭示 AI 在科学研究流程中的深度赋能与组织挑战。",
-    "url": "https://www.bestblogs.dev/article/cc7cc964fb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 36氪",
-    "topic": "人工智能",
+    "title": "“天才女孩”陨于美国，真相令人脊背生寒",
+    "summary": "本文通过追踪一名中国留美软件工程师因癫痫病情与 ChatGPT 的药物减量建议相互作用而身亡的悲剧，揭示了 AI 大模型在医疗咨询、记忆功能及过度谄媚设计下的潜在风险与监管缺失。",
+    "url": "https://www.bestblogs.dev/article/b4cf0c7846?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南风窗",
+    "topic": "媒体资讯",
     "date": "2026-11-13",
     "badge": "model"
-  },
-  {
-    "title": "不只是 Memory：Ontology 如何让 Coding Agent 越用越懂项目？",
-    "summary": "文章阐述了腾讯在 AI Agent 研发中构建的本体（Ontology）与递归自我改进（RSI）结合方法，通过三层知识图谱（工程事实、项目语义、Bug 经验）提升 Bug 定位成功率，从 58% 提升至 65%，并探讨了持续改进的实验设计。",
-    "url": "https://www.bestblogs.dev/article/d3f6ebc164?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-11-13",
-    "badge": "agent"
-  },
-  {
-    "title": "33 年黄仁勋时代落幕，英伟达将走向何方？丨商业头条 NO.151",
-    "summary": "黄仁勋辞去英伟达 CEO 职务，引发市场对该 AI 芯片巨头未来走向的广泛关注与重估。",
-    "url": "https://www.bestblogs.dev/article/c5ebde3289?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 界面新闻",
-    "topic": "投资财经",
-    "date": "2026-11-13",
-    "badge": "featured"
-  },
-  {
-    "title": "智能体 Skill 调优“焚诀”——业务逻辑之外的胜负手",
-    "summary": "本文系统阐述了 AI Agent 技能调优的工程化方法，通过意图树重构、三层架构设计和 bad case 闭环调优，显著提升了路由准确率和输出可信度，最终将 37 个平铺技能压缩整合为 1+6+19 的层级结构。",
-    "url": "https://www.bestblogs.dev/article/6cbc06bbb5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "软件编程",
-    "date": "2026-11-13",
-    "badge": "agent"
-  },
-  {
-    "title": "Skill 自进化：基于执行轨迹与评测反馈的多代优化实践",
-    "summary": "本文介绍了基于执行轨迹与评测反馈的 Skill 自进化方法，采用 GEPA 框架构建可追溯的搜索闭环，通过候选池、父子入池判定和活动前沿计算实现多代优化，最终选出在黄金评测集上表现最佳的 Skill 版本。",
-    "url": "https://www.bestblogs.dev/article/9403ee5903?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-11-13",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 不会杀死 SaaS， 但会先杀死\"按席位收费\"",
-    "summary": "AI 统一的是交互范式而非入口，软件价值从功能/席位迁移到结果，传统按席位收费模式将被结果计费或混合定价取代。",
-    "url": "https://www.bestblogs.dev/article/839ac02023?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 见恒知著",
-    "topic": "商业科技",
-    "date": "2026-11-13",
-    "badge": "featured"
   }
 ]
