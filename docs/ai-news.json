@@ -1,5 +1,68 @@
 [
   {
+    "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
+    "summary": "习近平在亚太经合组织工商领导人峰会上的主旨演讲阐述了维护和平稳定、搭建开放合作桥梁、激发创新增长动力、拓展互利共赢路径四大推动亚太共同繁荣的重点，展望中国为全球工商界提供超大规模开放市场、前景广阔发展空间及合作环境。",
+    "url": "https://www.bestblogs.dev/article/dcfe5b38a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人民日报",
+    "topic": "媒体资讯",
+    "date": "2026-11-18",
+    "badge": "featured"
+  },
+  {
+    "title": "全国所有人都可以拿冰雹来跟我换玛瑙，10 年了我也没破产",
+    "summary": "物理学家张庆红通过古籍与 AI 复原冰雹历史数据，发现冰雹频次与全球变暖及 PDO 振荡共同调制，预测 2072 年冰雹频率将增加 107%，并构建全球最大冰雹样本库推动气候研究。",
+    "url": "https://www.bestblogs.dev/article/a8083c9b37?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 果壳",
+    "topic": "人工智能",
+    "date": "2026-11-17",
+    "badge": "featured"
+  },
+  {
+    "title": "从生成到决策：AgenticOps 决策模型的能力实测",
+    "summary": "本文通过 15，788 个评分 case 对比 12 个决策模型，系统评估了 AgenticOps 任务中决策模型的准确率、响应时间及接入位置，旨在找出哪些判断值得交给专用模型、如何优化材料与答案使用方式，以及决策模型如何提升完整 RCA 诊断质量。",
+    "url": "https://www.bestblogs.dev/article/aea858d7b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里巴巴中间件",
+    "topic": "人工智能",
+    "date": "2026-11-17",
+    "badge": "agent"
+  },
+  {
+    "title": "对话 LiberAI 刘松铭：Astra 来袭，00 后物理 AI 创始人看到的胜率",
+    "summary": "本文通过对话刘松铭，探讨了 LiberAI 的全栈创业路径、Liber-0 世界模型的零样本能力以及其在物理 AI 领域的竞争策略与商业化愿景。",
+    "url": "https://www.bestblogs.dev/article/45fed09073?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "人工智能",
+    "date": "2026-11-17",
+    "badge": "model"
+  },
+  {
+    "title": "Photon：帮硅谷最火的 PA 接入 iMessage，450 万美元融资、4 个月收入涨 10 倍",
+    "summary": "Photon 通过构建 Agent 消息基础设施，让 Personal Agent 能自然融入 iMessage、WhatsApp 等对话框，解决了通用大模型在机器人控制中的高成本与低实时性问题，凭借 450 万美元种子轮融资和收入增长 10 倍的商业验证，展示了具身智能与云端通用模型协同构建完整智能体系的落地路径。",
+    "url": "https://www.bestblogs.dev/article/6c1db39557?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-11-17",
+    "badge": "agent"
+  },
+  {
+    "title": "登上 GitHub Trending｜腾讯开源 LoopForge",
+    "summary": "文章详解了腾讯开源的 LoopForge 平台，通过五个阶段的工程演进，从本地 Agent 工具走向云端共享、SOP 自治与自演进的组织级研发系统，系统化地解决了团队协作、质量管控和自动化等核心痛点。",
+    "url": "https://www.bestblogs.dev/article/5be5e08567?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "软件编程",
+    "date": "2026-11-17",
+    "badge": "agent"
+  },
+  {
+    "title": "最强证据：这个习惯真能抗癌，效果堪比药物",
+    "summary": "大型 III 期随机对照试验证实术后结肠癌患者坚持运动可降低 28%复发风险和 37%死亡风险，效果堪比抗癌药物；同时，常规运动也能显著降低 13 种癌症的发病风险。",
+    "url": "https://www.bestblogs.dev/article/61cd032191?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 丁香医生",
+    "topic": "生活文化",
+    "date": "2026-11-17",
+    "badge": "featured"
+  },
+  {
     "title": "Agent 改了 40 个文件你才发现？用 Harness Hook 把止损写进架构",
     "summary": "本文提出了 stop-line 框架，通过 Harness Hook 将止损机制从 Prompt 层面提升到控制面，实现对 Agent 长任务执行的精准控制，防止范围失控和不可逆操作。",
     "url": "https://www.bestblogs.dev/article/d805a1e5ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,68 +70,5 @@
     "topic": "软件编程",
     "date": "2026-11-17",
     "badge": "agent"
-  },
-  {
-    "title": "80 岁的爷爷奶奶离婚了，她用镜头重新理解家人",
-    "summary": "导演杨骊珠通过纪录片《爷爷奶奶那些事》记录了 80 岁离婚的爷爷奶奶及其家庭的复杂情感，探讨了代际婚姻观、家庭联结与个人命运的掌控。",
-    "url": "https://www.bestblogs.dev/article/97ceb2a8b2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-11-16",
-    "badge": "featured"
-  },
-  {
-    "title": "从代码生成到需求交付：DarkFactory 的工程实践",
-    "summary": "文章介绍了百度构建的 DarkFactory 平台，通过组织多 Agent 分工、执行环境与结果验证，实现了从代码生成到需求交付的闭环工程实践，验证了算子迁移效率提升约 5 倍、Test Runner 缺陷前置拦截率达 79% 等效果。",
-    "url": "https://www.bestblogs.dev/article/977be28f0f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 百度Geek说",
-    "topic": "软件编程",
-    "date": "2026-11-16",
-    "badge": "agent"
-  },
-  {
-    "title": "生成现实时代，人类该如何拥有彼此？",
-    "summary": "本文从屏幕如何改变人类视角、AI 如何生成现实、证据机制崩塌、到从观众、内容生产者上升为世界生成者，系统阐释了生成式 AI 时代人类如何拥有彼此的理念困境与应对之道。",
-    "url": "https://www.bestblogs.dev/article/ffba5fc498?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-11-16",
-    "badge": "featured"
-  },
-  {
-    "title": "乌兰察布 72 小时，目睹 AI 时代的工业奇观",
-    "summary": "本文通过追踪乌兰察布数据中心建设，揭示了 AI 算力需求如何重塑产业链、供应链与城市结构，以及数据中心在能源、人才、成本等维度的深度挑战与创新解决方案。",
-    "url": "https://www.bestblogs.dev/article/ef22179fe2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "人工智能",
-    "date": "2026-11-16",
-    "badge": "featured"
-  },
-  {
-    "title": "用 Super-agent 的理念，拆解 Octop 团队模式",
-    "summary": "文章通过对比 DeepSeek Super-Agent 与 Octop 团队模式，阐释了多任务并行 Agent 系统的核心设计原则，包括双层架构、事件驱动、全双工交互、持久化存储及人机协同安全机制。",
-    "url": "https://www.bestblogs.dev/article/bb2c3ba754?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-11-16",
-    "badge": "agent"
-  },
-  {
-    "title": "构建 AI 时代的知识底座：直播数据 LLM Wiki 实践",
-    "summary": "本文介绍了直播数据团队构建 LLM Wiki 以解决领域知识散落、矛盾及易腐化问题的实践，通过 Schema 契约、显式关系图和 Agent 编排实现结构化、可验证的知识资产，显著提升指标召回、SQL 生成及数据模型迭代效率。",
-    "url": "https://www.bestblogs.dev/article/e0915ac81c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-11-16",
-    "badge": "agent"
-  },
-  {
-    "title": "Hy4 flash 发布：日常工作的极致性价比模型",
-    "summary": "Hy4 flash 是腾讯混元推出的 224B 参数、支持 1M 上下文、单任务成本仅为 Hy4 的 1/20 的高性价比模型，已在多个腾讯产品中部署。",
-    "url": "https://www.bestblogs.dev/article/711409fd9a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯混元",
-    "topic": "人工智能",
-    "date": "2026-11-16",
-    "badge": "model"
   }
 ]
