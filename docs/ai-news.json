@@ -1,74 +1,74 @@
 [
   {
-    "title": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
-    "summary": "习近平在亚太经合组织工商领导人峰会上的主旨演讲阐述了维护和平稳定、搭建开放合作桥梁、激发创新增长动力、拓展互利共赢路径四大推动亚太共同繁荣的重点，展望中国为全球工商界提供超大规模开放市场、前景广阔发展空间及合作环境。",
-    "url": "https://www.bestblogs.dev/article/dcfe5b38a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
+    "summary": "习近平在亚太经合组织峰会上阐述四个共建亚太共同体的支柱——经贸、联通、创新、发展——提出推动区域一体化、数字合作与可持续发展的战略布局。",
+    "url": "https://www.bestblogs.dev/article/159a95a542?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 人民日报",
+    "topic": "媒体资讯",
+    "date": "2026-11-19",
+    "badge": "featured"
+  },
+  {
+    "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
+    "summary": "本文通过《GTA VI》的首发体验与行业数据，全面评析了该游戏在画面、开放世界设计、犯罪玩法、双主角系统及 30fps 帧率取舍等方面的表现，同时探讨了其商业成功背后的开发成本、团队规模及对生成式 AI 的立场。",
+    "url": "https://www.bestblogs.dev/article/941b067234?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 郑廷旭",
+    "topic": "媒体资讯",
+    "date": "2026-11-19",
+    "badge": "featured"
+  },
+  {
+    "title": "习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文）",
+    "summary": "习近平在 APEC 领导人非正式会议欢迎晚宴祝酒辞中，围绕开放、创新、合作三大主题，展望亚太地区共同繁荣与合作发展，呼吁各方携手推动区域一体化进程。",
+    "url": "https://www.bestblogs.dev/article/b549bcfb9a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新华社",
     "topic": "媒体资讯",
     "date": "2026-11-18",
     "badge": "featured"
   },
   {
-    "title": "全国所有人都可以拿冰雹来跟我换玛瑙，10 年了我也没破产",
-    "summary": "物理学家张庆红通过古籍与 AI 复原冰雹历史数据，发现冰雹频次与全球变暖及 PDO 振荡共同调制，预测 2072 年冰雹频率将增加 107%，并构建全球最大冰雹样本库推动气候研究。",
-    "url": "https://www.bestblogs.dev/article/a8083c9b37?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "淘宝闪购本体平台：让人与 AI Agent 共用一份实时可信的业务知识",
+    "summary": "本文介绍了淘宝闪购本体平台的架构设计，通过三层元模型和治理链路，将业务知识组织为可版本化的定义，解决了人与 AI Agent 获取一致业务口径的核心问题。",
+    "url": "https://www.bestblogs.dev/article/331e15e7ff?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "软件编程",
+    "date": "2026-11-18",
+    "badge": "agent"
+  },
+  {
+    "title": "49 年 2 个月零 11 天之后，旅行者一号抵达了连光都要跑一整天的远方",
+    "summary": "49 年 2 个月零 11 天后，旅行者一号探测器正式突破 1 光日里程，成为人类造物首次达到以光速一天计量的遥远尺度，携带人类文化记忆在星际深处悠然漫游。",
+    "url": "https://www.bestblogs.dev/article/c2e04635f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 果壳",
-    "topic": "人工智能",
-    "date": "2026-11-17",
-    "badge": "featured"
-  },
-  {
-    "title": "从生成到决策：AgenticOps 决策模型的能力实测",
-    "summary": "本文通过 15，788 个评分 case 对比 12 个决策模型，系统评估了 AgenticOps 任务中决策模型的准确率、响应时间及接入位置，旨在找出哪些判断值得交给专用模型、如何优化材料与答案使用方式，以及决策模型如何提升完整 RCA 诊断质量。",
-    "url": "https://www.bestblogs.dev/article/aea858d7b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里巴巴中间件",
-    "topic": "人工智能",
-    "date": "2026-11-17",
-    "badge": "agent"
-  },
-  {
-    "title": "对话 LiberAI 刘松铭：Astra 来袭，00 后物理 AI 创始人看到的胜率",
-    "summary": "本文通过对话刘松铭，探讨了 LiberAI 的全栈创业路径、Liber-0 世界模型的零样本能力以及其在物理 AI 领域的竞争策略与商业化愿景。",
-    "url": "https://www.bestblogs.dev/article/45fed09073?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "人工智能",
-    "date": "2026-11-17",
-    "badge": "model"
-  },
-  {
-    "title": "Photon：帮硅谷最火的 PA 接入 iMessage，450 万美元融资、4 个月收入涨 10 倍",
-    "summary": "Photon 通过构建 Agent 消息基础设施，让 Personal Agent 能自然融入 iMessage、WhatsApp 等对话框，解决了通用大模型在机器人控制中的高成本与低实时性问题，凭借 450 万美元种子轮融资和收入增长 10 倍的商业验证，展示了具身智能与云端通用模型协同构建完整智能体系的落地路径。",
-    "url": "https://www.bestblogs.dev/article/6c1db39557?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-11-17",
-    "badge": "agent"
-  },
-  {
-    "title": "登上 GitHub Trending｜腾讯开源 LoopForge",
-    "summary": "文章详解了腾讯开源的 LoopForge 平台，通过五个阶段的工程演进，从本地 Agent 工具走向云端共享、SOP 自治与自演进的组织级研发系统，系统化地解决了团队协作、质量管控和自动化等核心痛点。",
-    "url": "https://www.bestblogs.dev/article/5be5e08567?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-11-17",
-    "badge": "agent"
-  },
-  {
-    "title": "最强证据：这个习惯真能抗癌，效果堪比药物",
-    "summary": "大型 III 期随机对照试验证实术后结肠癌患者坚持运动可降低 28%复发风险和 37%死亡风险，效果堪比抗癌药物；同时，常规运动也能显著降低 13 种癌症的发病风险。",
-    "url": "https://www.bestblogs.dev/article/61cd032191?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 丁香医生",
     "topic": "生活文化",
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "badge": "featured"
   },
   {
-    "title": "Agent 改了 40 个文件你才发现？用 Harness Hook 把止损写进架构",
-    "summary": "本文提出了 stop-line 框架，通过 Harness Hook 将止损机制从 Prompt 层面提升到控制面，实现对 Agent 长任务执行的精准控制，防止范围失控和不可逆操作。",
-    "url": "https://www.bestblogs.dev/article/d805a1e5ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
+    "title": "58 岁山东修理工，在直播间收了 154 万“云徒弟”",
+    "summary": "一位 58 岁的山东修理工通过抖音直播和短视频，凭借专业的电器维修知识和亲和的表达方式，成功积累了 154 万粉丝，成为“赛博蓝领”，实现了线上影响力与线下维修业务的良性循环。",
+    "url": "https://www.bestblogs.dev/article/77bfc00c90?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-11-18",
+    "badge": "featured"
+  },
+  {
+    "title": "动线 Agent：AI 驱动的全链路用户转化引导",
+    "summary": "本文介绍了淘特 App 推出的动线 Agent——一套由 LLM 驱动的全链路用户转化引导系统，通过 TensorLiftAgent、PeiAgent 和 DeepFlowAgent 三个智能体在进端、在端、离端三个时机实现精细化经营，显著提升转化 ROI 并降低 token 成本。",
+    "url": "https://www.bestblogs.dev/article/bd4ba3ed69?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
     "topic": "软件编程",
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "badge": "agent"
+  },
+  {
+    "title": "习近平会见俄罗斯总统普京",
+    "summary": "习近平在深圳会见普京，庆祝中俄战略协作伙伴关系 30 周年，聚焦深化全方位合作、携手推动亚太繁荣，树立新型大国关系典范。",
+    "url": "https://www.bestblogs.dev/article/ff8a24c009?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人民日报",
+    "topic": "媒体资讯",
+    "date": "2026-11-18",
+    "badge": "featured"
   }
 ]
