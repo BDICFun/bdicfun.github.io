@@ -1,5 +1,68 @@
 [
   {
+    "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+    "summary": "理想汽车自研的马赫 M100 芯片通过动态数据流架构突破传统芯片的内存瓶颈，将算力利用率提升至 82% 以上，为智能驾驶提供更快的响应速度，使车辆在复杂路况下表现得更像人类驾驶。",
+    "url": "https://www.bestblogs.dev/article/15829a8876?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 李华",
+    "topic": "媒体资讯",
+    "date": "2026-11-20",
+    "badge": "featured"
+  },
+  {
+    "title": "给 Gemini 道歉，请自觉排队",
+    "summary": "文章通过半导体机构 SemiAnalysis 的「道歉表」事件，揭示了 Google 在 2026 年通过组织调整、算力集中和创新的后训练体系，成功让 Gemini 4 系列模型在八周内连续推出四款新品，重返 AI 模型竞争前列。",
+    "url": "https://www.bestblogs.dev/article/f8a055a9cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张子豪",
+    "topic": "媒体资讯",
+    "date": "2026-11-20",
+    "badge": "model"
+  },
+  {
+    "title": "突发｜黎曼猜想或被 AI 和数学家联手证明，Claude 立大功",
+    "summary": "数学家 Levent Alpöge 宣布与 AI 模型 Claude 合作，声称找到了黎曼猜想和广义黎曼猜想的证明，标志着 AI 在前沿数学研究中的突破性进展。",
+    "url": "https://www.bestblogs.dev/article/4269b98eb4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 爱范儿",
+    "topic": "人工智能",
+    "date": "2026-11-20",
+    "badge": "model"
+  },
+  {
+    "title": "基于 LLM Wiki、OKF 与 Git 的 Agent 知识库：淘宝直播互动团队的 AI Coding 实践",
+    "summary": "本文介绍了淘宝直播互动团队构建的 LiveX Wiki——一种面向 AI Coding Agent 的知识库方案，通过 LLM Wiki 编纂业务理解、OKF 表达知识结构、Git 管理版本，按域-场景-知识三层组织跨端跨仓业务经验，显著提升代码产出质量。",
+    "url": "https://www.bestblogs.dev/article/844f8eba8d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-11-20",
+    "badge": "agent"
+  },
+  {
+    "title": "直播观察（三）：谁在直播间当榜一大哥，他们为什么掏钱？",
+    "summary": "本文通过大规模数据收集与 AI 分析，揭示 B 站直播间的打赏实情：超 99%的新客不走完传统漏斗，真正贡献 85.9%流水的核心大哥是普通上班族和学生，且消费动因是身份认同与社交需求，而非财富。",
+    "url": "https://www.bestblogs.dev/article/ffc63fd24e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / grapeot",
+    "topic": "商业科技",
+    "date": "2026-11-20",
+    "badge": "featured"
+  },
+  {
+    "title": "Hy4 正式版开源：多模态 MoE，770B 激活 49B，首次新增视觉能力！",
+    "summary": "腾讯混元开源 Hy4 正式版多模态 MoE 模型，770B 总参数仅激活 49B，首次实现视觉理解与电脑操作能力，提供对话、基座及 FP8 量化三个版本。",
+    "url": "https://www.bestblogs.dev/article/f54f3f14d0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 魔搭ModelScope社区",
+    "topic": "人工智能",
+    "date": "2026-11-20",
+    "badge": "model"
+  },
+  {
+    "title": "从杭州走出的世界大师，70 余年后终于回家了！",
+    "summary": "朱德群这位留法三剑客，以融合西方抽象油彩与东方水墨的独特艺术风格，70 余年后重返母校杭州，展出 260 余件作品，回顾他从杭州艺专出发、历经抗战、欧洲艺术世态，最终以光色世界为核心的卓越艺术贡献。",
+    "url": "https://www.bestblogs.dev/article/f0e7660770?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 一条",
+    "topic": "生活文化",
+    "date": "2026-11-20",
+    "badge": "featured"
+  },
+  {
     "title": "详讯｜习近平主持中俄美元首会晤",
     "summary": "习近平在深圳主持历史上首次中俄美元首会晤，提出相互尊重、和平共处、合作共赢、对话协商四点看法，旨在维护世界和平与大国关系战略稳定。",
     "url": "https://www.bestblogs.dev/article/b9822aa337?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,68 +70,5 @@
     "topic": "媒体资讯",
     "date": "2026-11-19",
     "badge": "featured"
-  },
-  {
-    "title": "阿里巴巴两篇论文获 ATC 2026 最佳论文奖，并在港研讨 AI Native 系统的可靠性与效率",
-    "summary": "阿里巴巴在 ATC 2026 上斩获两项最佳论文奖，并于香港举办论坛，与高校学者共同探讨 AI 基础设施、系统、模型与数据的全栈协同设计，重点关注生产环境中的资源调度、推理优化、Agent 运行时可靠性及模型评测可信性。",
-    "url": "https://www.bestblogs.dev/article/fb18ab779f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-11-19",
-    "badge": "agent"
-  },
-  {
-    "title": "清华父子用一块玻璃，押中英伟达下一代万亿赌局",
-    "summary": "巽霖科技创始人甄真和其父甄洪滨，凭借在玻璃镀铜技术上的多年积累，成功切入半导体先进封装领域，成为玻璃基板赛道的先驱，并获得豪威集团等产业资本支持，为未来 AI 芯片的规模化生产提供关键材料支撑。",
-    "url": "https://www.bestblogs.dev/article/8dcd849afe?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "人工智能",
-    "date": "2026-11-19",
-    "badge": "featured"
-  },
-  {
-    "title": "横向课题，围困大学老师",
-    "summary": "文章揭示了高校教师在横向科研经费考核压力下的困境，许多人被迫自筹资金、空转项目或通过中介造假，而真正致力于教学和原创研究的教师则面临被淘汰的风险。",
-    "url": "https://www.bestblogs.dev/article/e9de27aa64?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 凤凰网",
-    "topic": "媒体资讯",
-    "date": "2026-11-19",
-    "badge": "featured"
-  },
-  {
-    "title": "System 1 决策模型在 Feed 场景的应用",
-    "summary": "本文介绍了百度 Feed 团队如何将 '只输出概率、不写文本' 的决策模型用于推荐打分，该模型在低活用户和新内容上表现出显著优势，并探讨了通过缓存复用、知识蒸馏和量化等手段降低在线推理成本的策略。",
-    "url": "https://www.bestblogs.dev/article/ee9b01b253?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 百度Geek说",
-    "topic": "人工智能",
-    "date": "2026-11-19",
-    "badge": "model"
-  },
-  {
-    "title": "科考旅行 |『读城』景德镇——手工瓷业与一座城市的诞生",
-    "summary": "本文通过解析景德镇的地理环境、产业结构和城市形态，揭示了这座城市如何从一个普通的山地聚落发展成为世界著名的瓷器生产中心，并探讨了其独特的文化和历史价值。",
-    "url": "https://www.bestblogs.dev/article/f95c201edf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国国家地理",
-    "topic": "生活文化",
-    "date": "2026-11-19",
-    "badge": "featured"
-  },
-  {
-    "title": "详讯 | 习近平会见美国总统特朗普",
-    "summary": "习近平与特朗普在深圳会晤，重申中美建设性战略稳定关系，强调尊重、公平、对等原则，并讨论了台湾问题、经贸合作、禁毒、人工智能等议题。",
-    "url": "https://www.bestblogs.dev/article/e979116edb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央视网",
-    "topic": "媒体资讯",
-    "date": "2026-11-19",
-    "badge": "featured"
-  },
-  {
-    "title": "当智能开始量产，从 Anthropic 上市看大模型的六个趋势",
-    "summary": "Anthropic 的上市揭示了 AI 产业的六大趋势：规模定律仍有效但研发由 AI 主导、产品从对话框转向虚拟协作者、按智能付费的商业模式、企业服务为主的交付瓶颈、算力作为跨期期货的成本结构，以及安全治理成为产品核心。",
-    "url": "https://www.bestblogs.dev/article/b20ae1411c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-11-19",
-    "badge": "model"
   }
 ]
