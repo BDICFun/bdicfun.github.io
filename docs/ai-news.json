@@ -1,5 +1,23 @@
 [
   {
+    "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
+    "summary": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作，找到了黎曼猜想的证明，并进一步证明了广义黎曼猜想，首次以 Lean 形式化证明语言公开，引发数学界对 AI 在前沿数学研究中的突破性贡献的广泛关注。",
+    "url": "https://www.bestblogs.dev/article/e04c586efc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 山宗",
+    "topic": "媒体资讯",
+    "date": "2026-11-21",
+    "badge": "model"
+  },
+  {
+    "title": "华为 OSTA 星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+    "summary": "华为推出首款鸿蒙 AI 手机 OSTA O1 Pro，采用阔直屏设计并搭载「小艺 AI 屏」，实现从手动交互向指令式 AI 代理的转变，展现 AI 在手机生态中的深度应用。",
+    "url": "https://www.bestblogs.dev/article/27f1e1f7f5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 爱范儿",
+    "topic": "人工智能",
+    "date": "2026-11-21",
+    "badge": "featured"
+  },
+  {
     "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
     "summary": "理想汽车自研的马赫 M100 芯片通过动态数据流架构突破传统芯片的内存瓶颈，将算力利用率提升至 82% 以上，为智能驾驶提供更快的响应速度，使车辆在复杂路况下表现得更像人类驾驶。",
     "url": "https://www.bestblogs.dev/article/15829a8876?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -27,6 +45,24 @@
     "badge": "model"
   },
   {
+    "title": "米哈游发了个 VLA 论文",
+    "summary": "米哈游发布 Gamer——基于 Qwen3-VL-8B 的通用视觉-语言-动作模型，实现 AI 自主玩耍《崩坏：星穹铁道》，并通过跨游戏训练、稀疏思考和记忆摘要等技术，支持长流程实时操作，最终在 50 小时评估中实现 95%以上自主运行时间。",
+    "url": "https://www.bestblogs.dev/article/6cf4be163c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 衡宇",
+    "topic": "人工智能",
+    "date": "2026-11-20",
+    "badge": "model"
+  },
+  {
+    "title": "基于 LLM Wiki、OKF 与 Git 的 Agent 知识库：淘宝直播互动团队的 AI Coding 实践 – AI 星球",
+    "summary": "淘宝直播互动团队构建 LiveX Wiki 知识库，融合 LLM Wiki、OKF 与 Git，以域-场景-知识三层结构提升 AI Coding Agent 对复杂业务代码的理解与产出质量，实测中显著改善代码交付效果。",
+    "url": "https://www.bestblogs.dev/article/e9413e5c0e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / aixq.cc",
+    "topic": "人工智能",
+    "date": "2026-11-20",
+    "badge": "agent"
+  },
+  {
     "title": "基于 LLM Wiki、OKF 与 Git 的 Agent 知识库：淘宝直播互动团队的 AI Coding 实践",
     "summary": "本文介绍了淘宝直播互动团队构建的 LiveX Wiki——一种面向 AI Coding Agent 的知识库方案，通过 LLM Wiki 编纂业务理解、OKF 表达知识结构、Git 管理版本，按域-场景-知识三层组织跨端跨仓业务经验，显著提升代码产出质量。",
     "url": "https://www.bestblogs.dev/article/844f8eba8d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "软件编程",
     "date": "2026-11-20",
     "badge": "agent"
-  },
-  {
-    "title": "直播观察（三）：谁在直播间当榜一大哥，他们为什么掏钱？",
-    "summary": "本文通过大规模数据收集与 AI 分析，揭示 B 站直播间的打赏实情：超 99%的新客不走完传统漏斗，真正贡献 85.9%流水的核心大哥是普通上班族和学生，且消费动因是身份认同与社交需求，而非财富。",
-    "url": "https://www.bestblogs.dev/article/ffc63fd24e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / grapeot",
-    "topic": "商业科技",
-    "date": "2026-11-20",
-    "badge": "featured"
-  },
-  {
-    "title": "Hy4 正式版开源：多模态 MoE，770B 激活 49B，首次新增视觉能力！",
-    "summary": "腾讯混元开源 Hy4 正式版多模态 MoE 模型，770B 总参数仅激活 49B，首次实现视觉理解与电脑操作能力，提供对话、基座及 FP8 量化三个版本。",
-    "url": "https://www.bestblogs.dev/article/f54f3f14d0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 魔搭ModelScope社区",
-    "topic": "人工智能",
-    "date": "2026-11-20",
-    "badge": "model"
-  },
-  {
-    "title": "从杭州走出的世界大师，70 余年后终于回家了！",
-    "summary": "朱德群这位留法三剑客，以融合西方抽象油彩与东方水墨的独特艺术风格，70 余年后重返母校杭州，展出 260 余件作品，回顾他从杭州艺专出发、历经抗战、欧洲艺术世态，最终以光色世界为核心的卓越艺术贡献。",
-    "url": "https://www.bestblogs.dev/article/f0e7660770?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 一条",
-    "topic": "生活文化",
-    "date": "2026-11-20",
-    "badge": "featured"
-  },
-  {
-    "title": "详讯｜习近平主持中俄美元首会晤",
-    "summary": "习近平在深圳主持历史上首次中俄美元首会晤，提出相互尊重、和平共处、合作共赢、对话协商四点看法，旨在维护世界和平与大国关系战略稳定。",
-    "url": "https://www.bestblogs.dev/article/b9822aa337?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人民日报",
-    "topic": "媒体资讯",
-    "date": "2026-11-19",
-    "badge": "featured"
   }
 ]
