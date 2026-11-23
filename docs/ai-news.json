@@ -1,5 +1,59 @@
 [
   {
+    "title": "大模型开始「自己改写自己」了：不用训练，越改越强",
+    "summary": "文章介绍了语言模型通过自我改写权重实现自我进化的能力，使得 27B 模型在未见题上准确率提升 6.6 个点，修复受损模型并恢复到 83%性能，凸显大模型具备递归自我改进的涌现能力。",
+    "url": "https://www.bestblogs.dev/article/999f567f0e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / PaperWeekly",
+    "topic": "人工智能",
+    "date": "2026-11-22",
+    "badge": "model"
+  },
+  {
+    "title": "起底“创业投资”骗局（上）： 熟人社交里的“致富”陷阱",
+    "summary": "警方揭露“共创辉煌”项目是典型传销骗局，利用熟人社交链条诈骗数千人，涉案金额超 2.39 亿元，核心是分钱游戏和层级裂变模式。",
+    "url": "https://www.bestblogs.dev/article/59d5311b6f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 央广网",
+    "topic": "媒体资讯",
+    "date": "2026-11-22",
+    "badge": "featured"
+  },
+  {
+    "title": "中国 AI 大迁徙",
+    "summary": "文章通过历史类比与现实案例，揭示中国 AI 大模型在算力围堵下的跨境迁徙现象，以及国产化攻坚与北部算力枢纽布局的双重策略。",
+    "url": "https://www.bestblogs.dev/article/e86d7da7e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅星人Pro",
+    "topic": "人工智能",
+    "date": "2026-11-22",
+    "badge": "model"
+  },
+  {
+    "title": "当薛甄珠成为“可计算的经典”：AI 如何重组我们的文化记忆",
+    "summary": "本文探讨了生成式 AI 如何重构文化记忆，分析了薛甄珠作为\"可计算的经典\"的再生产机制，揭示了生成权的扩散与集中、概率塑造记忆的张力，以及 AI 时代大众创作的权力结构。",
+    "url": "https://www.bestblogs.dev/article/d4de085005?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 澎湃思想市场",
+    "topic": "媒体资讯",
+    "date": "2026-11-22",
+    "badge": "featured"
+  },
+  {
+    "title": "专访大晓吕健勤：Mundo 给机器人造一个能试错的世界",
+    "summary": "专访大晓吕健勤：阐述 Mundo 世界模型如何通过组合式扩展解决单体大模型在机器人具身智能中的算力成本与速度瓶颈，构建虚拟练兵场实现商业落地。",
+    "url": "https://www.bestblogs.dev/article/bffd36c425?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-11-22",
+    "badge": "model"
+  },
+  {
+    "title": "AI 发展到今天，人文研究的“手搓”会慢慢消失吗？｜专访徐贲",
+    "summary": "专访徐贲，探讨 AI 深度介入后人文写作的边界、判断力存续与知识公共性，提出人机协同需重视诚信与责任。",
+    "url": "https://www.bestblogs.dev/article/eb926dab11?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新京报书评周刊",
+    "topic": "人工智能",
+    "date": "2026-11-22",
+    "badge": "featured"
+  },
+  {
     "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
     "summary": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作，找到了黎曼猜想的证明，并进一步证明了广义黎曼猜想，首次以 Lean 形式化证明语言公开，引发数学界对 AI 在前沿数学研究中的突破性贡献的广泛关注。",
     "url": "https://www.bestblogs.dev/article/e04c586efc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -9,66 +63,12 @@
     "badge": "model"
   },
   {
-    "title": "华为 OSTA 星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
-    "summary": "华为推出首款鸿蒙 AI 手机 OSTA O1 Pro，采用阔直屏设计并搭载「小艺 AI 屏」，实现从手动交互向指令式 AI 代理的转变，展现 AI 在手机生态中的深度应用。",
-    "url": "https://www.bestblogs.dev/article/27f1e1f7f5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 爱范儿",
+    "title": "万字长文！从 Staleness 控制谈起：大模型异步 RL 框架的设计与权衡",
+    "summary": "本文系统阐述了异步强化学习（RL）框架中 staleness（陈旧度）控制的核心问题，分析了现有框架的控制机制及其局限，提出一种基于 Reserve--Occupy 协议的灵活控制方案，旨在在保证 staleness 上限的同时减少数据丢弃和停等的开销。",
+    "url": "https://www.bestblogs.dev/article/2938908763?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 青稞AI",
     "topic": "人工智能",
     "date": "2026-11-21",
-    "badge": "featured"
-  },
-  {
-    "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
-    "summary": "理想汽车自研的马赫 M100 芯片通过动态数据流架构突破传统芯片的内存瓶颈，将算力利用率提升至 82% 以上，为智能驾驶提供更快的响应速度，使车辆在复杂路况下表现得更像人类驾驶。",
-    "url": "https://www.bestblogs.dev/article/15829a8876?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 李华",
-    "topic": "媒体资讯",
-    "date": "2026-11-20",
-    "badge": "featured"
-  },
-  {
-    "title": "给 Gemini 道歉，请自觉排队",
-    "summary": "文章通过半导体机构 SemiAnalysis 的「道歉表」事件，揭示了 Google 在 2026 年通过组织调整、算力集中和创新的后训练体系，成功让 Gemini 4 系列模型在八周内连续推出四款新品，重返 AI 模型竞争前列。",
-    "url": "https://www.bestblogs.dev/article/f8a055a9cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张子豪",
-    "topic": "媒体资讯",
-    "date": "2026-11-20",
     "badge": "model"
-  },
-  {
-    "title": "突发｜黎曼猜想或被 AI 和数学家联手证明，Claude 立大功",
-    "summary": "数学家 Levent Alpöge 宣布与 AI 模型 Claude 合作，声称找到了黎曼猜想和广义黎曼猜想的证明，标志着 AI 在前沿数学研究中的突破性进展。",
-    "url": "https://www.bestblogs.dev/article/4269b98eb4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 爱范儿",
-    "topic": "人工智能",
-    "date": "2026-11-20",
-    "badge": "model"
-  },
-  {
-    "title": "米哈游发了个 VLA 论文",
-    "summary": "米哈游发布 Gamer——基于 Qwen3-VL-8B 的通用视觉-语言-动作模型，实现 AI 自主玩耍《崩坏：星穹铁道》，并通过跨游戏训练、稀疏思考和记忆摘要等技术，支持长流程实时操作，最终在 50 小时评估中实现 95%以上自主运行时间。",
-    "url": "https://www.bestblogs.dev/article/6cf4be163c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 衡宇",
-    "topic": "人工智能",
-    "date": "2026-11-20",
-    "badge": "model"
-  },
-  {
-    "title": "基于 LLM Wiki、OKF 与 Git 的 Agent 知识库：淘宝直播互动团队的 AI Coding 实践 – AI 星球",
-    "summary": "淘宝直播互动团队构建 LiveX Wiki 知识库，融合 LLM Wiki、OKF 与 Git，以域-场景-知识三层结构提升 AI Coding Agent 对复杂业务代码的理解与产出质量，实测中显著改善代码交付效果。",
-    "url": "https://www.bestblogs.dev/article/e9413e5c0e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / aixq.cc",
-    "topic": "人工智能",
-    "date": "2026-11-20",
-    "badge": "agent"
-  },
-  {
-    "title": "基于 LLM Wiki、OKF 与 Git 的 Agent 知识库：淘宝直播互动团队的 AI Coding 实践",
-    "summary": "本文介绍了淘宝直播互动团队构建的 LiveX Wiki——一种面向 AI Coding Agent 的知识库方案，通过 LLM Wiki 编纂业务理解、OKF 表达知识结构、Git 管理版本，按域-场景-知识三层组织跨端跨仓业务经验，显著提升代码产出质量。",
-    "url": "https://www.bestblogs.dev/article/844f8eba8d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-11-20",
-    "badge": "agent"
   }
 ]
