@@ -1,74 +1,74 @@
 [
   {
-    "title": "大模型开始「自己改写自己」了：不用训练，越改越强",
-    "summary": "文章介绍了语言模型通过自我改写权重实现自我进化的能力，使得 27B 模型在未见题上准确率提升 6.6 个点，修复受损模型并恢复到 83%性能，凸显大模型具备递归自我改进的涌现能力。",
-    "url": "https://www.bestblogs.dev/article/999f567f0e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / PaperWeekly",
-    "topic": "人工智能",
-    "date": "2026-11-22",
-    "badge": "model"
-  },
-  {
-    "title": "起底“创业投资”骗局（上）： 熟人社交里的“致富”陷阱",
-    "summary": "警方揭露“共创辉煌”项目是典型传销骗局，利用熟人社交链条诈骗数千人，涉案金额超 2.39 亿元，核心是分钱游戏和层级裂变模式。",
-    "url": "https://www.bestblogs.dev/article/59d5311b6f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央广网",
+    "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
+    "summary": "iPhone 相机掌门人乔恩·麦考马克退休，这位将算法革新摄影、又坚守摄影伦理的摄影师，其八年间塑造的「果味」影像风格及其对真实性的坚持，正在面临组织架构变更与生成式 AI 浪潮的双重挑战，迫使苹果在后麦考马克时代重新审视手机影像的核心价值。",
+    "url": "https://www.bestblogs.dev/article/06711b83df?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 方俊鸣",
     "topic": "媒体资讯",
-    "date": "2026-11-22",
+    "date": "2026-11-24",
     "badge": "featured"
   },
   {
-    "title": "中国 AI 大迁徙",
-    "summary": "文章通过历史类比与现实案例，揭示中国 AI 大模型在算力围堵下的跨境迁徙现象，以及国产化攻坚与北部算力枢纽布局的双重策略。",
-    "url": "https://www.bestblogs.dev/article/e86d7da7e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅星人Pro",
+    "title": "Personal Agent 闭门会的 48 条笔记",
+    "summary": "文章梳理了 Personal Agent 在产品边界、数据需求、主动性个性化以及商业模式等方面的核心观察，揭示了其如何重塑生活方式和互联网格局。",
+    "url": "https://www.bestblogs.dev/article/0dbc431f89?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 海外独角兽",
+    "topic": "商业科技",
+    "date": "2026-11-23",
+    "badge": "agent"
+  },
+  {
+    "title": "GLM-5.4：瞄向泛 Coding，首个 Loop Transformer 带来的惊喜",
+    "summary": "智谱发布 GLM-5.4，首个采用 Loop Transformer 架构的旗舰模型，实现 2-3T 级智能水平，开启泛 Coding 时代，支持代码生成视频、3D 建模等多场景应用。",
+    "url": "https://www.bestblogs.dev/article/b1dc1b415a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 智谱",
     "topic": "人工智能",
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "badge": "model"
   },
   {
-    "title": "当薛甄珠成为“可计算的经典”：AI 如何重组我们的文化记忆",
-    "summary": "本文探讨了生成式 AI 如何重构文化记忆，分析了薛甄珠作为\"可计算的经典\"的再生产机制，揭示了生成权的扩散与集中、概率塑造记忆的张力，以及 AI 时代大众创作的权力结构。",
-    "url": "https://www.bestblogs.dev/article/d4de085005?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 澎湃思想市场",
-    "topic": "媒体资讯",
-    "date": "2026-11-22",
+    "title": "50GB 工作区秒级可访问，腾讯 EROX 破解 Agent 恢复难题",
+    "summary": "文章详解了腾讯 EROX 统一数据面的设计与实现，通过懒加载、P2P 分发、读写分离和增量快照机制，实现了 50GB 工作区秒级挂载，显著缩短 Agent 冷启动时间，解决了有状态 Agent 跨会话、跨节点的状态延续问题。",
+    "url": "https://www.bestblogs.dev/article/5f2b83d0cb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "软件编程",
+    "date": "2026-11-23",
+    "badge": "agent"
+  },
+  {
+    "title": "当智力可以被计量：我们熟悉的规则会被怎样被改写？",
+    "summary": "AI 正在重构社会经济运行规则，从技术、成本、责任和制度四个维度探讨智力可计量化对版权、UBI、教育、就业及人类精神状态的深层影响。",
+    "url": "https://www.bestblogs.dev/article/ea86c2ae35?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-11-23",
     "badge": "featured"
   },
   {
-    "title": "专访大晓吕健勤：Mundo 给机器人造一个能试错的世界",
-    "summary": "专访大晓吕健勤：阐述 Mundo 世界模型如何通过组合式扩展解决单体大模型在机器人具身智能中的算力成本与速度瓶颈，构建虚拟练兵场实现商业落地。",
-    "url": "https://www.bestblogs.dev/article/bffd36c425?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-11-22",
-    "badge": "model"
+    "title": "当设计经验开始自我进化：TaoDesign 的探索与实践",
+    "summary": "本文介绍了淘天团队构建的原生 AI 设计工具 TaoDesign，通过自建画板、端云沙箱架构和确定性源码处理机制，显著降低跨表示层转换损耗，提升 AI 辅助设计的生成效率与准确性。",
+    "url": "https://www.bestblogs.dev/article/eb71d62f48?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-11-23",
+    "badge": "tooling"
   },
   {
-    "title": "AI 发展到今天，人文研究的“手搓”会慢慢消失吗？｜专访徐贲",
-    "summary": "专访徐贲，探讨 AI 深度介入后人文写作的边界、判断力存续与知识公共性，提出人机协同需重视诚信与责任。",
-    "url": "https://www.bestblogs.dev/article/eb926dab11?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新京报书评周刊",
-    "topic": "人工智能",
-    "date": "2026-11-22",
+    "title": "大概是今年最打动我的一场对谈",
+    "summary": "本文通过与台湾作家童伟格的深度对谈，探讨了文学在时代边缘化与 AI 冲击下的价值、写作的伦理责任以及作者如何在面对存在的根本困境时坚持创作。",
+    "url": "https://www.bestblogs.dev/article/af8976a565?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 理想国imaginist",
+    "topic": "生活文化",
+    "date": "2026-11-23",
     "badge": "featured"
   },
   {
-    "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
-    "summary": "Anthropic 数学家 Levent Alpöge 宣布与 Claude 合作，找到了黎曼猜想的证明，并进一步证明了广义黎曼猜想，首次以 Lean 形式化证明语言公开，引发数学界对 AI 在前沿数学研究中的突破性贡献的广泛关注。",
-    "url": "https://www.bestblogs.dev/article/e04c586efc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 山宗",
-    "topic": "媒体资讯",
-    "date": "2026-11-21",
-    "badge": "model"
-  },
-  {
-    "title": "万字长文！从 Staleness 控制谈起：大模型异步 RL 框架的设计与权衡",
-    "summary": "本文系统阐述了异步强化学习（RL）框架中 staleness（陈旧度）控制的核心问题，分析了现有框架的控制机制及其局限，提出一种基于 Reserve--Occupy 协议的灵活控制方案，旨在在保证 staleness 上限的同时减少数据丢弃和停等的开销。",
-    "url": "https://www.bestblogs.dev/article/2938908763?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 青稞AI",
+    "title": "Agent 大评测指南：一门纯粹的实践学科",
+    "summary": "本文系统性阐述了 Agent 评测的定义、方法论及实践要领，强调可观测性和主观判断的重要性，并提出四条核心经验指导 Agent System 评测设计。",
+    "url": "https://www.bestblogs.dev/article/a84100cf44?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 葬AI",
     "topic": "人工智能",
-    "date": "2026-11-21",
-    "badge": "model"
+    "date": "2026-11-23",
+    "badge": "agent"
   }
 ]
