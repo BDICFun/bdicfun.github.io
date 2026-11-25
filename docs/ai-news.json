@@ -9,66 +9,66 @@
     "badge": "featured"
   },
   {
-    "title": "Personal Agent 闭门会的 48 条笔记",
-    "summary": "文章梳理了 Personal Agent 在产品边界、数据需求、主动性个性化以及商业模式等方面的核心观察，揭示了其如何重塑生活方式和互联网格局。",
-    "url": "https://www.bestblogs.dev/article/0dbc431f89?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 海外独角兽",
-    "topic": "商业科技",
-    "date": "2026-11-23",
-    "badge": "agent"
-  },
-  {
-    "title": "GLM-5.4：瞄向泛 Coding，首个 Loop Transformer 带来的惊喜",
-    "summary": "智谱发布 GLM-5.4，首个采用 Loop Transformer 架构的旗舰模型，实现 2-3T 级智能水平，开启泛 Coding 时代，支持代码生成视频、3D 建模等多场景应用。",
-    "url": "https://www.bestblogs.dev/article/b1dc1b415a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 智谱",
+    "title": "至高 290 倍提速，谷歌用 AI Gemini 设计的量子算法，已通过数学证明验证",
+    "summary": "Google DeepMind 与 Google Quantum AI 联合运用 Gemini 4 智能体团队和 Lean 形式化验证工具，自动发现并验证量子算法，实现特定算术运算最高提速 290 倍，科学模拟问题资源成本降低显著。",
+    "url": "https://www.bestblogs.dev/article/bf3a198973?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 量子客",
     "topic": "人工智能",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "badge": "model"
   },
   {
-    "title": "50GB 工作区秒级可访问，腾讯 EROX 破解 Agent 恢复难题",
-    "summary": "文章详解了腾讯 EROX 统一数据面的设计与实现，通过懒加载、P2P 分发、读写分离和增量快照机制，实现了 50GB 工作区秒级挂载，显著缩短 Agent 冷启动时间，解决了有状态 Agent 跨会话、跨节点的状态延续问题。",
-    "url": "https://www.bestblogs.dev/article/5f2b83d0cb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-11-23",
+    "title": "大模型数据的隐秘江湖",
+    "summary": "本文深入剖析了 AI 后训练数据产业的暴涨与乱象，揭示了数据供需错配、外部数商靠关系暴富、榜单作弊、隐私交易等黑暗现象，以及中国数据生态面临的挑战与出路。",
+    "url": "https://www.bestblogs.dev/article/2f1773eead?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "人工智能",
+    "date": "2026-11-24",
+    "badge": "model"
+  },
+  {
+    "title": "RSInfer：首个 RSI 原生 LLM 推理引擎，秒级多卡热更新，真实 Agent 吞吐超越 DeepInfer",
+    "summary": "RSInfer 是首个面向递归自我改进（RSI）的 LLM 推理引擎，实现秒级多卡热更新，实测显示其在 DeepSeek-V4.1-Flash-1017 上超越 DeepInfer，Agent 吞吐提升 25.6%--31.8%。",
+    "url": "https://www.bestblogs.dev/article/06786d6fb9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / GiantPandaLLM",
+    "topic": "人工智能",
+    "date": "2026-11-24",
     "badge": "agent"
   },
   {
-    "title": "当智力可以被计量：我们熟悉的规则会被怎样被改写？",
-    "summary": "AI 正在重构社会经济运行规则，从技术、成本、责任和制度四个维度探讨智力可计量化对版权、UBI、教育、就业及人类精神状态的深层影响。",
-    "url": "https://www.bestblogs.dev/article/ea86c2ae35?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-11-23",
-    "badge": "featured"
-  },
-  {
-    "title": "当设计经验开始自我进化：TaoDesign 的探索与实践",
-    "summary": "本文介绍了淘天团队构建的原生 AI 设计工具 TaoDesign，通过自建画板、端云沙箱架构和确定性源码处理机制，显著降低跨表示层转换损耗，提升 AI 辅助设计的生成效率与准确性。",
-    "url": "https://www.bestblogs.dev/article/eb71d62f48?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-11-23",
-    "badge": "tooling"
-  },
-  {
-    "title": "大概是今年最打动我的一场对谈",
-    "summary": "本文通过与台湾作家童伟格的深度对谈，探讨了文学在时代边缘化与 AI 冲击下的价值、写作的伦理责任以及作者如何在面对存在的根本困境时坚持创作。",
-    "url": "https://www.bestblogs.dev/article/af8976a565?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 理想国imaginist",
-    "topic": "生活文化",
-    "date": "2026-11-23",
-    "badge": "featured"
-  },
-  {
-    "title": "Agent 大评测指南：一门纯粹的实践学科",
-    "summary": "本文系统性阐述了 Agent 评测的定义、方法论及实践要领，强调可观测性和主观判断的重要性，并提出四条核心经验指导 Agent System 评测设计。",
-    "url": "https://www.bestblogs.dev/article/a84100cf44?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 葬AI",
+    "title": "对话汝原科技王铭钰：离开大疆七年，吹风机成功后，我们选择重做 UV 打印机",
+    "summary": "王铭钰在大疆七年后创办汝原科技，通过红外热辐射重做吹风机、三原色染发机，再回归做桌面 UV 打印机 Morpho，凭借全封闭安全舱、内置光谱仪和自研低气味墨水，实现 5-10 倍打印速度与 2400 DPI 分辨率，成功突破传统工业 UV 打印机的气味、体积和维护难题。",
+    "url": "https://www.bestblogs.dev/article/a901cbeda3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
     "topic": "人工智能",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
+    "badge": "featured"
+  },
+  {
+    "title": "78 岁，仍在“峡谷”里战斗｜银发玩家",
+    "summary": "78 岁刘淑华等老年玩家走出闲适，走进电竞战队，展现了银发群体对新兴娱乐与社交活动的积极参与，以及年龄与活力并存的生活态度。",
+    "url": "https://www.bestblogs.dev/article/64ab379de0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方周末",
+    "topic": "媒体资讯",
+    "date": "2026-11-24",
+    "badge": "featured"
+  },
+  {
+    "title": "继黎曼猜想后，Claude 给出 VP≠VNP 证明！通过 Lean 4 形式化验证",
+    "summary": "Anthropic 通过 Claude 发现并形式化证明了 VP ≠ VNP，即在所有域上算术电路计算永久式需要超多项式规模，突破了 47 年的计算复杂度下界问题。",
+    "url": "https://www.bestblogs.dev/article/e555a32c16?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 机器之心",
+    "topic": "人工智能",
+    "date": "2026-11-24",
+    "badge": "model"
+  },
+  {
+    "title": "从提示词优化到决策模型：Jev 辅助业务 Agent 技能路由的探索与落地",
+    "summary": "文章探讨了如何通过 Jev 决策模型辅助业务 Agent 实现技能路由优化，结合实验数据验证了候选推荐与主 Agent 决策的协同作用，最终选定 Jevify 方案以提升路由准确率和响应速度。",
+    "url": "https://www.bestblogs.dev/article/ce719d2958?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "软件编程",
+    "date": "2026-11-24",
     "badge": "agent"
   }
 ]
