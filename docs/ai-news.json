@@ -1,74 +1,74 @@
 [
   {
-    "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
-    "summary": "iPhone 相机掌门人乔恩·麦考马克退休，这位将算法革新摄影、又坚守摄影伦理的摄影师，其八年间塑造的「果味」影像风格及其对真实性的坚持，正在面临组织架构变更与生成式 AI 浪潮的双重挑战，迫使苹果在后麦考马克时代重新审视手机影像的核心价值。",
-    "url": "https://www.bestblogs.dev/article/06711b83df?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 方俊鸣",
-    "topic": "媒体资讯",
-    "date": "2026-11-24",
+    "title": "2026，AI 带来的冲击与变化",
+    "summary": "沈向洋年终演讲聚焦 AI 折叠时代，围绕编程语言、AI 安全、具身智能与科研组织变革四大维度，阐释 AI 如何重塑计算机科学基石及产业生态。",
+    "url": "https://www.bestblogs.dev/article/25081b5903?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-11-25",
+    "badge": "tooling"
+  },
+  {
+    "title": "黄仁勋的“光”：详解 AI 算力背后的光通信产业链、英伟达赌注与技术博弈",
+    "summary": "本文深入解析 AI 数据中心光通信技术的演进，从物理原理到产业链格局，阐释英伟达为突破 GPU 通信瓶颈而大举布局光互连的战略逻辑，以及 CPO 等新技术如何重塑行业生态。",
+    "url": "https://www.bestblogs.dev/article/876b75e45c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "人工智能",
+    "date": "2026-11-25",
     "badge": "featured"
   },
   {
-    "title": "至高 290 倍提速，谷歌用 AI Gemini 设计的量子算法，已通过数学证明验证",
-    "summary": "Google DeepMind 与 Google Quantum AI 联合运用 Gemini 4 智能体团队和 Lean 形式化验证工具，自动发现并验证量子算法，实现特定算术运算最高提速 290 倍，科学模拟问题资源成本降低显著。",
-    "url": "https://www.bestblogs.dev/article/bf3a198973?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 量子客",
+    "title": "AIGC 原生视频的双螺旋 Loop Engineering 实践",
+    "summary": "本文介绍了百度基于 Hermes Agent 构建的 Loopy 双螺旋系统，通过分离产线修复与标准演进两条路径，解决了 AIGC 视频产线中裁判成长与被收买的难题，提升了视频可用率至 100%。",
+    "url": "https://www.bestblogs.dev/article/0a21fc8b26?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 百度Geek说",
     "topic": "人工智能",
-    "date": "2026-11-24",
-    "badge": "model"
-  },
-  {
-    "title": "大模型数据的隐秘江湖",
-    "summary": "本文深入剖析了 AI 后训练数据产业的暴涨与乱象，揭示了数据供需错配、外部数商靠关系暴富、榜单作弊、隐私交易等黑暗现象，以及中国数据生态面临的挑战与出路。",
-    "url": "https://www.bestblogs.dev/article/2f1773eead?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "人工智能",
-    "date": "2026-11-24",
-    "badge": "model"
-  },
-  {
-    "title": "RSInfer：首个 RSI 原生 LLM 推理引擎，秒级多卡热更新，真实 Agent 吞吐超越 DeepInfer",
-    "summary": "RSInfer 是首个面向递归自我改进（RSI）的 LLM 推理引擎，实现秒级多卡热更新，实测显示其在 DeepSeek-V4.1-Flash-1017 上超越 DeepInfer，Agent 吞吐提升 25.6%--31.8%。",
-    "url": "https://www.bestblogs.dev/article/06786d6fb9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / GiantPandaLLM",
-    "topic": "人工智能",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "badge": "agent"
   },
   {
-    "title": "对话汝原科技王铭钰：离开大疆七年，吹风机成功后，我们选择重做 UV 打印机",
-    "summary": "王铭钰在大疆七年后创办汝原科技，通过红外热辐射重做吹风机、三原色染发机，再回归做桌面 UV 打印机 Morpho，凭借全封闭安全舱、内置光谱仪和自研低气味墨水，实现 5-10 倍打印速度与 2400 DPI 分辨率，成功突破传统工业 UV 打印机的气味、体积和维护难题。",
-    "url": "https://www.bestblogs.dev/article/a901cbeda3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
+    "title": "一句话让 AI 创造 3D 世界：小红书开源 3DCodeFactory",
+    "summary": "小红书开源了 3DCodeFactory 框架和 5.52B token 的 3D 编程数据集，显著提升了基于 Qwen3.8-27B 的 3D 代码生成模型在复杂场景构建与交互开发方面的性能。",
+    "url": "https://www.bestblogs.dev/article/0df8702ea1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
     "topic": "人工智能",
-    "date": "2026-11-24",
-    "badge": "featured"
+    "date": "2026-11-25",
+    "badge": "model"
   },
   {
-    "title": "78 岁，仍在“峡谷”里战斗｜银发玩家",
-    "summary": "78 岁刘淑华等老年玩家走出闲适，走进电竞战队，展现了银发群体对新兴娱乐与社交活动的积极参与，以及年龄与活力并存的生活态度。",
-    "url": "https://www.bestblogs.dev/article/64ab379de0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "CodeBuddy 三位一体 AI 全栈开发落地实践",
+    "summary": "文章详解了腾讯 CodeBuddy 团队在 AI 全栈开发中落地的实践方法，通过 requirements-grilling、ADR、behavior-spec、vertical-slice-build、evidence-debugging 和 context-handoff 等六大工程实践技能，实现了从需求澄清到交付验收的完整闭环，显著提升了全栈开发的可靠性和反馈效率。",
+    "url": "https://www.bestblogs.dev/article/522a4f6778?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "软件编程",
+    "date": "2026-11-25",
+    "badge": "tooling"
+  },
+  {
+    "title": "30 年，重新认识乐山",
+    "summary": "30 年沉淀的乐山双遗产保护实践，展现了以审慎守护本体、以开放拥抱技术、以制度厘清边界、以人间烟火延续生活的融合之道。",
+    "url": "https://www.bestblogs.dev/article/ae38ba0e86?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 南方周末",
     "topic": "媒体资讯",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "badge": "featured"
   },
   {
-    "title": "继黎曼猜想后，Claude 给出 VP≠VNP 证明！通过 Lean 4 形式化验证",
-    "summary": "Anthropic 通过 Claude 发现并形式化证明了 VP ≠ VNP，即在所有域上算术电路计算永久式需要超多项式规模，突破了 47 年的计算复杂度下界问题。",
-    "url": "https://www.bestblogs.dev/article/e555a32c16?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 机器之心",
-    "topic": "人工智能",
-    "date": "2026-11-24",
-    "badge": "model"
+    "title": "做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？",
+    "summary": "文章探讨了蚂蚁 OceanBase 为 AI 时代推出湖库一体数据平台 OceanLake 的背景、技术方案及其在解决 Agent 应用数据挑战方面的价值，包括数据分支、逻辑表、多模混搜等关键设计。",
+    "url": "https://www.bestblogs.dev/article/cc349c4cbf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "软件编程",
+    "date": "2026-11-25",
+    "badge": "agent"
   },
   {
-    "title": "从提示词优化到决策模型：Jev 辅助业务 Agent 技能路由的探索与落地",
-    "summary": "文章探讨了如何通过 Jev 决策模型辅助业务 Agent 实现技能路由优化，结合实验数据验证了候选推荐与主 Agent 决策的协同作用，最终选定 Jevify 方案以提升路由准确率和响应速度。",
-    "url": "https://www.bestblogs.dev/article/ce719d2958?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "软件编程",
-    "date": "2026-11-24",
-    "badge": "agent"
+    "title": "Hy4 flash 本地部署：让大模型跑在个人设备上",
+    "summary": "腾讯混元通过 AngelSlim 工具箱开源 Hy4 flash 量化模型，实现 224B 参数模型在个人设备上的部署，支持多种量化版本并在实测中达到每秒 89 个 token 的生成速度。",
+    "url": "https://www.bestblogs.dev/article/845d65361f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯混元",
+    "topic": "人工智能",
+    "date": "2026-11-25",
+    "badge": "model"
   }
 ]
