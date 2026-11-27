@@ -1,73 +1,73 @@
 [
   {
-    "title": "2026，AI 带来的冲击与变化",
-    "summary": "沈向洋年终演讲聚焦 AI 折叠时代，围绕编程语言、AI 安全、具身智能与科研组织变革四大维度，阐释 AI 如何重塑计算机科学基石及产业生态。",
-    "url": "https://www.bestblogs.dev/article/25081b5903?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-11-25",
+    "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
+    "summary": "本期周刊聚焦 AI 行业的‘疯狂造富’现象，通过 Anthropic 上市案例揭示 AI 人才财富迅速增长的趋势，同时分享防截图功能、重力通信、指纹鼠标等前沿科技动态。",
+    "url": "https://www.bestblogs.dev/article/a0979bf975?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "软件编程",
+    "date": "2026-11-27",
     "badge": "tooling"
   },
   {
-    "title": "黄仁勋的“光”：详解 AI 算力背后的光通信产业链、英伟达赌注与技术博弈",
-    "summary": "本文深入解析 AI 数据中心光通信技术的演进，从物理原理到产业链格局，阐释英伟达为突破 GPU 通信瓶颈而大举布局光互连的战略逻辑，以及 CPO 等新技术如何重塑行业生态。",
-    "url": "https://www.bestblogs.dev/article/876b75e45c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
+    "title": "智能体身份与授权：智能体生态的信任底座",
+    "summary": "本文阐述了智能体身份与授权的六大核心原则，提出独立身份、动态令牌、最小授权、链式委托、审计存证和运行隔离六大安全治理措施，为智能体时代构建可信任的安全基础设施。",
+    "url": "https://www.bestblogs.dev/article/5a0c0a9159?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
     "topic": "人工智能",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "badge": "featured"
   },
   {
-    "title": "AIGC 原生视频的双螺旋 Loop Engineering 实践",
-    "summary": "本文介绍了百度基于 Hermes Agent 构建的 Loopy 双螺旋系统，通过分离产线修复与标准演进两条路径，解决了 AIGC 视频产线中裁判成长与被收买的难题，提升了视频可用率至 100%。",
-    "url": "https://www.bestblogs.dev/article/0a21fc8b26?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 百度Geek说",
+    "title": "破解 AI 时代的智力产能过剩",
+    "summary": "文章分析 AI 时代出现的智力产能过剩问题，提出将机器智力向物理产品和现场服务延伸，以找到不受注意力约束的需求载体，化解该风险。",
+    "url": "https://www.bestblogs.dev/article/6e8cbb3f8a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-11-26",
+    "badge": "featured"
+  },
+  {
+    "title": "让 Hy4 flash 吐字提速 4.2 倍，混元 DFly2 开源",
+    "summary": "腾讯混元开源 DFly2 草稿模型，通过极致复用目标模型的 KV cache 和稀疏索引，在保持 Hy4 flash 权重不变的前提下，将长上下文场景下的吐字速度提升最高 4.2 倍。",
+    "url": "https://www.bestblogs.dev/article/5aa795d334?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯混元",
     "topic": "人工智能",
-    "date": "2026-11-25",
+    "date": "2026-11-26",
+    "badge": "model"
+  },
+  {
+    "title": "全球线上老系统不用再维护了，一年内全得用 AI 重写？一位写代码二十多年的千亿公司 CEO 最新判断",
+    "summary": "Shopify CEO Tobi Lütke 宣称未来 6-12 个月内，全球生产环境中人类手写的代码将大规模被 AI 重写，他通过形式化验证和 Agent 重构实现了软件性能提升百倍、接近零 Bug，并分享了多个基于 AI 的实践案例。",
+    "url": "https://www.bestblogs.dev/article/4fd1b75f96?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "软件编程",
+    "date": "2026-11-26",
     "badge": "agent"
   },
   {
-    "title": "一句话让 AI 创造 3D 世界：小红书开源 3DCodeFactory",
-    "summary": "小红书开源了 3DCodeFactory 框架和 5.52B token 的 3D 编程数据集，显著提升了基于 Qwen3.8-27B 的 3D 代码生成模型在复杂场景构建与交互开发方面的性能。",
-    "url": "https://www.bestblogs.dev/article/0df8702ea1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
-    "topic": "人工智能",
+    "title": "JEV 决策模型落地 QQ 音乐实践：把决策延迟打到 25ms",
+    "summary": "文章介绍了 Venus 算法团队与 QQ 音乐合作，将 JEV 决策模型应用于实际业务场景，通过数据治理、后训练和部署优化，将决策延迟降至 25ms，显著提升了路由和意图识别准确率。",
+    "url": "https://www.bestblogs.dev/article/0d757730b3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-11-26",
+    "badge": "model"
+  },
+  {
+    "title": "被智能问数折磨 3 个月！发现 LLM 不重要，QueryEngine 才是核心……",
+    "summary": "本文通过复盘智能问数系统从“LLM 搞定一切”到“重构为七层 QueryEngine Pipeline”的踩坑与落地过程，指出 LLM 只是管道中的一个阶段，而有状态、分阶段的 QueryEngine 才是核心架构。",
+    "url": "https://www.bestblogs.dev/article/6566ccdeea?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / dbaplus社群",
+    "topic": "软件编程",
     "date": "2026-11-25",
     "badge": "model"
   },
   {
-    "title": "CodeBuddy 三位一体 AI 全栈开发落地实践",
-    "summary": "文章详解了腾讯 CodeBuddy 团队在 AI 全栈开发中落地的实践方法，通过 requirements-grilling、ADR、behavior-spec、vertical-slice-build、evidence-debugging 和 context-handoff 等六大工程实践技能，实现了从需求澄清到交付验收的完整闭环，显著提升了全栈开发的可靠性和反馈效率。",
-    "url": "https://www.bestblogs.dev/article/522a4f6778?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
+    "title": "我的 AI 编程工作流：赛马、六工位、一箱盲盒-动态资讯-北京联索科技有限公司",
+    "summary": "作者分享基于 AI 的编程工作流方法论，强调模型仅占三成，核心在于如何搭建六个工位的闭环交付流程，从蓝图到验收，实现高效 AI 代码生成与质量控制。",
+    "url": "https://www.bestblogs.dev/article/a965b8dd21?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / lexotech.com",
     "topic": "软件编程",
-    "date": "2026-11-25",
-    "badge": "tooling"
-  },
-  {
-    "title": "30 年，重新认识乐山",
-    "summary": "30 年沉淀的乐山双遗产保护实践，展现了以审慎守护本体、以开放拥抱技术、以制度厘清边界、以人间烟火延续生活的融合之道。",
-    "url": "https://www.bestblogs.dev/article/ae38ba0e86?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-11-25",
-    "badge": "featured"
-  },
-  {
-    "title": "做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？",
-    "summary": "文章探讨了蚂蚁 OceanBase 为 AI 时代推出湖库一体数据平台 OceanLake 的背景、技术方案及其在解决 Agent 应用数据挑战方面的价值，包括数据分支、逻辑表、多模混搜等关键设计。",
-    "url": "https://www.bestblogs.dev/article/cc349c4cbf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "软件编程",
-    "date": "2026-11-25",
-    "badge": "agent"
-  },
-  {
-    "title": "Hy4 flash 本地部署：让大模型跑在个人设备上",
-    "summary": "腾讯混元通过 AngelSlim 工具箱开源 Hy4 flash 量化模型，实现 224B 参数模型在个人设备上的部署，支持多种量化版本并在实测中达到每秒 89 个 token 的生成速度。",
-    "url": "https://www.bestblogs.dev/article/845d65361f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯混元",
-    "topic": "人工智能",
     "date": "2026-11-25",
     "badge": "model"
   }
