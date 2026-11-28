@@ -1,74 +1,74 @@
 [
   {
-    "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
-    "summary": "本期周刊聚焦 AI 行业的‘疯狂造富’现象，通过 Anthropic 上市案例揭示 AI 人才财富迅速增长的趋势，同时分享防截图功能、重力通信、指纹鼠标等前沿科技动态。",
-    "url": "https://www.bestblogs.dev/article/a0979bf975?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
+    "title": "美团电话会：王兴复盘美团优选“重大错误” ，外卖竞争迎来拐点、四季度 UE 将明显改善，明年 AI 资本开支将下降",
+    "summary": "美团 Q3 电话会释放三大信号：外卖竞争趋于理性、UE 将明显改善；王兴承认美团优选犯下重大错误，将加强扩张纪律；AI 资本开支明年预计下降。",
+    "url": "https://www.bestblogs.dev/article/0b4f6b756e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 卜淑情",
+    "topic": "商业科技",
+    "date": "2026-11-27",
+    "badge": "featured"
+  },
+  {
+    "title": "从模仿到自我纠错：Keeta 客服模型的 RSI 实践",
+    "summary": "文章介绍了美团客服场景下的 CARE 方案，通过递归自我改进（RSI）实现模型从上线服务到巡检找错、归因定责、构造修复、在线自蒸馏的闭环迭代，最终将 31B 模型的 Bad Case 率从 6.42%降至 1.97%以下，显著提升用户满意度。",
+    "url": "https://www.bestblogs.dev/article/1274b14562?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
+    "topic": "人工智能",
+    "date": "2026-11-27",
+    "badge": "model"
+  },
+  {
+    "title": "DeepSeek 同一天更新四个底层库：读 DeepGEMM 的一万行改动",
+    "summary": "文章通过拆解 DeepSeek 同一天合并的四个底层库更新（DeepGEMM、DeepGEMM-Ascend、DeepSelect、FlashMLA），详细阐述了 DeepGEMM 2.9.4 版本中 Mega MoE、通用 GEMM、Mega mHC 和实验 kernel 四大模块的具体改动及其背后的技术逻辑。",
+    "url": "https://www.bestblogs.dev/article/246977e759?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / GiantPandaLLM",
+    "topic": "人工智能",
+    "date": "2026-11-27",
+    "badge": "featured"
+  },
+  {
+    "title": "让 SSD 读懂业务优先级——NeoHint 的设计与实践",
+    "summary": "文章介绍了字节跳动服务器 STE 固件团队在 FMS 2026 分享的 NeoHint 技术方案，通过主机与 SSD 协同优先级调度，将业务需求传递至设备端，实现混合负载下的关键 I/O 时延优化。",
+    "url": "https://www.bestblogs.dev/article/6e23c0e21d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
     "topic": "软件编程",
     "date": "2026-11-27",
     "badge": "tooling"
   },
   {
-    "title": "智能体身份与授权：智能体生态的信任底座",
-    "summary": "本文阐述了智能体身份与授权的六大核心原则，提出独立身份、动态令牌、最小授权、链式委托、审计存证和运行隔离六大安全治理措施，为智能体时代构建可信任的安全基础设施。",
-    "url": "https://www.bestblogs.dev/article/5a0c0a9159?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "一个 7B 模型服务冷启动要 2 分半，我们把它压进了 12 秒",
+    "summary": "本文通过剖析 7B 模型冷启动耗时构成，提出「少做一点、并行做一点、做过的事情尽量别重来」三大优化策略，将启动时间从 43 秒压至 12 秒，系统化解决稀疏流量下的模型弹性调度问题。",
+    "url": "https://www.bestblogs.dev/article/ee4854e370?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-11-26",
-    "badge": "featured"
-  },
-  {
-    "title": "破解 AI 时代的智力产能过剩",
-    "summary": "文章分析 AI 时代出现的智力产能过剩问题，提出将机器智力向物理产品和现场服务延伸，以找到不受注意力约束的需求载体，化解该风险。",
-    "url": "https://www.bestblogs.dev/article/6e8cbb3f8a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-11-26",
-    "badge": "featured"
-  },
-  {
-    "title": "让 Hy4 flash 吐字提速 4.2 倍，混元 DFly2 开源",
-    "summary": "腾讯混元开源 DFly2 草稿模型，通过极致复用目标模型的 KV cache 和稀疏索引，在保持 Hy4 flash 权重不变的前提下，将长上下文场景下的吐字速度提升最高 4.2 倍。",
-    "url": "https://www.bestblogs.dev/article/5aa795d334?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯混元",
-    "topic": "人工智能",
-    "date": "2026-11-26",
+    "topic": "软件编程",
+    "date": "2026-11-27",
     "badge": "model"
   },
   {
-    "title": "全球线上老系统不用再维护了，一年内全得用 AI 重写？一位写代码二十多年的千亿公司 CEO 最新判断",
-    "summary": "Shopify CEO Tobi Lütke 宣称未来 6-12 个月内，全球生产环境中人类手写的代码将大规模被 AI 重写，他通过形式化验证和 Agent 重构实现了软件性能提升百倍、接近零 Bug，并分享了多个基于 AI 的实践案例。",
-    "url": "https://www.bestblogs.dev/article/4fd1b75f96?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
+    "title": "AI 时代的数据研发-Semantic（语义层）带来的工业革命",
+    "summary": "本文提出了以语义层、DSL2SQL 和云端 Agent 为基座的 AI 时代数据研发范式，构建从业务语言到可执行查询的闭环系统，推动数据能力前置嵌入业务决策全链路。",
+    "url": "https://www.bestblogs.dev/article/763f0e1328?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
     "topic": "软件编程",
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "badge": "agent"
   },
   {
-    "title": "JEV 决策模型落地 QQ 音乐实践：把决策延迟打到 25ms",
-    "summary": "文章介绍了 Venus 算法团队与 QQ 音乐合作，将 JEV 决策模型应用于实际业务场景，通过数据治理、后训练和部署优化，将决策延迟降至 25ms，显著提升了路由和意图识别准确率。",
-    "url": "https://www.bestblogs.dev/article/0d757730b3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-11-26",
-    "badge": "model"
+    "title": "嘀嘀赢了 Uber，然后呢？滴滴优步合并十年再复盘，当年烧掉上百亿的年轻人，今天怎么评价那场战争？",
+    "summary": "文章复盘了滴滴与 Uber 在中国网约车战争中的博弈，分析了两家公司的策略差异、组织结构、人才流动及其后续的第二增长曲线探索。",
+    "url": "https://www.bestblogs.dev/article/c40827c9c8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 乱翻书",
+    "topic": "商业科技",
+    "date": "2026-11-27",
+    "badge": "featured"
   },
   {
-    "title": "被智能问数折磨 3 个月！发现 LLM 不重要，QueryEngine 才是核心……",
-    "summary": "本文通过复盘智能问数系统从“LLM 搞定一切”到“重构为七层 QueryEngine Pipeline”的踩坑与落地过程，指出 LLM 只是管道中的一个阶段，而有状态、分阶段的 QueryEngine 才是核心架构。",
-    "url": "https://www.bestblogs.dev/article/6566ccdeea?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / dbaplus社群",
-    "topic": "软件编程",
-    "date": "2026-11-25",
-    "badge": "model"
-  },
-  {
-    "title": "我的 AI 编程工作流：赛马、六工位、一箱盲盒-动态资讯-北京联索科技有限公司",
-    "summary": "作者分享基于 AI 的编程工作流方法论，强调模型仅占三成，核心在于如何搭建六个工位的闭环交付流程，从蓝图到验收，实现高效 AI 代码生成与质量控制。",
-    "url": "https://www.bestblogs.dev/article/a965b8dd21?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / lexotech.com",
-    "topic": "软件编程",
-    "date": "2026-11-25",
-    "badge": "model"
+    "title": "车库里有一个女性识字班",
+    "summary": "文章通过车库里的女性识字班案例，揭示了当代中老年女性因语言障碍和生活压力而陷入信息孤岛的境况，以及识字教育如何为他们带来表达权利与社会融入的可能。",
+    "url": "https://www.bestblogs.dev/article/b70ef10d74?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 真实故事计划",
+    "topic": "生活文化",
+    "date": "2026-11-27",
+    "badge": "featured"
   }
 ]
